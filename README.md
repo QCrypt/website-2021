@@ -1,5 +1,7 @@
 # Cloud Native Day Amsterdam 2019 website
 
+[![Build Status](https://dev.azure.com/dpnl87/CloudNative%20Amsterdam/_apis/build/status/cloudnative-amsterdam.public-website?branchName=master)](https://dev.azure.com/dpnl87/CloudNative%20Amsterdam/_build/latest?definitionId=1&branchName=master)
+
 Please join the #nl-users on Kubernetes slack (free invite on slack.k8s.io)
 
 ## Contributing
