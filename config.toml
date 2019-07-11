@@ -1,3 +1,5 @@
+publishDir = "docs"
+
 baseURL = "localhost:1313"
 languageCode = "en"
 title = "Kubernetes Community Days Amsterdam 2019"
