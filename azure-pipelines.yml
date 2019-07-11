@@ -1,0 +1,21 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'vs2017-win2016'
+
+steps:
+- checkout: self
+  displayName: 'Checkout repository including submodules'
+  submodules: true
+
+- task: HugoTask@1
+  displayName: 'Generate Hugo site'
+  inputs:
+    destination: '$(Build.ArtifactStagingDirectory)'
+
+- task: PublishPipelineArtifact@0
+  displayName: 'Publish Hugo site as artifact'
+  inputs:
+    artifactName: 'hugo-site'
+    targetPath: '$(Build.ArtifactStagingDirectory)'
