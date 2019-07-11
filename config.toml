@@ -6,12 +6,11 @@ title = "Kubernetes Community Days Amsterdam 2019"
 theme = "devfest-theme-hugo"
 
 # Params
-
 enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-# googleAnalytics = "UA-37717223-8"
+GoogleAnalytics = "UA-134592754-1"
 
 [params]
     title = "Kubernetes Community Days Amsterdam 2019"
