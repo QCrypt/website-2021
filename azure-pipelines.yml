@@ -4,10 +4,14 @@ trigger:
 pool:
   vmImage: 'vs2017-win2016'
 
+resources:
+  repositories:
+  - repository: self
+    checkoutOptions:
+      submodules: true
+
 steps:
 - checkout: self
-  displayName: 'Checkout repository including submodules'
-  submodules: true
 
 - task: HugoTask@1
   displayName: 'Generate Hugo site'
