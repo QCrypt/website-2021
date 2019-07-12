@@ -50,28 +50,26 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-speakers %}}
 -->
 
-<!-- TICKETS 
 {{% home-tickets %}}
 # Tickets 
-<a class="btn primary" href="" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+<a class="btn primary" href="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
-<li>{{< ticket name="Blind Birds"
+<li>{{< ticket name="Regular ticket"
            starts="2019-03-25"
            ends="2019-09-13"
            price="110 €"
-           info="50 first places"
+           info=""
            soldOut=""
-           url="" >}}</li>
+           url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
 </ul>
 
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
--->
 
 <!-- NOTIFICATION -->
-{{% home-subscribe  class="" %}} <!--   class="primary"  -->
+{{% home-subscribe  class="primary" %}} <!--   class="primary"  -->
 
 ## Get notified about the important conference updates
 
