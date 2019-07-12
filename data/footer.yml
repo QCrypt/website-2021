@@ -11,20 +11,11 @@ follow:
     url: https://www.instagram.com/cloudnativeams
 
 content:
-  # - title: footer_about
-  #   links:
-  #     - name: GDG Toulouse
-  #       url: http://gdgtoulouse.fr/
-  #       newTab: true
-  #     - name: Google Developers Group
-  #       url: https://developers.google.com/
-  #       newTab: true
-  #     - name: Kit de communication
-  #       url: /kit/MediaKit.zip
-  #       newTab:
-  #     - nameKey: footer_coc
-  #       url: /code-of-conduct/
-  #       newTab: false
+  - title: footer_about
+    links:
+      - nameKey: footer_coc
+        url: /code-of-conduct/
+        newTab: false
 
   # - title: footer_previous_edition
   #   links:
