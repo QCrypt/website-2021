@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>localhost:1313/partners/gold/containersolutions/</loc>
+  </url>
+  
+  <url>
     <loc>localhost:1313/team/core/daniel_paulus/</loc>
   </url>
   
@@ -19,11 +23,23 @@
   </url>
   
   <url>
+    <loc>localhost:1313/partners/bronze/fullstaq/</loc>
+  </url>
+  
+  <url>
     <loc>localhost:1313/</loc>
   </url>
   
   <url>
     <loc>localhost:1313/code-of-conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/partners/gold/microsoft/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/partners/</loc>
   </url>
   
   <url>
