@@ -56,8 +56,8 @@
   --jumbo-overlay-transition: 0.5s;
   /* Partners */
   --partner-support-height: 60px;
-  --partner-platinum-height: calc(var(--partner-support-height) * 3);
-  --partner-gold-height: calc(var(--partner-support-height) * 2);
+  --partner-gold-height: calc(var(--partner-support-height) * 3);
+  --partner-silver-height: calc(var(--partner-support-height) * 2);
   --animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   --extruded-dark: 1px 0 0 var(--darken-3);
   --extruded-light: 1px 0 0 var(--lighten-3);
@@ -636,12 +636,12 @@ a.social {
   .partners-group .partner:hover, .partners-group .partner:focus {
     box-shadow: var(--box-shadow-2); }
 
-.partners-group.partner-platinium ul li {
-  height: var(--partner-platinum-height);
+.partners-group.partner-gold ul li {
+  height: var(--partner-gold-height);
   flex-basis: 320px; }
 
-.partners-group.partner-gold ul li, .partners-group.partner-startup ul li {
-  height: var(--partner-gold-height);
+.partners-group.partner-silver ul li, .partners-group.partner-bronze ul li {
+  height: var(--partner-silver-height);
   flex-basis: 200px; }
 
 /* Partner fancy name */
@@ -667,19 +667,19 @@ a.social {
       left: 100%;
       margin-left: 15px; }
 
-.partners-group.partner-platinium .fancy {
-  font-size: 1.5em;
-  color: var(--color-platium); }
-  .partners-group.partner-platinium .fancy span:before, .partners-group.partner-platinium .fancy span:after {
-    border-bottom: 1px solid currentColor;
-    border-top: 1px solid currentColor; }
-
-.partners-group.partner-gold .fancy {
+.partners-group.partner-silver .fancy {
   font-size: 1.33em;
-  color: var(--color-gold); }
-  .partners-group.partner-gold .fancy span:before, .partners-group.partner-gold .fancy span:after {
+  color: var(--color-platium); }
+  .partners-group.partner-silver .fancy span:before, .partners-group.partner-silver .fancy span:after {
     top: 20%;
     border-bottom: 1px solid currentColor; }
+
+.partners-group.partner-gold .fancy {
+  font-size: 1.5em;
+  color: var(--color-gold); }
+  .partners-group.partner-gold .fancy span:before, .partners-group.partner-gold .fancy span:after {
+    border-bottom: 1px solid currentColor;
+    border-top: 1px solid currentColor; }
 
 .tag-method-tools {
   background-color: var(--method-tools); }
