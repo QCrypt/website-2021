@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>localhost:1313/team/core/alessandro_vozza/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/core/daniel_paulus/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/core/fabio_tiriticco/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/core/floor_drees/</loc>
+  </url>
+  
+  <url>
     <loc>localhost:1313/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/code-of-conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/core/serkan_capkan/</loc>
   </url>
   
   <url>
     <loc>localhost:1313/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/core/tereza_hozmanova/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/core/walter_heck/</loc>
   </url>
   
 </urlset>
