@@ -9,6 +9,7 @@ menu:
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="Amsterdam image" %}}
 
 ## September 13th, 2019
+
 ### Pakhuis de Zwijger, Amsterdam
 
 <!--
@@ -29,7 +30,7 @@ menu:
 
 ## What is Kubernetes Community Day?
 
-The Community Day, is a technical conference for developers and operations people. 
+The Community Day, is a technical conference for developers and operations people.
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
@@ -91,6 +92,6 @@ The former refrigerated warehouse functions as a debate centre of the 21st centu
 
 {{% partners categories="gold,silver,bronze,community" %}}
 
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY/edit#slide=id.g543b8a4805_0_272" target="_blank">Become a sponsor</a>
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY" target="_blank">Become a sponsor</a>
 
 {{% /partners %}}
