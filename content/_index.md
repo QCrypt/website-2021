@@ -26,6 +26,7 @@ menu:
 
 <!-- INFO -->
 {{% home-info what="Participants:300,Day:1,Sessions:10,Parallel Tracks:1" class="primary" %}}
+
 ## What is Kubernetes Community Day?
 
 The Community Day, is a technical conference for developers and operations people. 
@@ -87,3 +88,9 @@ It is aimed at students, professionals or simply curious technophiles.
 The former refrigerated warehouse functions as a debate centre of the 21st century, putting dialogue before debate and connection before opposition. It stimulates collaboration towards a livable city, puts urgent matters on the agenda, linking them to the creative industry.
 
 {{% /home-location %}}
+
+{{% partners categories="gold,silver,bronze,community" %}}
+
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY/edit#slide=id.g543b8a4805_0_272" target="_blank">Become a sponsor</a>
+
+{{% /partners %}}
