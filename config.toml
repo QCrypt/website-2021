@@ -33,7 +33,7 @@ GoogleAnalytics = "UA-134592754-1"
 
 [params.logos]
     jumbo = "/images/logos/house_transparent.png"
-    # header = "/images/logos/kcd_color.jpg"
+    header = "/images/logos/sun.png"
     # footer = "/images/logos/kcd_color.jpg"
 
 #[menu]
