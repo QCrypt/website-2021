@@ -35,15 +35,23 @@
   </url>
   
   <url>
+    <loc>localhost:1313/team/cfp/luke_heidecke/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/team/cfp/michael_hausenblas/</loc>
+  </url>
+  
+  <url>
     <loc>localhost:1313/partners/gold/microsoft/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/partners/</loc>
+    <loc>localhost:1313/team/core/serkan_capkan/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/team/core/serkan_capkan/</loc>
+    <loc>localhost:1313/partners/</loc>
   </url>
   
   <url>
@@ -60,7 +68,7 @@
   </url>
   
   <url>
-    <loc>localhost:1313/team/core/walter_heck/</loc>
+    <loc>localhost:1313/team/cfp/walter_heck/</loc>
   </url>
   
 </urlset>

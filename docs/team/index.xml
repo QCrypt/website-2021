@@ -47,6 +47,24 @@
     </item>
     
     <item>
+      <title>Luke Heidecke</title>
+      <link>localhost:1313/team/cfp/luke_heidecke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/team/cfp/luke_heidecke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hausenblas</title>
+      <link>localhost:1313/team/cfp/michael_hausenblas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/team/cfp/michael_hausenblas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serkan Capkan</title>
       <link>localhost:1313/team/core/serkan_capkan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -66,10 +84,10 @@
     
     <item>
       <title>Walter Heck</title>
-      <link>localhost:1313/team/core/walter_heck/</link>
+      <link>localhost:1313/team/cfp/walter_heck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/team/core/walter_heck/</guid>
+      <guid>localhost:1313/team/cfp/walter_heck/</guid>
       <description></description>
     </item>
     
