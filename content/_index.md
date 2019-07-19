@@ -51,16 +51,25 @@ It is aimed at students, professionals or simply curious technophiles.
 -->
 
 {{% home-tickets %}}
-# Tickets 
-<a class="btn primary" href="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+
+## Tickets 
+
+### Secure your spot with an unparalleled discount while we finalize the program!
 
 <ul>
-<li>{{< ticket name="Regular ticket"
+<li>{{< ticket name="Blind ticket"
            starts="2019-03-25"
+           ends="2019-08-01"
+           price="55 €"
+           info=""
+           soldOut=""
+           url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
+<li>{{< ticket name="Regular ticket"
+           starts="2019-08-01"
            ends="2019-09-13"
            price="110 €"
            info=""
-           soldOut=""
+           soldOut="true"
            url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
 </ul>
 
