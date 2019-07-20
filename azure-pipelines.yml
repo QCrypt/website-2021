@@ -31,3 +31,8 @@ stages:
           
           - bash: |
               hugo --minify -b "https://cloudnative.amsterdam" --cleanDestinationDir
+
+          - task: PublishPipelineArtifact@0
+            inputs:
+              artifactName: 'hugo-site'
+              targetPath: $(Build.ArtifactStagingDirectory)/docs
