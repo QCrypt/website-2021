@@ -30,7 +30,7 @@ stages:
               hugo version
           
           - bash: |
-              hugo --minify -b "https://cloudnative.amsterdam" --cleanDestinationDir
+              hugo --minify -b "https://cloudnative.amsterdam" --cleanDestinationDir -d $(Build.ArtifactStagingDirectory)
 
           - task: PublishPipelineArtifact@0
             inputs:
