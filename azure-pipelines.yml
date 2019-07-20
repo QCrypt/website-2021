@@ -16,9 +16,9 @@ variables:
   HUGO_BINARY: hugo_$(HUGO_VERSION)_Linux-64bit.deb
 
 stages:
-  - stage: Build
+  - stage: Hugo
     jobs:
-      - job: Linux
+      - job: Build
         steps:
           - checkout: self
             clean: all
