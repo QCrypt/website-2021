@@ -16,7 +16,7 @@ variables:
   HUGO_BINARY: hugo_$(HUGO_VERSION)_Linux-64bit.deb
 
 stages:
-  - stage: Build Hugo
+  - stage: Build
     jobs:
       - job: Install
         steps:
@@ -30,7 +30,7 @@ stages:
           - checkout: self
             clean: all
             submodules: true
-            
+
           - bash: |
               hugo --minify -b "https://cloudnative.amsterdam" --cleanDestinationDir -d $(Build.ArtifactStagingDirectory)
 
