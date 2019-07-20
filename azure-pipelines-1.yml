@@ -25,6 +25,6 @@ stages:
             submodules: true
 
           - script: |
-              wget https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/$(HUGO_BINARY) /tmp/hugo.deb
-              sudo dpkg -i /tmp/hugo.deb
+              wget -P /tmp https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/$(HUGO_BINARY) 
+              sudo dpkg -i /tmp/v$(HUGO_VERSION)/$(HUGO_BINARY).deb
               hugo version
