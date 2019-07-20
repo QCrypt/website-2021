@@ -16,21 +16,19 @@ variables:
   HUGO_BINARY: hugo_$(HUGO_VERSION)_Linux-64bit.deb
 
 stages:
-  - stage: Build Hugo
+  - stage: Build
     jobs:
-      - job: Install
-        steps:
-          - bash: |
-              wget -P /tmp https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/$(HUGO_BINARY) 
-              sudo dpkg -i /tmp/$(HUGO_BINARY)
-              hugo version
-
-      - job: Generate
+      - job: Linux
         steps:
           - checkout: self
             clean: all
             submodules: true
-            
+
+          - bash: |
+              wget -P /tmp https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/$(HUGO_BINARY) 
+              sudo dpkg -i /tmp/$(HUGO_BINARY)
+              hugo version
+          
           - bash: |
               hugo --minify -b "https://cloudnative.amsterdam" --cleanDestinationDir -d $(Build.ArtifactStagingDirectory)
 
