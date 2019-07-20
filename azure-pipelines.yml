@@ -35,4 +35,4 @@ stages:
           - task: PublishPipelineArtifact@0
             inputs:
               artifactName: 'hugo-site'
-              targetPath: $(Build.ArtifactStagingDirectory)/docs
+              targetPath: $(Build.ArtifactStagingDirectory)
