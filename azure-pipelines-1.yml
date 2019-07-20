@@ -11,6 +11,10 @@ pr:
     include:
       - master
 
+variables:
+  HUGO_VERSION: 0.55.6
+  HUGO_BINARY: hugo_$(HUGO_VERSION)_Linux-64bit.deb
+
 stages:
   - stage: Build
     jobs:
@@ -20,4 +24,7 @@ stages:
             clean: all
             submodules: true
 
-          - script: echo "hoi"
+          - script: |
+              wget https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/$(HUGO_BINARY) /tmp/hugo.deb
+              sudo dpkg -i /tmp/hugo.deb
+              hugo version
