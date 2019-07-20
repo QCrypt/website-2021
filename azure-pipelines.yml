@@ -1,25 +1,33 @@
+---
 trigger:
-- master
+  batch: true
+  branches:
+    include:
+      - master
 
-pool:
-  vmImage: 'vs2017-win2016'
+pr:
+  autoCancel: true
+  branches:
+    include:
+      - master
 
-resources:
-  repositories:
-  - repository: self
-    checkoutOptions:
-      submodules: true
+variables:
+  HUGO_VERSION: 0.55.6
+  HUGO_BINARY: hugo_$(HUGO_VERSION)_Linux-64bit.deb
 
-steps:
-- checkout: self
+stages:
+  - stage: Build
+    jobs:
+      - job: Linux
+        steps:
+          - checkout: self
+            clean: all
+            submodules: true
 
-- task: HugoTask@1
-  displayName: 'Generate Hugo site'
-  inputs:
-    destination: '$(Build.ArtifactStagingDirectory)'
-
-- task: PublishPipelineArtifact@0
-  displayName: 'Publish Hugo site as artifact'
-  inputs:
-    artifactName: 'hugo-site'
-    targetPath: '$(Build.ArtifactStagingDirectory)'
+          - bash: |
+              wget -P /tmp https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/$(HUGO_BINARY) 
+              sudo dpkg -i /tmp/$(HUGO_BINARY)
+              hugo version
+          
+          - bash: |
+              hugo --minify -b "https://cloudnative.amsterdam" --cleanDestinationDir
