@@ -37,5 +37,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Netlify</title>
+      <link>localhost:1313/partners/community/netlify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/community/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentia</title>
+      <link>localhost:1313/partners/gold/sentia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/sentia/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
