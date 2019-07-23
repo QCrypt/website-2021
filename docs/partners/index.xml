@@ -47,6 +47,15 @@
     </item>
     
     <item>
+      <title>Rancher</title>
+      <link>localhost:1313/partners/gold/rancher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/rancher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sentia</title>
       <link>localhost:1313/partners/gold/sentia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
