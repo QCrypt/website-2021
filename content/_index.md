@@ -22,6 +22,14 @@ menu:
 
 {{% /jumbo %}}
 
+<!-- CNCF LOGO -->
+{{% home-info what="" class="primary" %}}
+
+<h3 style="text-align:center;">Supported by</h2>
+<img src="/images/logos/cncf-white.png" alt="cncf-logo" style="width:50%;margin-left:auto;margin-right:auto;display: block;"/>
+
+{{% /home-info %}}
+
 <!-- YOUTUBE SECTION -->
 {{< youtube-section link="i-MKPPKWJuE" title="Watch 2018 best moments" class="" >}}
 
