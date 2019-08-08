@@ -36,8 +36,9 @@ hugo server
 
 ## Customizing the theme
 
-First, install [yarn][https://yarnpkg.com/lang/en/docs/install/].
+First, install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 
+Then, use
 ```
 cd themes/devfest-theme-hugo
 yarn
