@@ -9,12 +9,14 @@ adapted from the fork by the cloudnative-amsterdam people: https://github.com/cl
 
 Work in this repo with Hugo `hugo serve`, when done:
 
+<!--
 hugo generates the assets in `./public`
 
-{{/* ```bash
+```bash
 #push the main repo
 git push -f
 
 #push the gh-repo branch
 git push origin `git subtree split --prefix public master`:gh-pages --force
-``` */}}
+```
+-->

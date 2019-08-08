@@ -17,7 +17,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 <!-- ... -->
 
-{{< teams types="core=Organizers" >}}
+{{< teams types="core=Main Organizers,org=Organizers" >}}
 
 <!-- ... -->
 
