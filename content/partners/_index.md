@@ -11,18 +11,18 @@ draft: false
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="info@cloudnative.amsterdam"
-                url="mailto:info@cloudnative.amsterdam"
+{{< button-link label="qcrypt2020@qusoft.org"
+                url="mailto:qcrypt2020@qusoft.org"
                 icon="email" >}}
 
+<!--
 {{< button-link label="Become a sponsor"
-                url="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY"
+                url="mailto:qcrypt2020@qusoft.org"
                 icon="file" >}}
-
-
+-->
 
 {{% /hero %}}
 
-{{% partners categories="gold,silver,bronze,community" %}}
+{{% partners categories="community" %}}
 
 {{% /partners %}}

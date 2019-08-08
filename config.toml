@@ -2,7 +2,7 @@ publishDir = "docs"
 
 baseURL = "localhost:1313"
 languageCode = "en"
-title = "Kubernetes Community Days Amsterdam 2019"
+title = "QCrypt 2020"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -12,24 +12,24 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-GoogleAnalytics = "UA-134592754-1"
+GoogleAnalytics = "UA-23222525-2"
 
 [params]
-    title = "Kubernetes Community Days Amsterdam 2019"
-    date = "2019-09-13"
-    description = "Cloud Native Day is a community-led conference for all Cloud Native applications and platforms"
+    title = "QCrypt 2020"
+    date = "2020-08-10"
+    description = "10th International Conference on Quantum Cryptography, held in Amsterdam, The Netherlands, 10-14 August 2020"
     images = ["/images/social-share.jpg"]
-    email = "info@cloudnative.amsterdam"
-    keywords = "event, kubernetes, developers, web, cloud"
-    copyright = "We :heart:️ Cloud Native"
-    cfpUrl = "https://aka.ms/cndams19prereg"
-    subscriptionUrl = "http://eepurl.com/gxkk6v"
+    email = "qcrypt2020@qusoft.org"
+    keywords = "event, quantum cryptography, QCrypt, Amsterdam"
+    copyright = "QCrypt"
+    # cfpUrl = ""
+    # subscriptionUrl = ""
     # appleTouchIcon = "/apple-touch-icon.png"
     # favicon32 = "/favicon-32x32.png"
     # favicon16 = "/favicon-16x16.png"
     # manifest = "/manifest.json"
     # safariPinnedTab = "/safari-pinned-tab.svg"
-    themeColor = "#494241"
+    themeColor = "#FF0000"
 
 [params.logos]
     jumbo = "/images/logos/house_transparent.png"
@@ -47,7 +47,7 @@ GoogleAnalytics = "UA-134592754-1"
 [languages]
 [languages.en]
     weight = 1
-    languageName = "gb"
+    languageName = "us"
 
 [taxonomies]
     tag = "tags"

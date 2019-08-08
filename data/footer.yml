@@ -29,8 +29,8 @@ content:
   #       url: https://2016.devfesttoulouse.fr/
   #       newTab: true
 
-  - title: footer_become_partners
-    links:
-      - nameKey: footer_become_partners_label
-        url: https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY
-        newTab: true
+  # - title: footer_become_partners
+  #   links:
+  #     - nameKey: footer_become_partners_label
+  #       url: https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY
+  #       newTab: true
