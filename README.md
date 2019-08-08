@@ -1,13 +1,16 @@
 # QCrypt 2020 website
 
-[![Build Status](https://dev.azure.com/dpnl87/CloudNative%20Amsterdam/_apis/build/status/cloudnative-amsterdam.public-website?branchName=master)](https://dev.azure.com/dpnl87/CloudNative%20Amsterdam/_build/latest?definitionId=1&branchName=master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aee8e5e5-1bfe-4e20-9383-ba9abff022ee/deploy-status)](https://app.netlify.com/sites/qcrypt2020/deploys)
+
+Live site at https://qcrypt2020.netlify.com/
 
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
 
 ## Contributing
 
-Work in this repo with Hugo `hugo serve`, when done:
+Work in this repo locally with Hugo `hugo serve`. When done, commit the changes to the master branch. The site will be automatically deployed to netlify.
+
 
 <!--
 hugo generates the assets in `./public`
