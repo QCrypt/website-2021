@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on QCrypt 2020</title>
-    <link>https://qcrypt.github.io/public-website/tags/</link>
+    <link>https://competent-nightingale-85ae87.netlify.com/tags/</link>
     <description>Recent content in Tags on QCrypt 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://qcrypt.github.io/public-website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://competent-nightingale-85ae87.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

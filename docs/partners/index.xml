@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sponsors on QCrypt 2020</title>
-    <link>https://qcrypt.github.io/public-website/partners/</link>
+    <link>https://competent-nightingale-85ae87.netlify.com/partners/</link>
     <description>Recent content in Sponsors on QCrypt 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://qcrypt.github.io/public-website/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://competent-nightingale-85ae87.netlify.com/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centrum Wiskunde &amp; Informatica</title>
-      <link>https://qcrypt.github.io/public-website/partners/community/cwi/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/partners/community/cwi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/partners/community/cwi/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/partners/community/cwi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuSoft</title>
-      <link>https://qcrypt.github.io/public-website/partners/community/qusoft/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/partners/community/qusoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/partners/community/qusoft/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/partners/community/qusoft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Amsterdam</title>
-      <link>https://qcrypt.github.io/public-website/partners/community/uva/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/partners/community/uva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/partners/community/uva/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/partners/community/uva/</guid>
       <description></description>
     </item>
     

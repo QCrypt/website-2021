@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on QCrypt 2020</title>
-    <link>https://qcrypt.github.io/public-website/team/</link>
+    <link>https://competent-nightingale-85ae87.netlify.com/team/</link>
     <description>Recent content in Team on QCrypt 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://qcrypt.github.io/public-website/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://competent-nightingale-85ae87.netlify.com/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Christian Schaffner</title>
-      <link>https://qcrypt.github.io/public-website/team/core/christian_schaffner/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/team/core/christian_schaffner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/team/core/christian_schaffner/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/team/core/christian_schaffner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Esteban Landerreche</title>
-      <link>https://qcrypt.github.io/public-website/team/org/esteban_landerreche/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/team/org/esteban_landerreche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/team/org/esteban_landerreche/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/team/org/esteban_landerreche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serge Fehr</title>
-      <link>https://qcrypt.github.io/public-website/team/core/serge_fehr/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/team/core/serge_fehr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/team/core/serge_fehr/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/team/core/serge_fehr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susanne van Dam</title>
-      <link>https://qcrypt.github.io/public-website/team/org/susanne_van_dam/</link>
+      <link>https://competent-nightingale-85ae87.netlify.com/team/org/susanne_van_dam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qcrypt.github.io/public-website/team/org/susanne_van_dam/</guid>
+      <guid>https://competent-nightingale-85ae87.netlify.com/team/org/susanne_van_dam/</guid>
       <description></description>
     </item>
     

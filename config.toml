@@ -1,6 +1,6 @@
 publishDir = "docs"
 
-baseURL = "https://qcrypt.github.io/public-website/"
+baseURL = "https://competent-nightingale-85ae87.netlify.com/"
 languageCode = "en"
 title = "QCrypt 2020"
 
