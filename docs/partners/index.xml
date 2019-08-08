@@ -1,84 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sponsors on Kubernetes Community Days Amsterdam 2019</title>
-    <link>https://cloudnative.amsterdam/partners/</link>
-    <description>Recent content in Sponsors on Kubernetes Community Days Amsterdam 2019</description>
+    <title>Sponsors on QCrypt 2020</title>
+    <link>localhost:1313/partners/</link>
+    <description>Recent content in Sponsors on QCrypt 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://cloudnative.amsterdam/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Container Solutions</title>
-      <link>https://cloudnative.amsterdam/partners/gold/containersolutions/</link>
+      <title>Centrum Wiskunde &amp; Informatica</title>
+      <link>localhost:1313/partners/community/cwi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/gold/containersolutions/</guid>
+      <guid>localhost:1313/partners/community/cwi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fullstaq</title>
-      <link>https://cloudnative.amsterdam/partners/bronze/fullstaq/</link>
+      <title>QuSoft</title>
+      <link>localhost:1313/partners/community/qusoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/bronze/fullstaq/</guid>
+      <guid>localhost:1313/partners/community/qusoft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lightbend</title>
-      <link>https://cloudnative.amsterdam/partners/gold/lightbend/</link>
+      <title>University of Amsterdam</title>
+      <link>localhost:1313/partners/community/uva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/gold/lightbend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft</title>
-      <link>https://cloudnative.amsterdam/partners/gold/microsoft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/microsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Netlify</title>
-      <link>https://cloudnative.amsterdam/partners/community/netlify/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/community/netlify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rancher</title>
-      <link>https://cloudnative.amsterdam/partners/gold/rancher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/rancher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive</title>
-      <link>https://cloudnative.amsterdam/partners/community/reactive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/community/reactive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentia</title>
-      <link>https://cloudnative.amsterdam/partners/gold/sentia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/sentia/</guid>
+      <guid>localhost:1313/partners/community/uva/</guid>
       <description></description>
     </item>
     

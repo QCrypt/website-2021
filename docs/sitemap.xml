@@ -3,92 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/core/alessandro_vozza/</loc>
+    <loc>localhost:1313/partners/community/cwi/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/partners/gold/containersolutions/</loc>
+    <loc>localhost:1313/team/core/christian_schaffner/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/core/daniel_paulus/</loc>
+    <loc>localhost:1313/team/org/esteban_landerreche/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/core/fabio_tiriticco/</loc>
+    <loc>localhost:1313/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/core/floor_drees/</loc>
+    <loc>localhost:1313/code-of-conduct/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/partners/bronze/fullstaq/</loc>
+    <loc>localhost:1313/partners/community/qusoft/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/</loc>
+    <loc>localhost:1313/team/core/serge_fehr/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/code-of-conduct/</loc>
+    <loc>localhost:1313/partners/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/partners/gold/lightbend/</loc>
+    <loc>localhost:1313/team/org/susanne_van_dam/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/cfp/luke_heidecke/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/team/cfp/michael_hausenblas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/partners/gold/microsoft/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/partners/community/netlify/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/partners/gold/rancher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/partners/community/reactive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/partners/gold/sentia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/team/core/serkan_capkan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/partners/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/tags/</loc>
+    <loc>localhost:1313/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/</loc>
+    <loc>localhost:1313/team/</loc>
   </url>
   
   <url>
-    <loc>https://cloudnative.amsterdam/team/core/tereza_hozmanova/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudnative.amsterdam/team/cfp/walter_heck/</loc>
+    <loc>localhost:1313/partners/community/uva/</loc>
   </url>
   
 </urlset>
