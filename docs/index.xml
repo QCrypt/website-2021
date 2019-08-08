@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on QCrypt 2020</title>
-    <link>localhost:1313/</link>
+    <link>https://qcrypt.github.io/public-website/</link>
     <description>Recent content in Home on QCrypt 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qcrypt.github.io/public-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centrum Wiskunde &amp; Informatica</title>
-      <link>localhost:1313/partners/community/cwi/</link>
+      <link>https://qcrypt.github.io/public-website/partners/community/cwi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/partners/community/cwi/</guid>
+      <guid>https://qcrypt.github.io/public-website/partners/community/cwi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christian Schaffner</title>
-      <link>localhost:1313/team/core/christian_schaffner/</link>
+      <link>https://qcrypt.github.io/public-website/team/core/christian_schaffner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/team/core/christian_schaffner/</guid>
+      <guid>https://qcrypt.github.io/public-website/team/core/christian_schaffner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Esteban Landerreche</title>
-      <link>localhost:1313/team/org/esteban_landerreche/</link>
+      <link>https://qcrypt.github.io/public-website/team/org/esteban_landerreche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/team/org/esteban_landerreche/</guid>
+      <guid>https://qcrypt.github.io/public-website/team/org/esteban_landerreche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCrypt - Code of Conduct</title>
-      <link>localhost:1313/code-of-conduct/</link>
+      <link>https://qcrypt.github.io/public-website/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/code-of-conduct/</guid>
+      <guid>https://qcrypt.github.io/public-website/code-of-conduct/</guid>
       <description>QCrypt Code of Conduct The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of QCrypt 2019; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, the QCrypt 2019 organizers are committed to providing a harassment-free conference experience.
 Conference participants violating these standards may be sanctioned or expelled from the conference, at the discretion of the QCrypt 2019 Local Chair and/or the QCrypt Steering Committee.</description>
     </item>
     
     <item>
       <title>QuSoft</title>
-      <link>localhost:1313/partners/community/qusoft/</link>
+      <link>https://qcrypt.github.io/public-website/partners/community/qusoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/partners/community/qusoft/</guid>
+      <guid>https://qcrypt.github.io/public-website/partners/community/qusoft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serge Fehr</title>
-      <link>localhost:1313/team/core/serge_fehr/</link>
+      <link>https://qcrypt.github.io/public-website/team/core/serge_fehr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/team/core/serge_fehr/</guid>
+      <guid>https://qcrypt.github.io/public-website/team/core/serge_fehr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susanne van Dam</title>
-      <link>localhost:1313/team/org/susanne_van_dam/</link>
+      <link>https://qcrypt.github.io/public-website/team/org/susanne_van_dam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/team/org/susanne_van_dam/</guid>
+      <guid>https://qcrypt.github.io/public-website/team/org/susanne_van_dam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Amsterdam</title>
-      <link>localhost:1313/partners/community/uva/</link>
+      <link>https://qcrypt.github.io/public-website/partners/community/uva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/partners/community/uva/</guid>
+      <guid>https://qcrypt.github.io/public-website/partners/community/uva/</guid>
       <description></description>
     </item>
     

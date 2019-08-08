@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/partners/community/cwi/</loc>
+    <loc>https://qcrypt.github.io/public-website/partners/community/cwi/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/team/core/christian_schaffner/</loc>
+    <loc>https://qcrypt.github.io/public-website/team/core/christian_schaffner/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/team/org/esteban_landerreche/</loc>
+    <loc>https://qcrypt.github.io/public-website/team/org/esteban_landerreche/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>https://qcrypt.github.io/public-website/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/code-of-conduct/</loc>
+    <loc>https://qcrypt.github.io/public-website/code-of-conduct/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/partners/community/qusoft/</loc>
+    <loc>https://qcrypt.github.io/public-website/partners/community/qusoft/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/team/core/serge_fehr/</loc>
+    <loc>https://qcrypt.github.io/public-website/team/core/serge_fehr/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/partners/</loc>
+    <loc>https://qcrypt.github.io/public-website/partners/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/team/org/susanne_van_dam/</loc>
+    <loc>https://qcrypt.github.io/public-website/team/org/susanne_van_dam/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>https://qcrypt.github.io/public-website/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/team/</loc>
+    <loc>https://qcrypt.github.io/public-website/team/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/partners/community/uva/</loc>
+    <loc>https://qcrypt.github.io/public-website/partners/community/uva/</loc>
   </url>
   
 </urlset>

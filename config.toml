@@ -1,6 +1,6 @@
 publishDir = "docs"
 
-baseURL = "localhost:1313"
+baseURL = "https://qcrypt.github.io/public-website/"
 languageCode = "en"
 title = "QCrypt 2020"
 
