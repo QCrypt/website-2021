@@ -101,7 +101,7 @@ QCrypto 2020 is the 10th edition of a yearly international scientific conference
 <!-- THE MAP -->
 {{% home-location
     image="/images/map.png"
-    address="Roetersstraat, 1018 WD Amsterdam, The Netherlands"
+    address="Roeterseiland Camput, Roetersstraat, 1018 WD Amsterdam, The Netherlands"
     latitude="52.3633392"
     longitude="4.9120849"
     %}}
