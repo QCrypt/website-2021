@@ -1,4 +1,4 @@
-publishDir = "docs"
+# publishDir = "docs"
 
 baseURL = "https://competent-nightingale-85ae87.netlify.com/"
 languageCode = "en"
