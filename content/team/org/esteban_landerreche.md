@@ -6,7 +6,7 @@ job: design
 photo: esteban_landerreche.jpg
 socials:
   - link: 'https://www.cwi.nl/people/esteban-landerreche'
-    name: link
+    name: Site
   - link: 'https://www.linkedin.com/in/estebanlan'
     name: linkedin
 ---

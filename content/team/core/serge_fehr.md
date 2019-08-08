@@ -6,6 +6,6 @@ job: General chair, SC member
 photo: serge_fehr.jpg
 socials:
   - link: 'https://homepages.cwi.nl/~fehr/'
-    name: link
+    name: Site
 
 ---

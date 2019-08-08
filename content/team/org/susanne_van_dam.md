@@ -5,5 +5,5 @@ subtitle: CWI
 job: secretary
 socials:
   - link: 'https://www.cwi.nl/personview/1624'
-    name: link
+    name: Site
 ---
