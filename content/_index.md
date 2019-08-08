@@ -16,7 +16,7 @@ menu:
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
 -->
 
-<a class="btn primary btn-lg" href="https://sessionize.com/cndams2019/">
+<a class="btn primary btn-lg" href="/hotels">
 <!--    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg> -->
     Book Your Hotel
 </a>
@@ -42,7 +42,7 @@ menu:
 
 ## What is QCrypt 2020?
 
-QCrypto 2020 is the 10th edition of a yearly international scientific conference on the topic of quantum cryptography.
+QCrypto 2020 is the 10th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography.
 {{% /home-info %}}
 
 <!-- SPEAKERS -->
