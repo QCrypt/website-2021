@@ -20,8 +20,14 @@ In the week of the QCrypt 2020 conference, there will be a [major sailing event]
 Therefore, accommodation will be expensive and
 difficult to find. We strongly encourage all participants to book their accommodation as early as possible.
 
-Below, we provide a list of hotels:
+We have managed to secure offers from the following hotels:
 
-  * THE STUDENT HOTEL
+  * THE STUDENT HOTEL:
   * NH Schiller
   * NH Doelen
+  * Eden Hotel
+
+## Map of Hotels and Conference Locations
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vdbFPduVezuop7b4VOJ1u1Cw9O8wUchG" width="640" height="480"></iframe>
+
+Click <a href="https://www.google.com/maps/d/viewer?mid=1vdbFPduVezuop7b4VOJ1u1Cw9O8wUchG" target="_blank">here for a full-screen map</a>
