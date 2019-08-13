@@ -29,7 +29,7 @@ The conference dinner will take place on Thursday evening, 13 August 2020 at the
 
 
 ### SAIL Amsterdam
-In the week of the QCrypt 2020 conference, there will be a [major sailing event](https://en.wikipedia.org/wiki/SAIL_Amsterdam) taking place in Amsterdam: <a href="https://www.sail.nl/" target="_blank"> <img src="https://www.sail.nl/wp-content/uploads/2018/07/Sail_amsterdam_rood_thin.png" alt="sail logo" height="40"/></a>
+In the week of the QCrypt 2020 conference, there will be a [major sailing event](https://en.wikipedia.org/wiki/SAIL_Amsterdam) taking place in Amsterdam: <a href="https://www.sail.nl/" target="_blank"> <img src="/images/logos/sail.png" alt="sail logo" height="40"/></a>
 During this quinquennial maritime event, various tall ships from all over the world will be on display on the IJ (the river north of Amsterdam Central Station). As the conference restaurant is directly facing the IJ, it promises to be quite a spectacle.
 However, it will also be very crowded, so calculate enough time to get there.
 
