@@ -16,6 +16,9 @@ content:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false
+      - nameKey: footer_charter
+        url: /charter/
+        newTab: false
 
   # - title: footer_previous_edition
   #   links:

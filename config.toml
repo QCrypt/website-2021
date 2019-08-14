@@ -32,7 +32,7 @@ GoogleAnalytics = "UA-23222525-2"
     themeColor = "#FF0000"
 
 [params.logos]
-    jumbo = "/images/logos/house_transparent.png"
+    jumbo = "/images/logos/QCrypt_tritone2.png"
     header = "/images/logos/sun.png"
     footer = "/images/logos/netlify-color-accent.svg"
 

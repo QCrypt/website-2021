@@ -48,10 +48,11 @@ Restaurant De IJkantine, NDSM Kade 5, 1033 PG Amsterdam, The Netherlands
 There are several (free) ferries leaving from behind Amsterdam Central train station. When exiting the train station in the direction of the water, take the left-most ferry called NDSM. During peak hours, the ferry departs every quarter, outside every half hour (45 and 15). On Fridays and Saturdays the ferry runs until 03:00. Duration is about 15 minutes. Departures during SAIL might be more frequent.
 
 These are the (walking) instructions from the conference venue to the restaurant:
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38965.43345372234!2d4.867349320154485!3d52.382393925696796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47c60998ffb76569%3A0x42b058cd42580a78!2sRoeterseiland+Campus%2C+Roetersstraat%2C+1018+WD+Amsterdam!3m2!1d52.363309699999995!2d4.9119722999999995!4m5!1s0x47c6083baa976d9d%3A0x4d0e2435c4737b1!2sRestaurant-Caf%C3%A9+De+IJkantine%2C+NDSM+Kade%2C+Amsterdam!3m2!1d52.4014885!2d4.8910635!5e0!3m2!1sen!2snl!4v1565388643404!5m2!1sen!2snl" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 ## Map of Hotels and Conference Locations
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vdbFPduVezuop7b4VOJ1u1Cw9O8wUchG" width="640" height="480"></iframe
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vdbFPduVezuop7b4VOJ1u1Cw9O8wUchG" width="640" height="480"></iframe>
 
 Click <a href="https://www.google.com/maps/d/viewer?mid=1vdbFPduVezuop7b4VOJ1u1Cw9O8wUchG" target="_blank">here for a full-screen map</a>

@@ -10,7 +10,7 @@ menu:
 
 ## 10-14 August 2020
 
-### Roeterseiland Campus, Amsterdam, The Netherlands
+### Amsterdam, The Netherlands
 
 <!--
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
