@@ -2,6 +2,7 @@
 title: QCrypt Charter
 
 draft: false
+type: text_page
 ---
 
 
