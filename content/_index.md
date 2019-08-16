@@ -6,7 +6,7 @@ menu:
 ---
 
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/back-wikimedia.jpg" imgLabel="Amsterdam image" %}}
+{{% jumbo img="/images/backgrounds/QCrypt_background1.png" imgLabel="QCrypt 2020 background" %}}
 
 ## 10-14 August 2020
 
