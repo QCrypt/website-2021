@@ -17,13 +17,13 @@ QCrypt 2020 is looking for sponsors. Sponsoring the conference gives companies a
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="qcrypt2020@qusoft.org"
-                url="mailto:qcrypt2020@qusoft.org"
+{{< button-link label="2020@qcrypt.net"
+                url="mailto:2020@qcrypt.net"
                 icon="email" >}}
 
 <!--
 {{< button-link label="Become a sponsor"
-                url="mailto:qcrypt2020@qusoft.org"
+                url="mailto:2020@qcrypt.net"
                 icon="file" >}}
 -->
 

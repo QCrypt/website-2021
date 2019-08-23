@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aee8e5e5-1bfe-4e20-9383-ba9abff022ee/deploy-status)](https://app.netlify.com/sites/qcrypt2020/deploys)
 
-Live site at https://qcrypt2020.netlify.com/
+Live site at https://2020.qcrypt.net
 
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
@@ -32,7 +32,7 @@ cd ../..
 hugo server
 ```
 
-5. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2020.netlify.com/ .
+5. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2020.netlify.com/ and accessible under https://2020.qcrypt.net .
 
 ## Customizing the theme
 
