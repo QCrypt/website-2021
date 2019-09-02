@@ -17,8 +17,8 @@ In the week of the QCrypt 2020 conference, there will be a [major sailing event]
 </a>
 
 ## Accommodation for QCrypt
-Therefore, accommodation will be expensive and
-difficult to find. We strongly encourage all participants to book their accommodation as early as possible.
+**Therefore, accommodation will be expensive and difficult to find.**
+We strongly encourage all participants to book their accommodation as early as possible. On some hotel and booking websites, it is possible to book hotels with free cancellation until shortly before the event.
 
 We have managed to secure offers from the following hotels:
 (see the map below for locations)
