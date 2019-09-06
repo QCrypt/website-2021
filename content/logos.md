@@ -10,6 +10,7 @@ Here are the logos to use for QCrypt 2020. Click on the logos to download.
 
 ### Transparent png, white font
 (you cannot use this one on white background)
+
 <a href="/images/logos/QCr_Logo.png" download>
   <img id="dark_bg" src="/images/logos/QCr_Logo.png"/>
 </a>
