@@ -30,7 +30,21 @@ Here are the logos to use for QCrypt 2020. Click on the logos to download.
   <img id="dark_bg" src="/images/logos/QCrypt_withlogo.png"/>
 </a>
 
-### Sheep
+### White Sheep
 <a href="/images/logos/sheep.png" download>
   <img id="dark_bg" src="/images/logos/sheep.png"/>
 </a>
+
+### Black Sheep
+<a href="/images/logos/black_sheep.png" download>
+  <img id="dark_bg" src="/images/logos/black_sheep.png"/>
+</a>
+
+## Letter template
+
+### Latex
+Download a
+<a href="/images/logos/letter.tex" download>
+  letter template for Latex
+</a>
+and preview the <a href="/images/logos/letter.pdf" target="_blank">resulting PDF</a>.
