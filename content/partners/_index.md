@@ -14,7 +14,7 @@ The annual QCrypt conference is the main international event that is dedicated t
 The 10th anniversary edition of the conference, QCrypt 2020, will take place in Amsterdam, August 10-14, 2020. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.
 
 ## Call for Sponsors
-**Download the <a href="/pdf/QCrypt_2020_sponsors.pdf" download>call for sponors in pdf format</a>.**
+**Download the <a href="/pdf/QCrypt_2020_sponsors.pdf" download>call for sponsors in pdf format</a>.**
 
 QCrypt 2020 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2020, and to present themselves during the conference by having their logo displayed, their leaflet distributed and, depending on the level of sponsorship, by being present at the conference with a stand. For QCrypt 2020, sponsorship is a crucial means to pay for certain features of the conference like tutorial talks and keynote speakers, as well as registration waving and travel grants for students from less privileged institutes.
 
@@ -50,7 +50,7 @@ If you wish to become a sponsor, please contact us at
 
 
 ## Call for Industry Exhibitors
-**Download the <a href="/pdf/QCrypt_2020_industry_exhibitors.pdf" download>call for sponors in pdf format</a>.**
+**Download the <a href="/pdf/QCrypt_2020_industry_exhibitors.pdf" download>call for sponsors in pdf format</a>.**
 
 QCrypt 2020 offers companies the possibility to have a stand at the venue of the conference, for the entire duration of the conference, close to where the coffee breaks take place. This is a great way to get the participants interested in your company, present your products, maybe have a small hands-on demo available, and promote your brand to this target audience.
 
@@ -61,7 +61,7 @@ QCrypt 2020 offers companies the possibility to have a stand at the venue of the
 
 ### Industry Exhibitor - Maxi (from € 3000)
 - Medium-sized logo displayed on the QCrypt 2020 website and in the conference booklet
-- A large front-row stand at the conference (incl two chairs, a poster board, a power outlet)
+- A large front-row stand at the conference (incl. two chairs, a poster board, a power outlet)
 - Complimentary access for two participants to the conference, including the dinner.
 
 If you wish to become a industry exhibitor, please contact us at
