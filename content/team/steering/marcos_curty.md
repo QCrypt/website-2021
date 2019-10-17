@@ -2,7 +2,7 @@
 title: Marcos Curty
 type: steering
 subtitle: University of Vigo
-job: SC member
+job: SC chair
 photo: marcos_curty.jpeg
 socials:
   - link: 'http://www.com.uvigo.es/index.php/en/personnel/faculty?task=info&id=8'
