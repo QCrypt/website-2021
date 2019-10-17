@@ -34,7 +34,7 @@ GoogleAnalytics = "UA-23222525-2"
 
 [params.logos]
     jumbo = "/images/logos/QCr_Logo.png"
-    header = "/images/logos/QCr_Logo.png"
+    header = "/images/logos/QCrTop.png"
     footer = "/images/logos/netlify-color-accent.svg"
     footer_link = "https://www.netlify.com"
 
