@@ -1,11 +1,11 @@
 ---
-title: Christoph Marquardt
+title: Stacey Jeffery
 type: steering
-subtitle: Max Planck Institute for the Science of Light
+subtitle: CWI
 job: SC member
-photo: christoph_marquardt.jpg
+photo: stace_jeffery.jpg
 socials:
-  - link: 'https://www.mpl.mpg.de/research-at-mpl/leuchs-emeritus-group/people/?L=0'
+  - link: 'https://homepages.cwi.nl/~jeffery/'
     name: Site
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: Christoph Marquardt
+title: Gorjan Alagic
 type: steering
-subtitle: Max Planck Institute for the Science of Light
+subtitle: University of Maryland
 job: SC member
-photo: christoph_marquardt.jpg
+photo: gorjan_alagic.jpg
 socials:
-  - link: 'https://www.mpl.mpg.de/research-at-mpl/leuchs-emeritus-group/people/?L=0'
+  - link: 'http://www.alagic.org/'
     name: Site
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: Christoph Marquardt
+title: Hugo Zbinden
 type: steering
-subtitle: Max Planck Institute for the Science of Light
-job: SC member
-photo: christoph_marquardt.jpg
+subtitle: University of Geneva
+job: SC co-chair
+photo: hugo_zbinden.jpg
 socials:
-  - link: 'https://www.mpl.mpg.de/research-at-mpl/leuchs-emeritus-group/people/?L=0'
+  - link: 'https://www.unige.ch/gap/qtech/team/hugo_zbinden'
     name: Site
 
 ---

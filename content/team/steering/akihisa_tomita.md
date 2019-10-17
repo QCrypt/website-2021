@@ -1,11 +1,11 @@
 ---
-title: Christoph Marquardt
+title: Akihisa Tomita
 type: steering
-subtitle: Max Planck Institute for the Science of Light
+subtitle: Hokkaido University
 job: SC member
-photo: christoph_marquardt.jpg
+photo: akihisa_tomita.jpg
 socials:
-  - link: 'https://www.mpl.mpg.de/research-at-mpl/leuchs-emeritus-group/people/?L=0'
+  - link: 'https://kkyoka.oeic.hokudai.ac.jp/frontier/en/researcher/18/vol3/061.html'
     name: Site
 
 ---
