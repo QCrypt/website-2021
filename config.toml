@@ -22,6 +22,7 @@ GoogleAnalytics = "UA-23222525-2"
     email = "2020@qcrypt.net"
     keywords = "event, quantum cryptography, QCrypt, Amsterdam"
     copyright = "We :heart: sheep"
+    copyright_link = "https://github.com/QCrypt/public-website"
     # cfpUrl = ""
     # subscriptionUrl = ""
     appleTouchIcon = "/apple-touch-icon.png"
@@ -33,8 +34,9 @@ GoogleAnalytics = "UA-23222525-2"
 
 [params.logos]
     jumbo = "/images/logos/QCr_Logo.png"
-    header = "/images/logos/sheep.png"
+    header = "/images/logos/QCrTop.png"
     footer = "/images/logos/netlify-color-accent.svg"
+    footer_link = "https://www.netlify.com"
 
 #[menu]
 #[[menu.main]]
