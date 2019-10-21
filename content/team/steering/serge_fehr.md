@@ -2,7 +2,7 @@
 title: Serge Fehr
 type: steering
 subtitle: CWI, Leiden University, QuSoft
-job: SC member
+job: SC co-chair
 photo: serge_fehr.jpg
 socials:
   - link: 'https://homepages.cwi.nl/~fehr/'

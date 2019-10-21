@@ -19,6 +19,9 @@ content:
       - nameKey: footer_charter
         url: /charter/
         newTab: false
+      - nameKey: footer_previous_confs
+        url: /previous_confs/
+        newTab: false
 
   # - title: footer_previous_edition
   #   links:
