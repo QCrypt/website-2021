@@ -19,9 +19,12 @@ content:
       - nameKey: footer_charter
         url: /charter/
         newTab: false
-      - nameKey: footer_previous_confs
-        url: /previous_confs/
+  - title: footer_extra
+    links:
+      - nameKey: footer_logos
+        url: /logos/
         newTab: false
+
 
   # - title: footer_previous_edition
   #   links:
