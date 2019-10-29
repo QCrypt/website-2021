@@ -1,5 +1,6 @@
 ---
 title: Stacey Jeffery
+surname: Jeffery
 type: steering
 subtitle: CWI
 job: SC member

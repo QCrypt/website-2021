@@ -1,5 +1,6 @@
 ---
 title: Martine de Wit
+surname: Wit
 type: org
 subtitle: University of Amsterdam
 job: Communications Office

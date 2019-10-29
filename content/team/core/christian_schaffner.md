@@ -1,5 +1,6 @@
 ---
 title: Christian Schaffner
+surname: Schaffner
 type: core
 subtitle: University of Amsterdam, QuSoft
 job: General chair

@@ -1,5 +1,6 @@
 ---
 title: Qiang Zhang
+surname: Zhang
 type: steering
 subtitle: University of Science and Technology of China
 job: SC chair

@@ -1,5 +1,6 @@
 ---
 title: Marcos Curty
+surname: Curty
 type: steering
 subtitle: University of Vigo
 job: SC member

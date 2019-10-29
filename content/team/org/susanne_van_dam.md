@@ -1,5 +1,6 @@
 ---
 title: Susanne van Dam
+surname: Dam
 type: org
 subtitle: CWI
 job: secretary

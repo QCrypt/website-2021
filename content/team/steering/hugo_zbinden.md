@@ -1,5 +1,6 @@
 ---
 title: Hugo Zbinden
+surname: Zbinden
 type: steering
 subtitle: University of Geneva
 job: SC member

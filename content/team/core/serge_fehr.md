@@ -1,5 +1,6 @@
 ---
 title: Serge Fehr
+surname: Fehr
 type: core
 subtitle: CWI, QuSoft
 job: General chair, SC co-chair

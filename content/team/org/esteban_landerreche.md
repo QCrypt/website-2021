@@ -1,5 +1,6 @@
 ---
 title: Esteban Landerreche
+surname: Landerreche
 type: org
 subtitle: CWI
 job: design

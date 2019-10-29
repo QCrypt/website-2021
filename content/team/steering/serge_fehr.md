@@ -1,5 +1,6 @@
 ---
 title: Serge Fehr
+surname: Fehr
 type: steering
 subtitle: CWI, Leiden University, QuSoft
 job: SC co-chair

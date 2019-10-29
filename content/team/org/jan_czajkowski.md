@@ -1,5 +1,6 @@
 ---
 title: Jan Czajkowski
+surname: Czajkowski
 type: org
 subtitle: University of Amsterdam
 job: website

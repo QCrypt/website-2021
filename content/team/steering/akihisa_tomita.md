@@ -1,5 +1,6 @@
 ---
 title: Akihisa Tomita
+surname: Tomita
 type: steering
 subtitle: Hokkaido University
 job: SC member
