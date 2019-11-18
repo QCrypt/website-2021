@@ -27,11 +27,17 @@ We have managed to secure offers from the following hotels:
 |:----|---:|---:|---|
 |<a href="https://www.thestudenthotel.com/amsterdam-west/hotel/" target="_blank">THE STUDENT HOTEL Amsterdam West</a> | 135 | €69 | coming soon |
 |<a href="https://www.thestudenthotel.com/amsterdam-city/" target="_blank">THE STUDENT HOTEL Amsterdam City</a> | 15 | €154 | coming soon |
-|<a href="https://www.nh-hotels.nl/hotel/nh-amsterdam-schiller" target="_blank">NH Schiller</a> | 15 | €189 / €206| coming soon |
-|<a href="https://www.nh-hotels.nl/hotel/nh-amsterdam-caransa" target="_blank">NH Caransa</a> | 15 | €189 / €206| coming soon |
+|<a href="https://www.nh-hotels.nl/hotel/nh-amsterdam-schiller" target="_blank">NH Schiller</a> | 15 | €189 / €206| <a href="https://www.nh-hotels.com/event/10-to-14-august-2020--amsterdam--the-netherlands" target="_blank">book now</a> |
+|<a href="https://www.nh-hotels.nl/hotel/nh-amsterdam-caransa" target="_blank">NH Caransa</a> | 15 | €189 / €206| <a href="https://www.nh-hotels.com/event/10-to-14-august-2020-amsterdam-the-netherlands" target="_blank">book now</a> |
 |<a href="https://www.edenhotelamsterdam.com/en/" target="_blank">Eden Hotel</a> | 15 | €200 / €215 | coming soon |
 |<a href="https://www.themanorhotelamsterdam.com/en/" target="_blank">Manor Hotel</a> | 15 | €190/ €205 | coming soon |
 |<a href="https://www.thelancasterhotelamsterdam.com/en/" target="_blank">Lancaster Hotel</a> | 15 | €180 / €195 | coming soon |
+
+You may also find a suitable offer via the <a href="https://book.raihotelservices.com/EventPortal/Information/QC20/HOTEL.aspx" target="_blank">RAI Hotel Service</a>.
+
+
+
+
 
 
 ## Map of Hotels and Conference Locations
