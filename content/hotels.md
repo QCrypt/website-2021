@@ -25,8 +25,8 @@ We have managed to secure offers from the following hotels:
 
 | Hotel | # rooms| single/double occupancy <br> (per night incl VAT, excl City Tax) | booking link|
 |:----|---:|---:|---|
-|<a href="https://www.thestudenthotel.com/amsterdam-west/hotel/" target="_blank">THE STUDENT HOTEL Amsterdam West</a> | 135 | €69 | coming soon |
-|<a href="https://www.thestudenthotel.com/amsterdam-city/" target="_blank">THE STUDENT HOTEL Amsterdam City</a> | 15 | €154 | coming soon |
+|<a href="https://www.thestudenthotel.com/amsterdam-west/hotel/" target="_blank">THE STUDENT HOTEL Amsterdam West</a> | 135 | €69 | <a href="https://www.thestudenthotel.com/book/" target="_blank">book now</a> with the discount code 'QCRYPT' |
+|<a href="https://www.thestudenthotel.com/amsterdam-city/" target="_blank">THE STUDENT HOTEL Amsterdam City</a> | 15 | €154 | <a href="https://www.thestudenthotel.com/book/" target="_blank">book now</a> with the discount code 'QCRYPT' |
 |<a href="https://www.nh-hotels.nl/hotel/nh-amsterdam-schiller" target="_blank">NH Schiller</a> | 15 | €189 / €206| <a href="https://www.nh-hotels.com/event/10-to-14-august-2020--amsterdam--the-netherlands" target="_blank">book now</a> |
 |<a href="https://www.nh-hotels.nl/hotel/nh-amsterdam-caransa" target="_blank">NH Caransa</a> | 15 | €189 / €206| <a href="https://www.nh-hotels.com/event/10-to-14-august-2020-amsterdam-the-netherlands" target="_blank">book now</a> |
 |<a href="https://www.edenhotelamsterdam.com/en/" target="_blank">Eden Hotel</a> | 15 | €200 / €215 | <a href="https://gc.synxis.com/rez.aspx?Hotel=51167&Chain=12113&group=GRPQCrypt" target="_blank">book now</a> |
