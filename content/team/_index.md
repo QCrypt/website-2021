@@ -17,7 +17,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 <!-- ... -->
 
-{{< teams types="core=Main Organizers,org=Organizers,steering=Steering Committee" >}}
+{{< teams types="core=Main Organizers,org=Organizers,steering=Steering Committee,advisory=Advisory Committee" >}}
 
 <!-- ... -->
 
