@@ -1,11 +1,11 @@
 ---
 title: Committees
-
 menu:
   main:
     weight: 60
 
 type: text_page
+layout: single
 draft: false
 ---
 
@@ -13,21 +13,21 @@ draft: false
 To make all this possible, these people are working behind the scenes.
 
 
-## Organizing Committee
+# Organizing Committee
 
 {{< teams types="core=Main Organizers,org=Organizers" >}}
 
-## Steering Committee
+# Steering Committee
 
 {{< teams types="steering" >}}
 
 
-## Advisory  Committee
+# Advisory  Committee
 
 {{< teams types="advisory" >}}
 
 
-## Program Committee
+# Program Committee
 
 - Frédéric Dupuis (chair)
 - Feihu Xu (co-chair)
