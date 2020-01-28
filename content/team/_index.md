@@ -1,33 +1,43 @@
 ---
-title: Team
-type: team
+title: Committees
+
 menu:
   main:
     weight: 60
 
+type: text_page
 draft: false
-
 ---
 
-{{% hero %}}
 
 To make all this possible, these people are working behind the scenes.
 
-{{% /hero %}}
 
-<!-- ... -->
+## Organizing Committee
 
-{{< teams types="core=Main Organizers,org=Organizers,steering=Steering Committee,advisory=Advisory Committee" >}}
+{{< teams types="core=Main Organizers,org=Organizers" >}}
 
-<!-- ... -->
+## Steering Committee
 
-<section class="members">
-  <h2>Program committee</h2>
+{{< teams types="steering" >}}
+
+
+## Advisory  Committee
+
+{{< teams types="advisory" >}}
+
+
+## Program Committee
+
+- Frédéric Dupuis (chair)
+- Feihu Xu (co-chair)
+
+<!-- <section class="members">
   <ul>
-    <li>Member 1</li>
-    <li>Member 2</li>
+    <li>Frédéric Dupuis (chair)</li>
+    <li>Feihu Xu (co-chair)</li>
   </ul>
-</section>
+</section> -->
 
 
 <!--
