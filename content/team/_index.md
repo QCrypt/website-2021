@@ -4,8 +4,8 @@ menu:
   main:
     weight: 60
 
-type: text_page
-layout: single
+type: team
+layout: list_with_header
 draft: false
 ---
 
