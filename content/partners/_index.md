@@ -18,7 +18,7 @@ The 10th anniversary edition of the conference, QCrypt 2020, will take place in 
 
 QCrypt 2020 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2020, and to present themselves during the conference by having their logo displayed, their leaflet distributed and, depending on the level of sponsorship, by being present at the conference with a stand. For QCrypt 2020, sponsorship is a crucial means to pay for certain features of the conference like tutorial talks and keynote speakers, as well as registration waving and travel grants for students from less privileged institutes.
 
-QCrypt 2020 offers the following sponsor packages:
+QCrypt 2020 offers the following sponsor packages: (all amounts are exluding added value tax)
 
 ### Bronze Sponsor (from € 2500)
 - Small logo displayed on the QCrypt 2020 website and in the conference booklet
@@ -53,6 +53,7 @@ If you wish to become a sponsor, please contact us at
 **Download the <a href="/pdf/QCrypt_2020_industry_exhibitors.pdf" download>call for industry exhibitors in pdf format</a>.**
 
 QCrypt 2020 offers companies the possibility to have a stand at the venue of the conference, for the entire duration of the conference, close to where the coffee breaks take place. This is a great way to get the participants interested in your company, present your products, maybe have a small hands-on demo available, and promote your brand to this target audience.
+(all amounts are exluding added value tax)
 
 ### Industry Exhibitor - Mini (from € 1500)
 - Small logo displayed on the QCrypt 2020 website and in the conference booklet
