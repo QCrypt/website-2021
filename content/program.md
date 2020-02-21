@@ -8,7 +8,7 @@ type: text_page
 draft: false
 ---
 
-## Key dates
+<!-- ## Key dates
 The following are **preliminary** key dates of QCrypt 2020:
 
 |Date |Event|
@@ -21,7 +21,7 @@ The following are **preliminary** key dates of QCrypt 2020:
 |15 June 2020| Early bird registration deadline|
 |10-14 August 2020| QCrypt 2020|
 
-
+ -->
 
 ## Google Calendar
 Subscribe to this calendar to stay updated about the official dates and events.
