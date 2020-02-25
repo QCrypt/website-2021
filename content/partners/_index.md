@@ -18,7 +18,7 @@ The 10th anniversary edition of the conference, QCrypt 2020, will take place in 
 
 QCrypt 2020 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2020, and to present themselves during the conference by having their logo displayed, their leaflet distributed and, depending on the level of sponsorship, by being present at the conference with a stand. For QCrypt 2020, sponsorship is a crucial means to pay for certain features of the conference like tutorial talks and keynote speakers, as well as registration waving and travel grants for students from less privileged institutes.
 
-QCrypt 2020 offers the following sponsor packages: (all amounts are exluding added value tax)
+QCrypt 2020 offers the following sponsor packages:
 
 ### Bronze Sponsor (from € 2500)
 - Small logo displayed on the QCrypt 2020 website and in the conference booklet
@@ -43,6 +43,7 @@ QCrypt 2020 offers the following sponsor packages: (all amounts are exluding add
 ### Platinum Sponsor (from €12’000)
 Gold Sponsor benefits, plus further benefits that can be discussed with the conference chairs.
 
+<i>Please note: VAT is applicable at 21% on all packages. However if your company is a non-Dutch Company and is in the EU, a VAT exemption may apply.</i><br>
 If you wish to become a sponsor, please contact us at
 {{< button-link label="2020@qcrypt.net"
                 url="mailto:2020@qcrypt.net"
@@ -65,6 +66,7 @@ QCrypt 2020 offers companies the possibility to have a stand at the venue of the
 - A large front-row stand at the conference (incl. two chairs, a poster board, a power outlet)
 - Complimentary access for two participants to the conference, including the dinner.
 
+<i>Please note: VAT is applicable at 21% on all packages. However if your company is a non-Dutch Company and is in the EU, a VAT exemption may apply.</i><br>
 If you wish to become a industry exhibitor, please contact us at
 {{< button-link label="2020@qcrypt.net"
                 url="mailto:2020@qcrypt.net"
