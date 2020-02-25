@@ -58,12 +58,12 @@ QCrypt 2020 offers companies the possibility to have a stand at the venue of the
 
 ### Industry Exhibitor - Mini (from € 1500)
 - Small logo displayed on the QCrypt 2020 website and in the conference booklet
-- A small stand at the conference (incl. two chairs, a poster board, a power outlet)
+- A small stand: table (160cm x 80cm), chair(s), poster board, power outlet
 - Complimentary access for one participant to the conference, including the dinner.
 
 ### Industry Exhibitor - Maxi (from € 3000)
 - Medium-sized logo displayed on the QCrypt 2020 website and in the conference booklet
-- A large front-row stand at the conference (incl. two chairs, a poster board, a power outlet)
+- Large stand: table (200cm x 80cm), standing table (80cm x 80cm), chairs, poster board, power outlet
 - Complimentary access for two participants to the conference, including the dinner.
 
 <i>Please note: VAT is applicable at 21% on all packages. However if your company is a non-Dutch Company and is in the EU, a VAT exemption may apply.</i><br>
