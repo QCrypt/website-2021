@@ -18,11 +18,11 @@ The following are **preliminary** key dates of QCrypt 2020:
 |Date |Event|
 |:----|:----|
 |2 March 2020| Paper submission open|
-|25 March 2020| Talk submission deadline|
+|1 April 2020| Talk submission deadline|
 |22 May 2020|Talk acceptance notification|
-|31 May 2020|Poster submission deadline|
-|12 June 2020| Poster acceptance notification|
-|15 June 2020| Early bird registration deadline|
+|1 June 2020|Poster submission deadline|
+|15 June 2020| Poster acceptance notification|
+|22 June 2020| Early bird registration deadline|
 |10-14 August 2020| QCrypt 2020|
 
 Subscribe to our calendar to stay updated about the official dates and events <a href="/program">here</a>.

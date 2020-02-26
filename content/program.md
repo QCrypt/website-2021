@@ -4,7 +4,8 @@ menu:
   main:
     weight: 40
 
-type: text_page
+type: team
+layout: list_with_header
 draft: false
 ---
 
@@ -22,6 +23,10 @@ The following are **preliminary** key dates of QCrypt 2020:
 |10-14 August 2020| QCrypt 2020|
 
  -->
+
+## Invited and Tutorial Speakers
+
+{{< teams types="speakers" >}}
 
 ## Google Calendar
 Subscribe to this calendar to stay updated about the official dates and events.
