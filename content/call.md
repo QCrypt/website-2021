@@ -13,7 +13,7 @@ draft: false
 The annual conference on quantum cryptography (QCrypt) solicits submissions for contributed talks and posters.
 
 ## Key dates
-The following are **preliminary** key dates of QCrypt 2020:
+The following are the key dates of QCrypt 2020:
 
 |Date |Event|
 |:----|:----|
