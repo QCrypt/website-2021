@@ -4,9 +4,8 @@ menu:
   main:
     weight: 40
 
-type: team
-layout: list_with_header
 draft: false
+type: text_page
 ---
 
 <!-- ## Key dates
@@ -24,9 +23,17 @@ The following are **preliminary** key dates of QCrypt 2020:
 
  -->
 
+
+<!-- 
 ## Invited and Tutorial Speakers
 
-{{< teams types="speakers" >}}
+
+{{% speakers %}}
+
+{{% /speakers %}} -->
+
+
+
 
 ## Google Calendar
 Subscribe to this calendar to stay updated about the official dates and events.

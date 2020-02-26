@@ -4,8 +4,8 @@ menu:
   main:
     weight: 90
 
-draft: false
 type: text_page
+draft: false
 ---
 
 

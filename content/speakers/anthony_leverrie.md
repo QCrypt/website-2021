@@ -1,7 +1,7 @@
 ---
-title: Anthony Leverrier
+name: Anthony Leverrier
 surname: Leverrier
-subtitle: INRIA
+company: INRIA
 photo: Anthony_Leverrier.jpg
 socials:
   - link: 'https://sites.google.com/site/anthonyleverrier/'

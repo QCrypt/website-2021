@@ -1,7 +1,7 @@
 ---
-title: Eleni Diamanti
+name: Eleni Diamanti
 surname: Diamanti
-subtitle: Sorbonne University
+company: Sorbonne University
 photo: Eleni-Diamanti.jpg
 socials:
   - link: 'https://www-soc.lip6.fr/~ediamanti/'

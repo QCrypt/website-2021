@@ -4,8 +4,8 @@ menu:
   main:
     weight: 30
 
-type: text_page
 draft: false
+type: text_page
 ---
 
 ## Conference Venue
