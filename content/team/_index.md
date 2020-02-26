@@ -13,21 +13,21 @@ draft: false
 To make all this possible, these people are working behind the scenes.
 
 
-# Organizing Committee
+## Organizing Committee
 
 {{< teams types="core=Main Organizers,org=Organizers" >}}
 
-# Steering Committee
+## Steering Committee
 
 {{< teams types="steering" >}}
 
 
-# Advisory  Committee
+## Advisory  Committee
 
 {{< teams types="advisory" >}}
 
 
-# Program Committee
+## Program Committee
 
 - Davide Bacco (DTU, Denmark)
 - Eleni Diamanti (CNRS, Sorbonne Université, France)
