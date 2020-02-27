@@ -2,7 +2,7 @@
 title: Nicolas Gisin
 surname: Gisin
 type: advisory
-subtitle: IQC, University of Waterloo
+subtitle: University of Geneva
 job: AC member
 photo: nicolas_gisin.jpg
 socials:
