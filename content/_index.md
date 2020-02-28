@@ -16,9 +16,9 @@ menu:
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
 -->
 
-<a class="btn primary btn-lg" href="/partners">
+<a class="btn primary btn-lg" href="/call">
 <!--    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg> -->
-    Become a sponsor
+    Call for Papers
 </a>
 
 {{% /jumbo %}}
