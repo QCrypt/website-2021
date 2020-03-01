@@ -7,6 +7,7 @@ Live site at https://2020.qcrypt.net
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
 
+theme submodule at https://github.com/QCrypt/devfest-theme-hugo
 
 ## Building this conference site from scratch
 
