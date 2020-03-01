@@ -42,7 +42,7 @@ menu:
 
 ## What is QCrypt 2020?
 
-QCrypto 2020 is the 10th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/previous_confs">here</a>.
+QCrypto 2020 is the 10th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
 
 {{% /home-info %}}
 
