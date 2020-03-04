@@ -17,7 +17,7 @@ The following are the key dates of QCrypt 2020:
 
 |Date |Event|
 |:----|:----|
-|2 March 2020| Paper submission open|
+|10 March 2020| Talk submission open|
 |1 April 2020| Talk submission deadline|
 |22 May 2020|Talk acceptance notification|
 |1 June 2020|Poster submission deadline|
@@ -50,7 +50,7 @@ For a "poster only" submission, a one-page non-technical PDF is sufficient as th
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
-__The link to the submission site will appear here after 2 March 2020__
+__The link to the submission site will appear here after 10 March 2020__
 
 <!-- "Poster only" submissions will be accepted after the notification for talks (7th June). For these submissions,  a one-page non-technical PDF is sufficient as the extended abstract. -->
 
