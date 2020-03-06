@@ -10,13 +10,14 @@ layout: list_with_header
 ---
 
 
-
-## Invited and Tutorial Speakers
-
+## Invited Speakers
 
 {{< speakers-invited >}}
-
 {{< /speakers-invited >}}
+
+## Tutorial Speakers
+{{< speakers-tutorial >}}
+{{< /speakers-tutorial >}}
 
 
 
