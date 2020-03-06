@@ -52,6 +52,10 @@ The extended abstract may refer to technical details which are presented elsewhe
 
 __The link to the submission site will appear here after 10 March 2020__
 
+## Impact of coronavirus outbreak
+Check <a href="/corona">this site for updates</a> on the possible impact of the coronovirus outbreak on QCrypt 2020.
+
+
 <!-- "Poster only" submissions will be accepted after the notification for talks (7th June). For these submissions,  a one-page non-technical PDF is sufficient as the extended abstract. -->
 
 
