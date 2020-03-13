@@ -50,7 +50,7 @@ For a "poster only" submission, a one-page non-technical PDF is sufficient as th
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
-__The link to the submission site will appear here after 10 March 2020__
+The submission server is now available at: <a href="https://qcrypt2020.iro.umontreal.ca/" target="_blank">https://qcrypt2020.iro.umontreal.ca/</a>
 
 ## Impact of coronavirus outbreak
 Check <a href="/corona">this site for updates</a> on the possible impact of the coronovirus outbreak on QCrypt 2020.
