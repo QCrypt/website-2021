@@ -1,12 +1,12 @@
 ---
 name: Yang Liu
 surname: Liu
-company: Tsinghua University
+company: Jinan Quantum Technology Institute
 photoURL: yang_liu.jpg
 type: invited
-website: 'https://nlp.csai.tsinghua.edu.cn/~ly/'
+website: 'http://quantum.ustc.edu.cn/web/index.php/en/node/385'
 socials:
-  - link: 'https://nlp.csai.tsinghua.edu.cn/~ly/'
+  - link: 'http://quantum.ustc.edu.cn/web/index.php/en/node/385'
     name: Site
 
 ---
