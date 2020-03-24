@@ -15,14 +15,15 @@ The annual conference on quantum cryptography (QCrypt) solicits submissions for 
 ## Key dates
 The following are the key dates of QCrypt 2020:
 
-|Date |Event|
-|:----|:----|
-|10 March 2020| Talk submission open|
-|1 April 2020| Talk submission deadline|
-|22 May 2020|Talk acceptance notification|
-|1 June 2020|Poster submission deadline|
-|15 June 2020| Poster acceptance notification|
-|22 June 2020| Early bird registration deadline|
+|Date |Event| Old Date|
+|:----|:----|----:|
+|10 March 2020| Talk submission open||
+|Fri, 17 April 2020  |Talk submission deadline|<del>1 April 2020</del>|
+|Mon, 1 June 2020 | decision whether physical QCrypt 2020 takes place |
+|Sun, 7 June 2020    |Talk acceptance notification|<del>22 May 2020</del>|
+|Mon, 15 June 2020|Poster submission deadline|<del>1 June 2020</del>|
+|Sat, 20 June 2020| Poster acceptance notification|<del>15 June 2020</del>|
+|Tue, 30 June 2020| Early bird registration deadline|<del>22 June 2020</del>|
 |10-14 August 2020| QCrypt 2020|
 
 Subscribe to <a href="/speakers/#google-calendar">our calendar</a> to stay updated about the official dates and events <a href="/speakers/#google-calendar">here</a>.
