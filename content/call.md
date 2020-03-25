@@ -12,6 +12,14 @@ draft: false
 ## Call for contributed talks and posters
 The annual conference on quantum cryptography (QCrypt) solicits submissions for contributed talks and posters.
 
+## Poster
+Our poster is now available! Please <a href="/poster">download and print it yourself!</a>.
+
+<a href="/poster">
+  <img height=300 id="dark_bg" src="/images/poster/QCryptPoster.png"/>
+</a>
+
+
 ## Key dates
 The following are the key dates of QCrypt 2020:
 

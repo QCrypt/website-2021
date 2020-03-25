@@ -21,8 +21,8 @@ content:
         newTab: false
   - title: footer_extra
     links:
-      - nameKey: footer_logos
-        url: /logos/
+      - nameKey: footer_poster
+        url: /poster/
         newTab: false
 
 

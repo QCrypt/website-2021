@@ -1,9 +1,21 @@
 ---
-title: Logos and Templates
+title: Poster, Logos and Templates
 
 draft: false
 type: text_page
 ---
+
+## Poster
+See below for the official poster of QCrypt 2020. You can download and print yourself the following versions:
+
+* <a href="/images/poster/QCryptPosterA3.pdf" download>A3 PDF</a>
+* <a href="/images/poster/QCryptPosterA4.pdf" download>A4 PDF</a>
+* <a href="/images/poster/QCryptPoster.png" download>PNG</a>
+
+<a href="/images/poster/QCryptPoster.png" download>
+  <img id="dark_bg" src="/images/poster/QCryptPoster.png"/>
+</a>
+
 
 ## Logos
 Here are the logos to use for QCrypt 2020. Click on the logos to download.
