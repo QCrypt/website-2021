@@ -43,7 +43,7 @@ QCrypt 2020 offers the following sponsor packages:
 ### Platinum Sponsor (from €12’000)
 Gold Sponsor benefits, plus further benefits that can be discussed with the conference chairs.
 
-<i>Please note: VAT is applicable at 21% on all packages. However if your company is a non-Dutch Company and is in the EU, a VAT exemption may apply.</i><br>
+<i>Please note: VAT is applicable on all packages.</i><br>
 If you wish to become a sponsor, please contact us at
 {{< button-link label="2020@qcrypt.net"
                 url="mailto:2020@qcrypt.net"
@@ -66,7 +66,7 @@ QCrypt 2020 offers companies the possibility to have a stand at the venue of the
 - Large stand: table (200cm x 80cm), standing table (80cm x 80cm), chairs, poster board, power outlet
 - Complimentary access for two participants to the conference, including the dinner.
 
-<i>Please note: VAT is applicable at 21% on all packages. However if your company is a non-Dutch Company and is in the EU, a VAT exemption may apply.</i><br>
+<i>Please note: VAT is applicable on all packages.</i><br>
 If you wish to become a industry exhibitor, please contact us at
 {{< button-link label="2020@qcrypt.net"
                 url="mailto:2020@qcrypt.net"
