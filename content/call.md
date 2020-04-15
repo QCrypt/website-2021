@@ -32,6 +32,7 @@ The following are the key dates of QCrypt 2020:
 |Mon, 15 June 2020|Poster submission deadline|<del>1 June 2020</del>|
 |Sat, 20 June 2020| Poster acceptance notification|<del>15 June 2020</del>|
 |Tue, 30 June 2020| Early bird registration deadline|<del>22 June 2020</del>|
+|Wed, 5 August 2020| Online registration deadline|
 |10-14 August 2020| QCrypt 2020|
 
 Subscribe to <a href="/speakers/#google-calendar">our calendar</a> to stay updated about the official dates and events <a href="/speakers/#google-calendar">here</a>.
