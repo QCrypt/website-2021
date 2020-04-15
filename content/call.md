@@ -47,7 +47,7 @@ QCrypt solicits submissions of extended abstracts describing recent research res
 In line with the goal of showcasing the best results each year from all subfields, the conference has no published proceedings. Yet, contributed talks are highly competitive. QCrypt welcomes the submission of any interesting and important result, while allowing researchers from a wide range of disciplines to pursue publication in any venue appropriate to their field.
 
 ### Student Paper Prize
-Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt (unless this is not possible for good reasons), and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas.
+Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 
 ### Program Committee
 Program committee list can be found <a href="/team/#program-committee">here</a>.
