@@ -1,5 +1,5 @@
 ---
-title: Corona
+title: Corona updates
 menu:
   main:
     weight: 15
@@ -7,6 +7,9 @@ menu:
 draft: false
 type: text_page
 ---
+
+## 7 May 2020: virtual event
+Due to the current global situation caused by the COVID-19 pandemic, we are unable to hold a physical version of QCrypt 2020 in Amsterdam. Together with the QCrypt steering committee, the local organizers have decided to follow the example of many other scientific conferences and hold QCrypt 2020 as a fully virtual event. Details will be announced in the coming weeks here. The next physical edition of QCrypt will take place in Amsterdam in August 2021. We hope to see many of you in person again there!
 
 ## 24 March 2020: postponing deadlines
 Because of the ongoing coronavirus situation, in discussions among the Steering Committee, the PC Chairs, and the Local Organizers, the following decisions have been made:
@@ -21,5 +24,5 @@ The QCrypt Steering Committee and the local organizers of QCrypt 2020 are closel
 ## Official Websites
 For further information, we refer to the following official websites (in English):
 
-* Dutch National Insittue for Public Health and the Environment: https://www.rivm.nl/en/novel-coronavirus-covid-19
+* Dutch National Institute for Public Health and the Environment: https://www.rivm.nl/en/novel-coronavirus-covid-19
 * University of Amsterdam: https://www.uva.nl/en/current/coronavirus/coronavirus.html

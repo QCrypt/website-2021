@@ -54,6 +54,11 @@ GoogleAnalytics = "UA-23222525-2"
 [taxonomies]
     tag = "tags"
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 [privacy]
     [privacy.disqus]
         disable = true

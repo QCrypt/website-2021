@@ -3,9 +3,6 @@ title: Hotels
 image: /images/backgrounds/sail.jpg
 type: with_banner
 fullTitle: Accommodation and SAIL
-menu:
-  main:
-    weight: 20
 
 draft: false
 ---
@@ -17,7 +14,7 @@ In the week of the QCrypt 2020 conference, there will be a [major sailing event]
 </a>
 
 ## Accommodation for QCrypt
-Therefore, accommodation might be expensive and difficult to find. We strongly encourage all participants to book their accommodation as early as possible. On some hotel and booking websites, it is possible to book hotels with free cancellation until shortly before the event, possibly at lower rates than the guaranteed ones stated below. 
+Therefore, accommodation might be expensive and difficult to find. We strongly encourage all participants to book their accommodation as early as possible. On some hotel and booking websites, it is possible to book hotels with free cancellation until shortly before the event, possibly at lower rates than the guaranteed ones stated below.
 
 We have managed to secure offers from the following hotels:
 (see the map below for locations, please click the __book now__ link to make a booking)

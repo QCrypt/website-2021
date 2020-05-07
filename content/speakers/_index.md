@@ -19,7 +19,8 @@ layout: list_with_header
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
 
-
+## Virtual event
+In the coming weeks, we will update this page with details of how to participate virtually in QCrypt 2020.
 
 ## Google Calendar
 Subscribe to this calendar to stay updated about the official dates and events.

@@ -8,6 +8,7 @@ type: text_page
 draft: false
 ---
 
+**Due to the restrictions caused by the global COVID-19 pandemic, QCrypt 2020 will be held as a fully virtual event. We will get in touch with our sponsors soon.**
 
 The annual QCrypt conference is the main international event that is dedicated to the latest developments in the field of quantum cryptography. Researchers from all over the world present their recent scientific discoveries in the field and companies display their latest relevant technology. The topic of the conference covers all aspects of *cryptographic security in the presence of quantum devices*, including - but not limited to - quantum key distribution, quantum randomness generation, and the impact of quantum computers on classical cryptography.
 

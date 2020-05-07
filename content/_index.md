@@ -10,15 +10,16 @@ menu:
 
 ## 10-14 August 2020
 
-### Amsterdam, The Netherlands
+### 2020: online conference
+### August 2021: Amsterdam, The Netherlands
 
 <!--
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
 -->
 
-<a class="btn primary btn-lg" href="/call">
+<a class="btn primary btn-lg" href="/corona">
 <!--    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg> -->
-    Call for Papers
+    Updates
 </a>
 
 {{% /jumbo %}}
@@ -107,7 +108,7 @@ QCrypto 2020 is the 10th edition of the yearly international scientific conferen
     longitude="4.9120849"
     %}}
 
-## The venue
+## The 2021 venue
 
 ### Roeterseiland Campus, University of Amsterdam
 

@@ -1,8 +1,5 @@
 ---
 title: Venues
-menu:
-  main:
-    weight: 30
 
 draft: false
 type: text_page
@@ -28,11 +25,12 @@ Roeterseiland Campus, Roetersstraat, 1018 WD Amsterdam, The Netherlands
 The conference dinner will take place on Thursday evening, 13 August 2020 at the Restaurant de IJkantine, reachable by a free ferry from the back side of Central Station.
 
 
-
+<!--
 ### SAIL Amsterdam
 In the week of the QCrypt 2020 conference, there will be a [major sailing event](https://en.wikipedia.org/wiki/SAIL_Amsterdam) taking place in Amsterdam: <a href="https://www.sail.nl/" target="_blank"> <img src="/images/logos/sail.png" alt="sail logo" height="40"/></a>
 During this quinquennial maritime event, various tall ships from all over the world will be on display on the IJ (the river north of Amsterdam Central Station). As the conference restaurant is directly facing the IJ, it promises to be quite a spectacle.
 However, it will also be very crowded, so calculate enough time to get there.
+-->
 
 ### NDSM Wharf
 (from https://www.ndsm.nl/en/practical-information/)
