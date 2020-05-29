@@ -31,9 +31,9 @@ You can contact us via email to <a href="mailto:2020@qcrypt.net">2020@qcrypt.net
 
 
 ## Program Committee
+You can contact the PC chairs via email to <a href="mailto:pcchairs2020@qcrypt.net">pcchairs2020@qcrypt.net</a>.<br>
 
 ### PC chairs
-You can contact the PC chairs via email to <a href="mailto:pcchairs2020@qcrypt.net">pcchairs2020@qcrypt.net</a>.
 - Frédéric Dupuis (Université de Montréal, __chair__)
 - Feihu Xu (University of Science and Technology of China, __co-chair__)
 ### PC committee
