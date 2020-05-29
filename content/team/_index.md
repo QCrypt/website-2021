@@ -36,6 +36,7 @@ You can contact the PC chairs via email to <a href="mailto:pcchairs2020@qcrypt.n
 ### PC chairs
 - Frédéric Dupuis (Université de Montréal, __chair__)
 - Feihu Xu (University of Science and Technology of China, __co-chair__)
+
 ### PC committee
 - Davide Bacco (DTU, Denmark)
 - Eleni Diamanti (CNRS, Sorbonne Université, France)
