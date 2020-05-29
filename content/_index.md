@@ -39,7 +39,7 @@ menu:
  -->
 
 <!-- INFO -->
-{{% home-info what="Participants:350,Tutorials:4,Invited Talks:8,Contributed Talks:24" class="primary" %}}
+{{% home-info what="Participants:350,Tutorials:4,Invited Talks:6,Contributed Talks:30" class="primary" %}}
 
 ## What is QCrypt 2020?
 

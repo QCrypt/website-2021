@@ -15,6 +15,9 @@ To make all this possible, these people are working behind the scenes.
 
 ## Organizing Committee
 
+You can contact us via email <a href="mailto:2020@qcrypt.net">2020@qcrypt.net</a>.
+
+
 {{< teams types="core=Main Organizers,org=Organizers" >}}
 
 ## Steering Committee
