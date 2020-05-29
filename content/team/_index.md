@@ -15,7 +15,7 @@ To make all this possible, these people are working behind the scenes.
 
 ## Organizing Committee
 
-You can contact us via email <a href="mailto:2020@qcrypt.net">2020@qcrypt.net</a>.
+You can contact us via email to <a href="mailto:2020@qcrypt.net">2020@qcrypt.net</a>.
 
 
 {{< teams types="core=Main Organizers,org=Organizers" >}}
@@ -32,9 +32,13 @@ You can contact us via email <a href="mailto:2020@qcrypt.net">2020@qcrypt.net</a
 
 ## Program Committee
 
+### PC chairs
+You can contact the PC chairs via email to <a href="mailto:pcchairs2020@qcrypt.net">pcchairs2020@qcrypt.net</a>.
+- Frédéric Dupuis (Université de Montréal, __chair__)
+- Feihu Xu (University of Science and Technology of China, __co-chair__)
+### PC committee
 - Davide Bacco (DTU, Denmark)
 - Eleni Diamanti (CNRS, Sorbonne Université, France)
-- Frédéric Dupuis (Université de Montréal, __chair__)
 - Rahul Jain (NUS, Singapore)
 - Zhengfeng Ji (UTS, Sydney)
 - Elham Kashefi (CNRS, Paris 6)
@@ -52,7 +56,6 @@ You can contact us via email <a href="mailto:2020@qcrypt.net">2020@qcrypt.net</a
 - Shihai Sun (Sun Yat-sen University, China)
 - Dominique Unruh (University of Tartu)
 - Giuseppe Vallone (University of Padova, Italy)
-- Feihu Xu (University of Science and Technology of China, __co-chair__)
 - Zheshen Zhang (University of Arizona, USA)
 
 
