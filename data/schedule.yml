@@ -1,0 +1,67 @@
+- day: '2020-08-10'
+  start: '14:15'
+  rooms:
+    - room: zoom
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: invited-1
+          talk: invited-1
+        - slot: break-1
+          talk: __break
+        - slot: short-1
+          talk: short-1
+        - slot: short-2
+          talk: short-2
+    - room: remo
+      slots:
+        - slot: office-hours-0
+          talk: office-hour-00
+        - slot: office-hours-1
+          talk: office-hour-01
+        - slot: office-hours-2
+          talk: office-hour-02
+        - slot: office-hours-3
+          talk: office-hour-03
+        - slot: office-hours-lt-1
+          talk: office-hour-11
+        - slot: office-hours-lt-2
+          talk: office-hour-12
+        - slot: office-hours-4
+          talk: office-hour-04
+        - slot: office-hours-5
+          talk: office-hour-05
+        - slot: office-hours-6
+          talk: office-hour-06
+
+- day: '2020-08-11'
+  start: '11:05'
+  rooms:
+    - room: zoom
+      slots:
+        - slot: open
+          talk: __open
+        - slot: short-1
+          talk: short-1
+        - slot: short-2
+          talk: short-2
+        - slot: lunch
+          talk: __lunch
+        - slot: tutorial-1
+          talk: tutorial-1
+        - slot: pause-4
+          talk: __pause
+        - slot: invited-2
+          talk: invited-2
+        - slot: pause-5
+          talk: __pause
+        - slot: party
+          talk: __party
+    - room: remo
+      slots:
+        - slot: networking-lunch-1
+          talk: networking-lunch-1
+        - slot: poster-session-1
+          talk: poster-session-1

@@ -1,0 +1,10 @@
+- key: lunchroom
+  label: Cenareo
+  description: Hall sponsors / Salle déjeuner
+  skip: true
+- key: zoom
+  label: Zoom
+  description: zoom webinar / YouTube stream
+- key: remo
+  label: remo.co
+  description: poster session

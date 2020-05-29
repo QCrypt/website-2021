@@ -1,0 +1,42 @@
+- key: open
+  start: '14:15'
+  duration: 30
+  row:
+    start: 13
+    end: 15
+- key: invited-1
+  start: '14:45'
+  duration: 30
+  row:
+    start: 15
+    end: 17
+- key: q-a
+  start: '15:15'
+  duration: 15
+  row:
+    start: 17
+    end: 18
+- key: break-1
+  start: '15:30'
+  duration: 30
+  row:
+    start: 18
+    end: 20
+- key: short-1
+  start: '16:00'
+  duration: 30
+  row:
+    start: 20
+    end: 22
+- key: short-2
+  start: '16:30'
+  duration: 30
+  row:
+    start: 22
+    end: 24
+- key: networking
+  start: '17:00'
+  duration: 30
+  row:
+    start: 24
+    end: 25
