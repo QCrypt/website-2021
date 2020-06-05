@@ -4,22 +4,34 @@
       time: '14:15'
     - session: invited1
       time: '14:45'
+    - session: __break
+      time: '15:30'
     - session: contributed1
       time: '16:00'
     - session: contributed2
       time: '16:30'
+    - session: __endofday
+      time: '17:00'
 - day: '2020-08-11'
   sessions:
     - session: contributed2
       time: '11:00'
     - session: contributed2
       time: '11:30'
+    - session: __lunch
+      time: '12:00'
     - session: tutorial1
       time: '13:00'
+    - session: __break
+      time: '14:15'
     - session: invited2
       time: '14:45'
+    - session: __break
+      time: '15:30'
     - session: poster1
       time: '16:00'
+    - session: __endofday
+      time: '18:00'
 - day: '2020-08-12'
 - day: '2020-08-13'
 - day: '2020-08-14'
