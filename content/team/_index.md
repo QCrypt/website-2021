@@ -15,7 +15,7 @@ To make all this possible, these people are working behind the scenes.
 
 ## Organizing Committee
 
-You can contact us via email to <a href="mailto:2020@qcrypt.net">2020@qcrypt.net</a>.
+You can contact us via email to {{< button-link label="2020@qcrypt.net" url="mailto:2020@qcrypt.net" icon="email" >}}.
 
 
 {{< teams types="core=Main Organizers,org=Organizers" >}}
@@ -31,7 +31,7 @@ You can contact us via email to <a href="mailto:2020@qcrypt.net">2020@qcrypt.net
 
 
 ## Program Committee
-You can contact the PC chairs via email to <a href="mailto:pcchairs2020@qcrypt.net">pcchairs2020@qcrypt.net</a>.<br>
+You can contact the PC chairs via email to {{< button-link label="pcchairs2020@qcrypt.net" url="mailto:pcchairs2020@qcrypt.net" icon="email" >}}<br>
 
 ### PC chairs
 - Frédéric Dupuis (Université de Montréal, __chair__)
