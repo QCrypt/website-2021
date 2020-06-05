@@ -2,6 +2,8 @@
 key: endofday
 title: 'End of Day + Q&A + networking'
 format: other
+tags:
+  - break
 videoId: null
 presentation: null
 draft: false

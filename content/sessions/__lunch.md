@@ -2,6 +2,8 @@
 key: lunch
 title: 'Lunch + Q&A + networking'
 format: other
+tags:
+  - break
 videoId: null
 presentation: null
 draft: false

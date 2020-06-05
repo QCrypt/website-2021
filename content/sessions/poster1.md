@@ -3,6 +3,8 @@ key: poster1
 title: Poster Session 1
 id: poster1
 format: other
+tags:
+  - remoco
 videoId: null
 presentation: null
 draft: false
