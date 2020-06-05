@@ -6,9 +6,7 @@ share:
 
 follow:
   - name: twitter
-    url: https://twitter.com/cloudnativeams
-  - name: instagram
-    url: https://www.instagram.com/cloudnativeams
+    url: https://twitter.com/QuSoftAmsterdam
 
 content:
   - title: footer_about

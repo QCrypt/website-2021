@@ -1,0 +1,25 @@
+- day: '2020-08-10'
+  sessions:
+    - session: __open
+      time: '14:15'
+    - session: invited1
+      time: '14:45'
+    - session: contributed1
+      time: '16:00'
+    - session: contributed2
+      time: '16:30'
+- day: '2020-08-11'
+  sessions:
+    - session: contributed2
+      time: '11:00'
+    - session: contributed2
+      time: '11:30'
+    - session: tutorial1
+      time: '13:00'
+    - session: invited2
+      time: '14:45'
+    - session: poster1
+      time: '16:00'
+- day: '2020-08-12'
+- day: '2020-08-13'
+- day: '2020-08-14'

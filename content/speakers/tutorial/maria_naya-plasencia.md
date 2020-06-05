@@ -1,8 +1,9 @@
 ---
+key: naya
 name: María Naya-Plasencia
 surname: Naya-Plasencia
 company: INRIA
-photoURL: Maria_Naya-Plasencia.jpeg
+photoURL: /images/speakers/Maria_Naya-Plasencia.jpeg
 type: tutorial
 website: 'http://naya.plasencia.free.fr/Maria/index.php?lg=en'
 socials:

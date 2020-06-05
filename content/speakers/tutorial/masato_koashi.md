@@ -1,8 +1,9 @@
 ---
+key: koashi
 name: Masato Koashi
 surname: Koashi
 company: The University of Tokyo
-photoURL: Masato_Koashi.jpg
+photoURL: /images/speakers/Masato_Koashi.jpg
 type: tutorial
 website: 'https://www.u-tokyo.ac.jp/focus/en/people/people003544.html'
 socials:
