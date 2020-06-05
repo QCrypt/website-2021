@@ -1,8 +1,9 @@
 ---
+key: bussieres
 name: Félix Bussières
 surname: Bussières
 company: University of Geneva
-photoURL: Felix_Bussieres.jpg
+photoURL: /images/speakers/Felix_Bussieres.jpg
 type: invited
 website: 'http://www.unige.ch/gap/qtech/team/felix_bussieres'
 socials:

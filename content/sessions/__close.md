@@ -1,7 +1,7 @@
 ---
-key: open
-title: Opening
-id: open
+key: close
+title: Closing
+id: close
 format: other
 speakers:
 - fehr
@@ -10,4 +10,4 @@ videoId: null
 presentation: null
 draft: false
 ---
-Welcome everybody!
+Goodbye, folks!

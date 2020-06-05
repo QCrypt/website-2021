@@ -1,22 +1,11 @@
 ---
 title: Schedule
-menu:
-  main:
-    weight: 10
-
 horizontal: false
 
 ---
 
 {{% hero %}}
-
-<a class="btn primary btn-lg" href="/schedule/schedule.ics">
-    <svg class="icon icon-calendar"><use xlink:href="#calendar"></use></svg> ICal
-</a>
-
-<a class="btn primary btn-lg" href="https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-1f1dc.appspot.com/o/schedule-en.pdf?alt=media&token=fe0e605e-8d09-482c-9ac8-fea31197c1ab">
-    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> PDF
-</a>
-
-<!-- TODO: filter and search -->
+<center>
+  <iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=MDhtMG9tMDJvMDhtNGYxa21oaW9kaXRkYThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NGY5cnZsdW5tbXJrcGloMWlibzExZ29vNjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;color=%234285F4&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</center>
 {{% /hero %}}

@@ -1,9 +1,9 @@
 ---
-key: alex_grilo
+key: grilo
 name: Alex Grilo
 surname: Grilo
 company: CWI
-photoURL: alex_grilo.jpg
+photoURL: /images/speakers/alex_grilo.jpg
 type: invited
 featured: false
 website: 'http://abgrilo.org/'
