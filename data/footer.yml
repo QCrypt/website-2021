@@ -7,6 +7,8 @@ share:
 follow:
   - name: twitter
     url: https://twitter.com/QuSoftAmsterdam
+  - name: youtube
+    url: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw    
 
 content:
   - title: footer_about
