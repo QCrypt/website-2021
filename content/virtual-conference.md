@@ -32,9 +32,9 @@ The list of accepted posters with PDFs will be available on this website before 
 ## Participate
 Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2020. Note that by signing up for any of the services below, you are considered a participant of QCrypt 2020 and are thereby bound to the [code of conduct](/code-of-conduct-online).
 
-1. Sign up for the zoom Webinar: https://uva-live.zoom.us/webinar/register/WN_xzH4QfJqSJ6tYalXm8DBZw
+1. Sign up for the zoom Webinar: https://uva-live.zoom.us/webinar/register/xxx
 
-2. sign up for Slack: https://join.slack.com/t/qcrypt/shared_invite/zt-epyd3y6f-RD19QEEKvKI_PMujBmD2AQ
+2. sign up for Slack: https://join.slack.com/t/qcrypt/shared_invite/xxx
 
 3. sign up for https://remo.co
 
@@ -46,3 +46,6 @@ Thanks to our [sponsors](/partners), there is no registration fee for participat
 3. After uploading, fill in this form: ...
 
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
+
+## Questions
+If you have quetions, you can ask them on the #helpdesk channel on slack, or email to {{< button-link label="helpdesk2020@qcrypt.net" url="mailto:helpdesk2020@qcrypt.net" icon="email" >}}
