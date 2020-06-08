@@ -5,13 +5,16 @@ type: text_page
 draft: false
 ---
 
-[code of conduct](/code-of-conduct-online)
-
 <form name="registration" method="POST" data-netlify="true" action="/registration-success">
 
   <div>
     <label for="first_name">First Name</label>
     <input type="text" name="first" placeholder="First Name"  id="first_name" required />
+  </div>
+
+  <div>
+    <label for="last_name">Middle</label>
+    <input type="text" name="last" placeholder="Last Name"  id="last_name" required />
   </div>
 
   <div>
