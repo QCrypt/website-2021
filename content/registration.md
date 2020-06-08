@@ -8,14 +8,6 @@ draft: false
 [code of conduct](/code-of-conduct-online)
 
 <form name="registration" method="POST" data-netlify="true" action="/registration-success">
-  <div hidden aria-hidden="true">
-    <label>
-      Don’t fill this out if you're human:
-      <input name="bot-field" />
-    </label>
-  </div>
-
-
 
   <div>
     <label for="first_name">First Name</label>
@@ -139,6 +131,13 @@ draft: false
   <div>
     <input type="checkbox" name="code-of-conduct" placeholder="code"  id="code" required />
     <label for="conduct">I hereby confirm to adhere to the <a href="/code-of-conduct-online" target="_blank">code of conduct</a> for QCrypt 2020</label>
+  </div>
+
+  <div hidden aria-hidden="true">
+    <label>
+      Don’t fill this out if you're human:
+      <input name="bot-field" />
+    </label>
   </div>
 
   <button type="submit">Register</button>
