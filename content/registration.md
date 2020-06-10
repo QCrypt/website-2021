@@ -5,40 +5,40 @@ type: text_page
 draft: false
 ---
 
-<form name="registration" method="POST" data-netlify="true" action="/registration-success">
+<form name="registration" method="POST" data-netlify="true" action="/registration-success-begkxmhzvguzkzdpxxmhgqwbstggrf">
 
   <div>
-    <label for="first_name">First Name</label>
+    <label for="first_name">First Name*:</label>
     <input type="text" name="first" placeholder="First Name"  id="first_name" required />
   </div>
 
   <div>
-    <label for="last_name">Middle</label>
+    <label for="last_name">Middle:</label>
+    <input type="text" name="middle" placeholder="Last Name"  id="middle_name" />
+  </div>
+
+  <div>
+    <label for="last_name">Last Name*:</label>
     <input type="text" name="last" placeholder="Last Name"  id="last_name" required />
   </div>
 
   <div>
-    <label for="last_name">Last Name</label>
-    <input type="text" name="last" placeholder="Last Name"  id="last_name" required />
-  </div>
-
-  <div>
-    <label for="email">Email Address</label>
+    <label for="email">Email Address*:</label>
     <input type="email" name="email" placeholder="Email"  id="email" required />
   </div>
 
   <div>
-    <label for="institution">Institution</label>
+    <label for="institution">Institution:</label>
     <input type="text" name="institution" placeholder="name of University or Company"  id="institution"  />
   </div>
 
   <div>
-    <label for="job">Job Title</label>
+    <label for="job">Job Title:</label>
     <input type="text" name="job" placeholder="PhD student, PostDoc, professor, CTO, ..."  id="job"  />
   </div>
 
   <div>
-    <label for="homepage">URL of professional homepage</label>
+    <label for="homepage">URL of professional homepage:</label>
     <input type="url" name="homepage" placeholder="URL of homepage"  id="homepage"  />
   </div>
 
