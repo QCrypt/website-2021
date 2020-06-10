@@ -157,7 +157,7 @@
   },
 {
   "pid": 33,
-  "title": "TEST: Secure Multi-party Quantum Computation with a Dishonest Majority",
+  "title": "TEST2: Secure Multi-party Quantum Computation with a Dishonest Majority",
   "authors": [
     {
       "email": "yfkedulek@gmail.com",
@@ -199,7 +199,7 @@
 },
 {
   "pid": 84,
-  "title": "TEST: Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
+  "title": "TEST2: Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
   "authors": [
     {
       "email": "galagic@gmail.com",

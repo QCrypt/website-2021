@@ -1,11 +1,11 @@
 ---
 key: contributed-1
-title: Contributed 1
+title: Contributed Talks 2
 id: inv-1
 format: contributed
-speakers:
-- tester
-- grilo
+papers:
+- 84
+- 89
 videoId: null
 presentation: null
 draft: false
