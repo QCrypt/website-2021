@@ -14,3 +14,7 @@ draft: false
 
 {{< papers-accepted >}}
 {{< /papers-accepted >}}
+
+
+## List of Accepted Posters
+to appear here

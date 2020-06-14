@@ -1,11 +1,12 @@
 ---
 title: Registration
 
-type: text_page
 draft: false
+type: no_toc
+
 ---
 
-## Register for QCrypt 2020
+## Registration for QCrypt 2020 is open now!
 QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2020 event will take place online. Thanks to <a href="/partners" target="_blank">our sponsors</a>, there is no registration fee for participants.
 
 {{< button-link label="Register here" url="https://forms.gle/bFRGhKkLvh7KN3j56" icon="link" target="_blank">}}

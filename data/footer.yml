@@ -8,13 +8,13 @@ follow:
   - name: twitter
     url: https://twitter.com/QuSoftAmsterdam
   - name: youtube
-    url: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw    
+    url: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw
 
 content:
   - title: footer_about
     links:
       - nameKey: footer_coc
-        url: /code-of-conduct/
+        url: /code-of-conduct-online/
         newTab: false
       - nameKey: footer_charter
         url: /charter/
