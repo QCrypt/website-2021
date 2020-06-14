@@ -1,6 +1,6 @@
 ---
 key: contributed-1
-title: Contributed Talks 1
+title: "Contributed Talks 1 (Chair: blabl)"
 id: inv-1
 format: contributed
 papers:
@@ -13,4 +13,4 @@ presentation: null
 draft: false
 ---
 
-maybe more info here...
+test s;kt smaybe more info here...
