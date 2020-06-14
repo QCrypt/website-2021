@@ -1,6 +1,6 @@
 ---
 key: invited-1
-title: Invited 1
+title: "Invited: Title 1" 
 id: inv-1
 format: invited
 speakers:

@@ -1,6 +1,6 @@
 ---
 key: tutorial-3
-title: Tutorial 3
+title: "Tutorial: Title 3"
 id: tut-3
 format: tutorial
 speakers:

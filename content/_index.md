@@ -17,9 +17,9 @@ menu:
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
 -->
 
-<a class="btn primary btn-lg" href="/corona">
+<a class="btn primary btn-lg" href="/online-conference">
 <!--    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg> -->
-    Updates
+    Online Conference
 </a>
 
 {{% /jumbo %}}
