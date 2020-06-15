@@ -13,12 +13,8 @@ menu:
 QCrypt 2020 will be held as online event.
 {{< button-link label="Format of online conference" url="/online-conference" icon="link">}}
 
-## Conference Schedule, Google Calendar
+## Conference Schedule
 We are still working on the exact conference schedule. This page gives an overview of the sessions.
-In the meanwhile, subscribe to this calendar to stay updated about the official dates and events.
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=NGY5cnZsdW5tbXJrcGloMWlibzExZ29vNjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA&amp;title=QCrypt%202020&amp;showTitle=1&amp;showDate=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 
 ## Tutorial Talks
 {{< sessions-tutorial >}}
@@ -34,3 +30,8 @@ will be created from {{< button-link label="List of accepted papers" url="/accep
 ## Other Sessions
 {{< sessions-other >}}
 {{< /sessions-other >}}
+
+##  Google Calendar
+In the meanwhile, subscribe to this calendar to stay updated about the official dates and events.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=NGY5cnZsdW5tbXJrcGloMWlibzExZ29vNjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA&amp;title=QCrypt%202020&amp;showTitle=1&amp;showDate=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

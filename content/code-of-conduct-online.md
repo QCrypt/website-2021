@@ -19,7 +19,9 @@ If you witness harassment or discriminatory behavior, please consider intervenin
 
 
 ## Who to contact
-- Anne Broadbent, code-of-conduct liaison person
-{{< button-link label="conduct@qcrypt.net" url="mailto:conduct@qcrypt.net" icon="email" >}}
+-  code-of-conduct liaison person:
+{{< button-link label="Anne Broadbent" url="mailto:anne.broadbent@qcrypt.net" icon="email" >}}
+-  code-of-conduct liaison person:
+{{< button-link label="Eleni Diamanti" url="mailto:eleni.diamanti@qcrypt.net" icon="email" >}}
 - [Main organizers](/team/#organizing-committee)
 {{< button-link label="2020@qcrypt.net" url="mailto:2020@qcrypt.net" icon="email" >}}
