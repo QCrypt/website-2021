@@ -15,7 +15,7 @@ From Monday, 10 August to Friday, 14 August 2020,
 
 - the main program of the conference takes place as zoom webinar,
 - participants can talk to each other on Slack,
-- the poster sessions and networking breaks will take place on https://remo.co .
+- the poster sessions and networking breaks will take place on <a href="https://remo.co" target="_blank">https://remo.co</a>.
 
 All partipants of QCrypt 2020 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
 
@@ -42,11 +42,13 @@ We are still working on a concrete conference schedule, but you can see a list o
 {{< button-link label="sessions" url="/sessions" icon="link">}} and {{< button-link label="speakers" url="/speakers" icon="link">}}
 
 ## Registration
-Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2020. Note that by signing up for any of the services below, you are considered a participant of QCrypt 2020 and are thereby bound to the [code of conduct](/code-of-conduct-online).
+Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2020. Note that by registering to QCrypt, you are considered a participant of QCrypt 2020 and are thereby bound to the [code of conduct](/code-of-conduct-online).
 
-<!--
-{{< button-link label="Register here" url="/registration" icon="link" target="_blank">}}
--->
+{{< button-link label="Registration is not open yet" url="online-conference/#registration" icon="link" target="_blank" disabled="disabled" >}}
+
+
+<!-- {{< button-link label="Register here" url="/registration" icon="link" target="_blank">}}
+ -->
 
 The email address you indicate during the registration will be added to an email list of registered participants of QCrypt 2020.
 In the week before the conference, we will send you via email the links to the zoom webinar and the remo.co room (for the poster sessions and the social breaks)
