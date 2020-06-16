@@ -1,0 +1,1413 @@
+[
+  {
+    "pid": 10,
+    "title": "A Quantum Money Solution to the Blockchain Scalability Problem",
+    "authors": [
+      {
+        "email": "andrea.coladangelo@gmail.com",
+        "first": "Andrea",
+        "last": "Coladangelo",
+        "affiliation": "Caltech",
+        "contact": true
+      },
+      {
+        "email": "sattath@gmail.com",
+        "first": "Or",
+        "last": "Sattath",
+        "affiliation": "Ben-Gurion University",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 16,
+    "title": "Quantum encryption with certified deletion",
+    "authors": [
+      {
+        "email": "abroadbe@uottawa.ca",
+        "first": "Anne",
+        "last": "Broadbent",
+        "affiliation": "University of Ottawa",
+        "contact": true
+      },
+      {
+        "email": "risla028@uottawa.ca",
+        "first": "Rabib",
+        "last": "Islam",
+        "affiliation": "University of Ottawa",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 17,
+    "title": "Succinct Blind Quantum Computation Using a Random Oracle",
+    "authors": [
+      {
+        "email": "jyz16@bu.edu",
+        "first": "Jiayu",
+        "last": "Zhang",
+        "affiliation": "Boston University",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 18,
+    "title": "High-Speed Measurement-Device-Independent Quantum Key Distribution with Integrated Silicon Photonics",
+    "authors": [
+      {
+        "email": "jeromelw@mail.ustc.edu.cn",
+        "first": "Wei",
+        "last": "Li",
+        "affiliation": "University of Science and Technology of China",
+        "contact": true
+      },
+      {
+        "email": "kjwei@gxu.edu.cn",
+        "first": "Kejin",
+        "last": "Wei",
+        "affiliation": "University of Science and Technology of China",
+        "contact": true
+      },
+      {
+        "first": "Hao",
+        "last": "Tan",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Yang",
+        "last": "Li",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Hao",
+        "last": "Min",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Wei-Jun",
+        "last": "Zhang",
+        "affiliation": "Shanghai Institute of Microsystem and Information Technology"
+      },
+      {
+        "first": "Hao",
+        "last": "Li",
+        "affiliation": "Shanghai Institute of Microsystem and Information Technology"
+      },
+      {
+        "first": "Lixing",
+        "last": "You",
+        "affiliation": "Shanghai Institute of Microsystem and Information Technology"
+      },
+      {
+        "first": "Zhen",
+        "last": "Wang",
+        "affiliation": "Shanghai Institute of Microsystem and Information Technology"
+      },
+      {
+        "first": "Xiao",
+        "last": "Jiang",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Teng Yun",
+        "last": "Chen",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Sheng-Kai",
+        "last": "Liao",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Cheng-Zhi",
+        "last": "Peng",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "email": "feihuxu@ustc.edu.cn",
+        "first": "Feihu",
+        "last": "Xu",
+        "affiliation": "University of Science and Technology of China",
+        "contact": true
+      },
+      {
+        "first": "Jian-Wei",
+        "last": "Pan",
+        "affiliation": "University of Science and Technology of China"
+      }
+    ]
+  },
+  {
+    "pid": 21,
+    "title": "Experimental Measurement-Device-Independent Quantum Key Distribution with Uncharacterized Sources",
+    "authors": [
+      {
+        "email": "13770524973@163.com",
+        "first": "Xing-Yu",
+        "last": "Zhou",
+        "affiliation": "Nanjing University of Posts & Telecommunications"
+      },
+      {
+        "email": "qinw@njupt.edu.cn",
+        "first": "Qin",
+        "last": "Wang",
+        "affiliation": "Nanjing University of Posts & Telecommunications",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 29,
+    "title": "On Security Notions for Encryption in a Quantum World",
+    "authors": [
+      {
+        "email": "celine.chevalier@ens.fr",
+        "first": "Céline",
+        "last": "Chevalier",
+        "affiliation": "University of Paris II",
+        "contact": true
+      },
+      {
+        "email": "ebrahimi.math@gmail.com",
+        "first": "Ehsan",
+        "last": "Ebrahimi",
+        "affiliation": "University of Luxembourg",
+        "contact": true
+      },
+      {
+        "email": "qhvu@ens.fr",
+        "first": "Quoc-Huy",
+        "last": "Vu",
+        "affiliation": "University of Paris II",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 30,
+    "title": "Secure Multi-party Quantum Computation with a Dishonest Majority",
+    "authors": [
+      {
+        "email": "yfkedulek@gmail.com",
+        "first": "Yfke",
+        "last": "Dulek",
+        "affiliation": "QuSoft and University of Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "abgrilo@gmail.com",
+        "first": "Alex",
+        "last": "Grilo",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "smjeffery@gmail.com",
+        "first": "Stacey",
+        "last": "Jeffery",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.majenz@uva.nl",
+        "first": "Christian",
+        "last": "Majenz",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.schaffner@uva.nl",
+        "first": "Christian",
+        "last": "Schaffner",
+        "affiliation": "QuSoft and University of Amsterdam",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 36,
+    "title": "Experimental quantum key distribution secure against malicious devices",
+    "authors": [
+      {
+        "email": "vzapatero@com.uvigo.es",
+        "first": "Víctor",
+        "last": "Zapatero",
+        "affiliation": "University of Vigo, Spain",
+        "contact": true
+      },
+      {
+        "email": "jeromelw@mail.ustc.edu.cn",
+        "first": "Wei",
+        "last": "Li",
+        "affiliation": "University of Science and Technology of China, Hefei, China",
+        "contact": true
+      },
+      {
+        "email": "feihuxu@ustc.edu.cn",
+        "first": "Feihu",
+        "last": "Xu",
+        "affiliation": "University of Science and Technology of China, Hefei, China",
+        "contact": true
+      },
+      {
+        "email": "mcurty@com.uvigo.es",
+        "first": "Marcos",
+        "last": "Curty",
+        "affiliation": "University of Vigo, Spain"
+      }
+    ]
+  },
+  {
+    "pid": 38,
+    "title": "Security proof of practical quantum key distribution with detection-efficiency mismatch",
+    "authors": [
+      {
+        "email": "yanbaoz@gmail.com",
+        "first": "Yanbao",
+        "last": "Zhang",
+        "affiliation": "NTT Basic Research Lab",
+        "contact": true
+      },
+      {
+        "email": "patrickcoles@gmail.com",
+        "first": "Patrick J.",
+        "last": "Coles",
+        "affiliation": "Los Alamos National Laboratory"
+      },
+      {
+        "email": "adam.b.winick@gmail.com",
+        "first": "Adam",
+        "last": "Winick",
+        "affiliation": "Institute for Quantum Computing, Waterloo"
+      },
+      {
+        "email": "jie.lin@uwaterloo.ca",
+        "first": "Jie",
+        "last": "Lin",
+        "affiliation": "Institute for Quantum Computing, Waterloo",
+        "contact": true
+      },
+      {
+        "email": "nlutkenhaus@uwaterloo.ca",
+        "first": "Norbert",
+        "last": "Lutkenhaus",
+        "affiliation": "Institute for Quantum Computing, Waterloo",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 40,
+    "title": "Device-independent Randomness Expansion with Entangled Photons",
+    "authors": [
+      {
+        "email": "yanbaoz@gmail.com",
+        "first": "Yanbao",
+        "last": "Zhang",
+        "affiliation": "NTT Basic Research Lab",
+        "contact": true
+      },
+      {
+        "email": "lks@nist.gov",
+        "first": "Lynden K.",
+        "last": "Shalm",
+        "affiliation": "NIST-Boulder"
+      },
+      {
+        "email": "joshua.bienfang@nist.gov",
+        "first": "Joshua C.",
+        "last": "Bienfang",
+        "affiliation": "NIST-Maryland"
+      },
+      {
+        "email": "collin.schlager@nist.gov",
+        "first": "Collin",
+        "last": "Schlager",
+        "affiliation": "NIST-Boulder"
+      },
+      {
+        "email": "martin.stevens@nist.gov",
+        "first": "Martin J.",
+        "last": "Stevens",
+        "affiliation": "NIST-Boulder"
+      },
+      {
+        "email": "michael.mazurek@nist.gov",
+        "first": "Michael D.",
+        "last": "Mazurek",
+        "affiliation": "NIST-Boulder"
+      },
+      {
+        "email": "cabellan@quside.com",
+        "first": "Carlos",
+        "last": "Abellan",
+        "affiliation": "Barcelona Institute of Science and Technology"
+      },
+      {
+        "email": "wamaya@quside.com",
+        "first": "Waldimar",
+        "last": "Amaya",
+        "affiliation": "Barcelona Institute of Science and Technology"
+      },
+      {
+        "email": "morgan.mitchell@icfo.eu",
+        "first": "Morgan W.",
+        "last": "Mitchell",
+        "affiliation": "Barcelona Institute of Science and Technology"
+      },
+      {
+        "email": "mohammad.alhejji@colorado.edu",
+        "first": "Mohammad A.",
+        "last": "Alhejji",
+        "affiliation": "University of Colorado Boulder"
+      },
+      {
+        "email": "h7fu@umd.edu",
+        "first": "Honghao",
+        "last": "Fu",
+        "affiliation": "University of Maryland"
+      },
+      {
+        "email": "joel.ornstein@colorado.edu",
+        "first": "Joel",
+        "last": "Ornstein",
+        "affiliation": "University of Colorado Boulder"
+      },
+      {
+        "email": "richard.mirin@nist.gov",
+        "first": "Richard P.",
+        "last": "Mirin",
+        "affiliation": "NIST-Boulder"
+      },
+      {
+        "email": "saewoo.nam@nist.gov",
+        "first": "Sae Woo",
+        "last": "Nam",
+        "affiliation": "NIST-Boulder"
+      },
+      {
+        "email": "emanuel.knill@nist.gov",
+        "first": "Emanuel",
+        "last": "Knill",
+        "affiliation": "NIST-Boulder"
+      }
+    ]
+  },
+  {
+    "pid": 41,
+    "title": "The Measure-and-Reprogram Technique 2.0: Multi-Round Fiat-Shamir and More",
+    "authors": [
+      {
+        "email": "jelle.don@cwi.nl",
+        "first": "Jelle",
+        "last": "Don",
+        "affiliation": "CWI",
+        "contact": true
+      },
+      {
+        "email": "serge.fehr@cwi.nl",
+        "first": "Serge",
+        "last": "Fehr",
+        "affiliation": "CWI & Leiden University",
+        "contact": true
+      },
+      {
+        "email": "c.majenz@uva.nl",
+        "first": "Christian",
+        "last": "Majenz",
+        "affiliation": "CWI & QuSoft",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 44,
+    "title": "Broadband Detector-Integrated On-Chip QKD Receiver for GHz Clock Rates",
+    "authors": [
+      {
+        "email": "fabian.beutel@uni-muenster.de",
+        "first": "Fabian",
+        "last": "Beutel",
+        "affiliation": "University of Münster, Institute of Physics, 48149 Münster, Germany",
+        "contact": true
+      },
+      {
+        "first": "Helge",
+        "last": "Gehring",
+        "affiliation": "University of Münster, Institute of Physics, 48149 Münster, Germany"
+      },
+      {
+        "first": "Martin A.",
+        "last": "Wolff",
+        "affiliation": "University of Münster, Institute of Physics, 48149 Münster, Germany"
+      },
+      {
+        "first": "Carsten",
+        "last": "Schuck",
+        "affiliation": "University of Münster, Institute of Physics, 48149 Münster, Germany"
+      },
+      {
+        "first": "Wolfram",
+        "last": "Pernice",
+        "affiliation": "University of Münster, Institute of Physics, 48149 Münster, Germany"
+      }
+    ]
+  },
+  {
+    "pid": 46,
+    "title": "Analytic quantum weak coin flipping protocols with arbitrarily small bias",
+    "authors": [
+      {
+        "email": "atul.singh.arora@ulb.ac.be",
+        "first": "Atul Singh",
+        "last": "Arora",
+        "affiliation": "Universite libre de Bruxelles"
+      },
+      {
+        "email": "jroland@ulb.ac.be",
+        "first": "Jeremie",
+        "last": "Roland",
+        "affiliation": "Universite libre de Bruxelles"
+      },
+      {
+        "email": "Chrysoula.Vlachou@ulb.ac.be",
+        "first": "Chrysoula",
+        "last": "Vlachou",
+        "affiliation": "Universite libre de Bruxelles",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 49,
+    "title": "Fast and simple qubit-based synchronization for quantum key distribution",
+    "authors": [
+      {
+        "email": "luca.calderaro@unipd.it",
+        "first": "Luca",
+        "last": "Calderaro",
+        "affiliation": "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova, via Gradenigo 6B, 35131 Padova, Italy"
+      },
+      {
+        "email": "andrea.stanco@unipd.it",
+        "first": "Andrea",
+        "last": "Stanco",
+        "affiliation": "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova, via Gradenigo 6B, 35131 Padova, Italy",
+        "contact": true
+      },
+      {
+        "email": "costantino.agnesi@unipd.it",
+        "first": "Costantino",
+        "last": "Agnesi",
+        "affiliation": "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova, via Gradenigo 6B, 35131 Padova, Italy",
+        "contact": true
+      },
+      {
+        "email": "avesani@dei.unipd.it",
+        "first": "Marco",
+        "last": "Avesani",
+        "affiliation": "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova, via Gradenigo 6B, 35131 Padova, Italy"
+      },
+      {
+        "email": "daniele.dequal@asi.it",
+        "first": "Daniele",
+        "last": "Dequal",
+        "affiliation": "Matera Laser Ranging Observatory, Agenzia Spaziale Italiana, Matera, Italy"
+      },
+      {
+        "email": "paolo.villoresi@dei.unipd.it",
+        "first": "Paolo",
+        "last": "Villoresi",
+        "affiliation": "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova, via Gradenigo 6B, 35131 Padova, Italy"
+      },
+      {
+        "email": "vallone@dei.unipd.it",
+        "first": "Giuseppe",
+        "last": "Vallone",
+        "affiliation": "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova, via Gradenigo 6B, 35131 Padova, Italy",
+        "contact": true
+      }
+    ],
+    "mergedwith": 55
+  },
+  {
+    "pid": 52,
+    "title": "Experimental quantum conference key agreement",
+    "authors": [
+      {
+        "email": "a.fedrizzi@hw.ac.uk",
+        "first": "Alessandro",
+        "last": "Fedrizzi",
+        "affiliation": "Heriot-Watt University",
+        "contact": true
+      },
+      {
+        "email": "mp68@hw.ac.uk",
+        "first": "Massimiliano",
+        "last": "Proietti",
+        "affiliation": "Heriot-Watt University"
+      },
+      {
+        "email": "joseph.ho@hw.ac.uk",
+        "first": "Joseph",
+        "last": "Ho",
+        "affiliation": "Heriot-Watt University"
+      },
+      {
+        "email": "federico.grasselli@uni-duesseldorf.de",
+        "first": "Federico",
+        "last": "Grasselli",
+        "affiliation": "Heinrich-Heine University Duesseldorf"
+      },
+      {
+        "email": "pb31@hw.ac.uk",
+        "first": "Peter",
+        "last": "Barrow",
+        "affiliation": "Heriot-Watt University"
+      },
+      {
+        "email": "m.malik@hw.ac.uk",
+        "first": "Mehul",
+        "last": "Malik",
+        "affiliation": "Heriot-Watt University"
+      }
+    ]
+  },
+  {
+    "pid": 54,
+    "title": "Overcoming qubit-based QKD with efficient high-dimensional encoding",
+    "authors": [
+      {
+        "email": "vagniluca@lens.unifi.it",
+        "first": "Ilaria",
+        "last": "Vagniluca",
+        "affiliation": "CNR - Istituto Nazionale di Ottica and University of Naples “Federico II\"",
+        "contact": true
+      },
+      {
+        "first": "Beatrice",
+        "last": "DaLio",
+        "affiliation": "CoE SPOC, DTU Fotonik, Technical University of Denmark"
+      },
+      {
+        "first": "Davide",
+        "last": "Rusca",
+        "affiliation": "Group of Applied Physics, Université de Genève"
+      },
+      {
+        "first": "Daniele",
+        "last": "Cozzolino",
+        "affiliation": "CoE SPOC, DTU Fotonik, Technical University of Denmark"
+      },
+      {
+        "first": "Yunhong",
+        "last": "Ding",
+        "affiliation": "CoE SPOC, DTU Fotonik, Technical University of Denmark"
+      },
+      {
+        "first": "Hugo",
+        "last": "Zbinden",
+        "affiliation": "Group of Applied Physics, Université de Genève"
+      },
+      {
+        "first": "Alessandro",
+        "last": "Zavatta",
+        "affiliation": "CNR - Istituto Nazionale di Ottica and University of Florence"
+      },
+      {
+        "first": "Leif Katsuo",
+        "last": "Oxenløwe",
+        "affiliation": "CoE SPOC, DTU Fotonik, Technical University of Denmark"
+      },
+      {
+        "email": "dabac@fotonik.dtu.dk",
+        "first": "Davide",
+        "last": "Bacco",
+        "affiliation": "CoE SPOC, DTU Fotonik, Technical University of Denmark",
+        "contact": true
+      }
+    ],
+    "mergedwith": 57
+  },
+  {
+    "pid": 55,
+    "title": "Simple and robust QKD system with Qubit4Sync temporal synchronization and the POGNAC polarization encoder",
+    "authors": [
+      {
+        "email": "costantino.agnesi@unipd.it",
+        "first": "Costantino",
+        "last": "Agnesi",
+        "affiliation": "Università degli Studi di Padova",
+        "contact": true
+      },
+      {
+        "email": "marco.avesani@phd.unipd.it",
+        "first": "Marco",
+        "last": "Avesani",
+        "affiliation": "Università degli Studi di Padova"
+      },
+      {
+        "email": "luca.calderaro@phd.unipd.it",
+        "first": "Luca",
+        "last": "Calderaro",
+        "affiliation": "Università degli Studi di Padova"
+      },
+      {
+        "email": "andrea.stanco@unipd.it",
+        "first": "Andrea",
+        "last": "Stanco",
+        "affiliation": "Università degli Studi di Padova",
+        "contact": true
+      },
+      {
+        "email": "foletto@dei.unipd.it",
+        "first": "Giulio",
+        "last": "Foletto",
+        "affiliation": "Università degli Studi di Padova"
+      },
+      {
+        "email": "mujtaba.zahidy@studenti.unipd.it",
+        "first": "Mujtaba",
+        "last": "Zahidy",
+        "affiliation": "Università degli Studi di Padova"
+      },
+      {
+        "email": "alessia.scriminich@phd.unipd.it",
+        "first": "Alessia",
+        "last": "Scriminich",
+        "affiliation": "Università degli Studi di Padova"
+      },
+      {
+        "email": "francesco.vedovato@phd.unipd.it",
+        "first": "Francesco",
+        "last": "Vedovato",
+        "affiliation": "Università degli Studi di Padova"
+      },
+      {
+        "email": "vallone@dei.unipd.it",
+        "first": "Giuseppe",
+        "last": "Vallone",
+        "affiliation": "Università degli Studi di Padova",
+        "contact": true
+      },
+      {
+        "email": "paolo.villoresi@unipd.it",
+        "first": "Paolo",
+        "last": "Villoresi",
+        "affiliation": "Università degli Studi di Padova"
+      }
+    ],
+    "mergedwith": 49
+  },
+  {
+    "pid": 56,
+    "title": "Securing practical quantum cryptography with optical power limiters",
+    "authors": [
+      {
+        "email": "zhanggong@nus.edu.sg",
+        "first": "Gong",
+        "last": "Zhang",
+        "affiliation": "Department of Electrical & Computer Engineering, National University of Singapore, Singapore",
+        "contact": true
+      },
+      {
+        "email": "william_primaatmaja@u.nus.edu",
+        "first": "Ignatius William",
+        "last": "Primaatmaja",
+        "affiliation": "Centre for Quantum Technologies, National University of Singapore, Singapore",
+        "contact": true
+      },
+      {
+        "email": "elehjy@nus.edu.sg",
+        "first": "Jing Yan",
+        "last": "Haw",
+        "affiliation": "Department of Electrical & Computer Engineering, National University of Singapore, Singapore",
+        "contact": true
+      },
+      {
+        "email": "elegong@nus.edu.sg",
+        "first": "Xiao",
+        "last": "Gong",
+        "affiliation": "Department of Electrical & Computer Engineering, National University of Singapore, Singapore"
+      },
+      {
+        "email": "wang.chao@nus.edu.sg",
+        "first": "Chao",
+        "last": "Wang",
+        "affiliation": "Department of Electrical & Computer Engineering, National University of Singapore, Singapore",
+        "contact": true
+      },
+      {
+        "email": "charles.lim@nus.edu.sg",
+        "first": "Charles C.-W.",
+        "last": "Lim",
+        "affiliation": "Department of Electrical & Computer Engineering, National University of Singapore, Singapore; Centre for Quantum Technologies, National University of Singapore, Singapore",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 57,
+    "title": "Towards high-dimensional quantum key distribution over a 2 km long multicore fiber",
+    "authors": [
+      {
+        "email": "bdali@fotonik.dtu.dk",
+        "first": "Beatrice",
+        "last": "Da Lio",
+        "affiliation": "enter for Silicon Photonics for Optical Communication (SPOC), Department of Photonics Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark",
+        "contact": true
+      },
+      {
+        "email": "dabac@fotonik.dtu.dk",
+        "first": "Davide",
+        "last": "Bacco",
+        "affiliation": "enter for Silicon Photonics for Optical Communication (SPOC), Department of Photonics Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark",
+        "contact": true
+      },
+      {
+        "email": "dacoz@fotonik.dtu.dk",
+        "first": "Daniele",
+        "last": "Cozzolino",
+        "affiliation": "enter for Silicon Photonics for Optical Communication (SPOC), Department of Photonics Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark"
+      },
+      {
+        "email": "biagi@lens.unifi.it",
+        "first": "Nicola",
+        "last": "Biagi",
+        "affiliation": "CNR - Istituto Nazionale di Ottica (CNR-INO), Largo E. Fermi, 6 - 50125 Firenze, Italy"
+      },
+      {
+        "email": "yudin@fotonik.dtu.dk",
+        "first": "Yunhong",
+        "last": "Ding",
+        "affiliation": "enter for Silicon Photonics for Optical Communication (SPOC), Department of Photonics Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark"
+      },
+      {
+        "email": "karo@fotonik.dtu.dk",
+        "first": "Karsten",
+        "last": "Rottwitt",
+        "affiliation": "enter for Silicon Photonics for Optical Communication (SPOC), Department of Photonics Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark"
+      },
+      {
+        "email": "alessandro.zavatta@ino.cnr.it",
+        "first": "Alessandro",
+        "last": "Zavatta",
+        "affiliation": "CNR - Istituto Nazionale di Ottica (CNR-INO), Largo E. Fermi, 6 - 50125 Firenze, Italy"
+      },
+      {
+        "email": "lkox@fotonik.dtu.dk",
+        "first": "Leif K.",
+        "last": "Oxeløwe",
+        "affiliation": "enter for Silicon Photonics for Optical Communication (SPOC), Department of Photonics Engineering, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark"
+      }
+    ],
+    "mergedwith": 54
+  },
+  {
+    "pid": 58,
+    "title": "Non-interactive classical verification of quantum computation",
+    "authors": [
+      {
+        "email": "galagic@gmail.com",
+        "first": "Gorjan",
+        "last": "Alagic",
+        "affiliation": "University of Maryland and NIST",
+        "contact": true
+      },
+      {
+        "email": "amchilds@umd.edu",
+        "first": "Andrew M.",
+        "last": "Childs",
+        "affiliation": "University of Maryland",
+        "contact": true
+      },
+      {
+        "email": "abgrilo@gmail.com",
+        "first": "Alex B.",
+        "last": "Grilo",
+        "affiliation": "CWI and QuSoft",
+        "contact": true
+      },
+      {
+        "email": "shung@umd.edu",
+        "first": "Shih-Han",
+        "last": "Hung",
+        "affiliation": "University of Maryland",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 59,
+    "title": "Experimental realisation of quantum oblivious transfer",
+    "authors": [
+      {
+        "email": "amiri.ryan@gmail.com",
+        "first": "Ryan",
+        "last": "Amiri",
+        "affiliation": "IPaQS, Heriot-Watt University, Edinburgh, UK",
+        "contact": true
+      },
+      {
+        "email": "starek@optics.upol.cz",
+        "first": "Robert",
+        "last": "Stárek",
+        "affiliation": "Department of Optics, Palacky University, Olomouc, Czech Republic",
+        "contact": true
+      },
+      {
+        "email": "micuda@optics.upol.cz",
+        "first": "Michal",
+        "last": "Mičuda",
+        "affiliation": "Department of Optics, Palacky University, Olomouc, Czech Republic",
+        "contact": true
+      },
+      {
+        "email": "mista@optics.upol.cz",
+        "first": "Ladislav",
+        "last": "Mišta",
+        "affiliation": "Department of Optics, Palacky University, Olomouc, Czech Republic",
+        "contact": true
+      },
+      {
+        "email": "dusek@optics.upol.cz",
+        "first": "Miloslav",
+        "last": "Dušek",
+        "affiliation": "Department of Optics, Palacky University, Olomouc, Czech Republic",
+        "contact": true
+      },
+      {
+        "email": "petros.wallden@ed.ac.uk",
+        "first": "Petros",
+        "last": "Wallden",
+        "affiliation": "School of Informatics, University of Edinburgh, Edinburgh, UK",
+        "contact": true
+      },
+      {
+        "email": "E.Andersson@hw.ac.uk",
+        "first": "Erika",
+        "last": "Andersson",
+        "affiliation": "IPaQS, Heriot-Watt University, Edinburgh, UK",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 65,
+    "title": "Real-Time Self-Testing Quantum Random Number Generator with Non-classical States",
+    "authors": [
+      {
+        "email": "thibault.michel@lkb.upmc.fr",
+        "first": "Thibault",
+        "last": "Michel",
+        "affiliation": "ANU Canberra, Paris 6",
+        "contact": true
+      },
+      {
+        "email": "elehjy@nus.edu.sg",
+        "first": "Jing Yan",
+        "last": "Haw",
+        "affiliation": "ANU Canberra, NUS Singapore",
+        "contact": true
+      },
+      {
+        "email": "davgmar@googlemail.com",
+        "first": "Davide G.",
+        "last": "Marangon",
+        "affiliation": "U. Padova"
+      },
+      {
+        "email": "oliver.thearle@anu.edu.au",
+        "first": "Oliver",
+        "last": "Thearle",
+        "affiliation": "ANU Canberra"
+      },
+      {
+        "email": "vallone@dei.unipd.it",
+        "first": "Giuseppe",
+        "last": "Vallone",
+        "affiliation": "U. Padova",
+        "contact": true
+      },
+      {
+        "email": "paolo.villoresi@dei.unipd.it",
+        "first": "Paolo",
+        "last": "Villoresi",
+        "affiliation": "U. Padova"
+      },
+      {
+        "email": "Ping.Lam@anu.edu.au",
+        "first": "Ping Koy",
+        "last": "Lam",
+        "affiliation": "ANU Canberra"
+      },
+      {
+        "email": "cqtsma@gmail.com",
+        "first": "Syed M.",
+        "last": "Assad",
+        "affiliation": "ANU Canberra"
+      }
+    ]
+  },
+  {
+    "pid": 66,
+    "title": "Benchmarking a Quantum Random Number Generator with Machine Learning",
+    "authors": [
+      {
+        "first": "Nhan Duy",
+        "last": "Truong",
+        "affiliation": "Nano-Neuro-inspired Research Laboratory, School of Electrical and Information Engineering, the University of Sydney, Sydney, NSW 2006, Australia."
+      },
+      {
+        "first": "Jing Yan",
+        "last": "Haw",
+        "affiliation": "Centre for Quantum Computation and Communication Technology, Department of Quantum Science, Research School of Physics and Engineering, The Australian National University, Canberra ACT 2601, Australia; Department of Electrical \\& Computer Engineering, National University of Singapore, 117583, Singapore"
+      },
+      {
+        "first": "Syed Muhamad",
+        "last": "Assad",
+        "affiliation": "Centre for Quantum Computation and Communication Technology, Department of Quantum Science, Research School of Physics and Engineering, The Australian National University, Canberra ACT 2601, Australia"
+      },
+      {
+        "first": "Ping Koy",
+        "last": "Lam",
+        "affiliation": "Centre for Quantum Computation and Communication Technology, Department of Quantum Science, Research School of Physics and Engineering, The Australian National University, Canberra ACT 2601, Australia"
+      },
+      {
+        "first": "Omid",
+        "last": "Kavehei",
+        "affiliation": "Nano-Neuro-inspired Research Laboratory, School of Electrical and Information Engineering, the University of Sydney, Sydney, NSW 2006, Australia."
+      }
+    ]
+  },
+  {
+    "pid": 74,
+    "title": "Post-Quantum Zero Knowledge in Constant Rounds",
+    "authors": [
+      {
+        "email": "nirbitan@tau.ac.il",
+        "first": "Nir",
+        "last": "Bitansky",
+        "affiliation": "Tel Aviv University",
+        "contact": true
+      },
+      {
+        "email": "omrishmueli@mail.tau.ac.il",
+        "first": "Omri",
+        "last": "Shmueli",
+        "affiliation": "Tel Aviv University",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 76,
+    "title": "Efficient simulation of random states and random unitaries",
+    "authors": [
+      {
+        "email": "galagic@gmail.com",
+        "first": "Gorjan",
+        "last": "Alagic",
+        "affiliation": "QuICS, University of Maryland, and NIST, Gaithersburg, MD",
+        "contact": true
+      },
+      {
+        "email": "c.majenz@uva.nl",
+        "first": "Christian",
+        "last": "Majenz",
+        "affiliation": "QuSoft and Centrum Wiskunde & Informatica, Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "acr@uconn.edu",
+        "first": "Alexander",
+        "last": "Russell",
+        "affiliation": "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 77,
+    "title": "Numerical Calculations of Finite Key Rate for General Quantum Key Distribution Protocols",
+    "authors": [
+      {
+        "email": "itgeorge@uwaterloo.ca",
+        "first": "Ian",
+        "last": "George",
+        "affiliation": "University of Waterloo, Institute for Quantum Computing",
+        "contact": true
+      },
+      {
+        "email": "jie.lin@uwaterloo.ca",
+        "first": "Jie",
+        "last": "Lin",
+        "affiliation": "University of Waterloo, Institute for Quantum Computing",
+        "contact": true
+      },
+      {
+        "email": "nlutkenhaus@uwaterloo.ca",
+        "first": "Norbert",
+        "last": "Lutkenhaus",
+        "affiliation": "University of Waterloo, Institute for Quantum Computing",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 80,
+    "title": "Machine learning aided carrier recovery in continuous-variable quantum key distribution",
+    "authors": [
+      {
+        "email": "tobias.gehring@fysik.dtu.dk",
+        "first": "Tobias",
+        "last": "Gehring",
+        "affiliation": "Technical University of Denmark",
+        "contact": true
+      },
+      {
+        "email": "homch@fysik.dtu.dk",
+        "first": "Hou-Man",
+        "last": "Chin",
+        "affiliation": "Technical University of Denmark"
+      },
+      {
+        "email": "nitin.jain@fysik.dtu.dk",
+        "first": "Nitin",
+        "last": "Jain",
+        "affiliation": "Technical University of Denmark"
+      },
+      {
+        "email": "dazi@fotonik.dtu.dk",
+        "first": "Darko",
+        "last": "Zibar",
+        "affiliation": "Technical University of Denmark"
+      },
+      {
+        "email": "ulrik.andersen@fysik.dtu.dk",
+        "first": "Ulrik",
+        "last": "Andersen",
+        "affiliation": "Technical University of Denmark",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 89,
+    "title": "Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
+    "authors": [
+      {
+        "email": "galagic@gmail.com",
+        "first": "Gorjan",
+        "last": "Alagic",
+        "affiliation": "QuICS, University of Maryland, NIST",
+        "contact": true
+      },
+      {
+        "email": "zvika.brakerski@weizmann.ac.il",
+        "first": "Zvika",
+        "last": "Brakerski",
+        "affiliation": "Weizmann Institute of Science",
+        "contact": true
+      },
+      {
+        "email": "yfkedulek@gmail.com",
+        "first": "Yfke",
+        "last": "Dulek",
+        "affiliation": "QuSoft; University of Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.schaffner@uva.nl",
+        "first": "Christian",
+        "last": "Schaffner",
+        "affiliation": "QuSoft; University of Amsterdam",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 98,
+    "title": "Robust device-independent quantum key distribution",
+    "authors": [
+      {
+        "email": "elerene@nus.edu.sg",
+        "first": "Rene",
+        "last": "Schwonnek",
+        "affiliation": "NUS/ECE"
+      },
+      {
+        "email": "elegkt@nus.edu.sg",
+        "first": "Koon Tong",
+        "last": "Goh",
+        "affiliation": "NUS/ECE"
+      },
+      {
+        "email": "william_primaatmaja@u.nus.edu",
+        "first": "Ignatius W.",
+        "last": "Primaatmaja",
+        "affiliation": "NUS/CQT",
+        "contact": true
+      },
+      {
+        "email": "ernesttyz@hotmail.com",
+        "first": "Ernest Y.-Z.",
+        "last": "Tan",
+        "affiliation": "ETHZ"
+      },
+      {
+        "email": "ramona.wolf@itp.uni-hannover.de",
+        "first": "Ramona",
+        "last": "Wolf",
+        "affiliation": "Leibniz Universität Hannover"
+      },
+      {
+        "email": "physv@nus.edu.sg",
+        "first": "Valerio",
+        "last": "Scarani",
+        "affiliation": "NUS/Physics/CQT"
+      },
+      {
+        "email": "charles.lim@nus.edu.sg",
+        "first": "Charles C.-W.",
+        "last": "Lim",
+        "affiliation": "NUS/ECE/CQT",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 99,
+    "title": "An Integrated Chip Platform for Measurement-Device-Independent Quantum Key Distribution (MDI-QKD)",
+    "authors": [
+      {
+        "email": "wei.luo@ntu.edu.sg",
+        "first": "Wei",
+        "last": "Luo",
+        "affiliation": "Nanyang Technological University",
+        "contact": true
+      },
+      {
+        "email": "l.cao@pku.edu.cn",
+        "first": "Lin",
+        "last": "Cao",
+        "affiliation": "Peking University"
+      },
+      {
+        "email": "wangyunxiang@uestc.edu.cn",
+        "first": "Yun Xiang",
+        "last": "Wang",
+        "affiliation": "University of Electronic Science and Technology of China"
+      },
+      {
+        "email": "zoujun@ntu.edu.sg",
+        "first": "Jun",
+        "last": "Zou",
+        "affiliation": "Nanyang Technological University"
+      },
+      {
+        "email": "caih@ime.a-star.edu.sg",
+        "first": "Hong",
+        "last": "Cai",
+        "affiliation": "Institute of Microelectronics, Singapore"
+      },
+      {
+        "email": "hu_xiaolong@qq.com",
+        "first": "Xiao Long",
+        "last": "Hu",
+        "affiliation": "Tsinghua University"
+      },
+      {
+        "email": "jiangc15@mails.tsinghua.edu.cn",
+        "first": "Cong",
+        "last": "Jiang",
+        "affiliation": "Tsinghua University"
+      },
+      {
+        "email": "zhouxq8@mail.sysu.edu.cn",
+        "first": "Xiao Qi",
+        "last": "Zhou",
+        "affiliation": "Sun Yat-sen University"
+      },
+      {
+        "email": "yfjin@pku.edu.cn",
+        "first": "Yu Feng",
+        "last": "Jin",
+        "affiliation": "Peking University"
+      },
+      {
+        "email": "shsun@nudt.edu.cn",
+        "first": "Shi Hai",
+        "last": "Sun",
+        "affiliation": "Sun Yat-sen University"
+      },
+      {
+        "email": "xbwang@mail.tsinghua.edu.cn",
+        "first": "Xiang Bin",
+        "last": "Wang",
+        "affiliation": "Tsinghua University"
+      },
+      {
+        "email": "kwekleongchuan@nus.edu.sg",
+        "first": "Leong Chuan",
+        "last": "Kwek",
+        "affiliation": "National University of Singapore"
+      },
+      {
+        "email": "eaqliu@ntu.edu.sg",
+        "first": "Ai Qun",
+        "last": "Liu",
+        "affiliation": "Nanyang Technological University",
+        "contact": true
+      }
+    ],
+    "mergedwith": 105
+  },
+  {
+    "pid": 100,
+    "title": "Scalable Pseudorandom Quantum States",
+    "authors": [
+      {
+        "email": "zvika.brakerski@weizmann.ac.il",
+        "first": "Zvika",
+        "last": "Brakerski",
+        "affiliation": "Weizmann Institute of Science",
+        "contact": true
+      },
+      {
+        "email": "omrishmueli@mail.tau.ac.il",
+        "first": "Omri",
+        "last": "Shmueli",
+        "affiliation": "Tel Aviv University",
+        "contact": true
+      }
+    ]
+  },
+  {
+    "pid": 104,
+    "title": "Device-independent randomness expansion against quantum side information",
+    "authors": [
+      {
+        "email": "lwz158@mail.ustc.edu.cn",
+        "first": "Wen-Zhao",
+        "last": "Liu",
+        "affiliation": "University of Science and Technology of China",
+        "contact": true
+      },
+      {
+        "first": "Ming-Han",
+        "last": "Li",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Sammy",
+        "last": "Ragy",
+        "affiliation": "University of York"
+      },
+      {
+        "first": "Si-Ran",
+        "last": "Zhao",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Bing",
+        "last": "Bai",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Yang",
+        "last": "Liu",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Peter J.",
+        "last": "Brown",
+        "affiliation": "University of York"
+      },
+      {
+        "first": "Jun",
+        "last": "Zhang",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Roger",
+        "last": "Colbeck",
+        "affiliation": "University of York"
+      },
+      {
+        "first": "Jingyun",
+        "last": "Fan",
+        "affiliation": "Southern University of Science and Technology"
+      },
+      {
+        "first": "Qiang",
+        "last": "Zhang",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "first": "Jian-Wei",
+        "last": "Pan",
+        "affiliation": "University of Science and Technology of China"
+      }
+    ]
+  },
+  {
+    "pid": 105,
+    "title": "On-chip Time- and Polarization-Multiplexed Continuous-variable Quantum Key Distribution",
+    "authors": [
+      {
+        "email": "l.cao@pku.edu.cn",
+        "first": "CAO",
+        "last": "LIN",
+        "affiliation": "PEKING UNIVERSITY"
+      },
+      {
+        "email": "wei.luo@ntu.edu.sg",
+        "first": "LUO",
+        "last": "WEI",
+        "affiliation": "Nanyang Techological University",
+        "contact": true
+      },
+      {
+        "email": "zoujun@ntu.edu.sg",
+        "first": "Zou",
+        "last": "Jun",
+        "affiliation": "Nanyang Techological University"
+      },
+      {
+        "email": "caih@ime.a-star.edu.sg",
+        "first": "Cai",
+        "last": "Hong",
+        "affiliation": "Institute of Microelectronics, A*STAR"
+      },
+      {
+        "email": "yfjin@pku.edu.cn",
+        "first": "Jin",
+        "last": "Yufeng",
+        "affiliation": "PEKING UNIVERSITY"
+      },
+      {
+        "email": "kwekleongchuan@nus.edu.sg",
+        "first": "Leong Chuan",
+        "last": "Kwek",
+        "affiliation": "Nanyang Technological University"
+      },
+      {
+        "email": "EAQLiu@ntu.edu.sg",
+        "first": "Liu Ai",
+        "last": "Qun",
+        "affiliation": "Nanyang Technological University",
+        "contact": true
+      },
+      {
+        "email": "yusong@bupt.edu.cn",
+        "first": "Yu",
+        "last": "Song",
+        "affiliation": "Beijing University of Posts and Telecommunications"
+      }
+    ],
+    "mergedwith": 99
+  }
+]
