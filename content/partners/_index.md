@@ -14,6 +14,15 @@ The annual QCrypt conference is the main international event that is dedicated t
 
 The 10th anniversary edition of the conference, QCrypt 2020, will take place in Amsterdam, August 10-14, 2020. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.
 
+
+## Our Sponsors
+
+
+{{% partners categories="silver,bronze,community" %}}
+
+{{% /partners %}}
+
+
 ## Call for Sponsors
 **Download the <a href="/pdf/QCrypt_2020_sponsors.pdf" download>call for sponsors in pdf format</a>.**
 
@@ -50,6 +59,12 @@ If you wish to become a sponsor, please contact us at
                 url="mailto:2020@qcrypt.net"
                 icon="email" >}}
 
+<!-- ## Our Industry Exhibitors
+
+{{% partners categories="maxi" %}}
+
+{{% /partners %}} -->
+
 
 ## Call for Industry Exhibitors
 **Download the <a href="/pdf/QCrypt_2020_industry_exhibitors.pdf" download>call for industry exhibitors in pdf format</a>.**
@@ -80,6 +95,6 @@ If you wish to become a industry exhibitor, please contact us at
 -->
 
 
-{{% partners categories="community" %}}
+<!-- {{% partners categories="community" %}}
 
-{{% /partners %}}
+{{% /partners %}} -->

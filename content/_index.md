@@ -103,7 +103,7 @@ QCrypto 2020 is the 10th edition of the yearly international scientific conferen
 <!-- THE MAP -->
 {{% home-location
     image="/images/map_en.jpg"
-    address="Roeterseiland Campus, Roetersstraat, 1018 WD Amsterdam, The Netherlands"
+    address="Roeterseiland Campus, Nieuwe Achtergracht 166, 1018 WD Amsterdam, The Netherlands"
     latitude="52.3633392"
     longitude="4.9120849"
     %}}
