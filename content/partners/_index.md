@@ -8,13 +8,16 @@ type: text_page
 draft: false
 ---
 
-**Due to the restrictions caused by the global COVID-19 pandemic, QCrypt 2020 will be held as a fully online event. We will get in touch with our sponsors soon.**
+<!-- **Due to the restrictions caused by the global COVID-19 pandemic, QCrypt 2020 will be held as a fully online event. We will get in touch with our sponsors soon.**
 
 The annual QCrypt conference is the main international event that is dedicated to the latest developments in the field of quantum cryptography. Researchers from all over the world present their recent scientific discoveries in the field and companies display their latest relevant technology. The topic of the conference covers all aspects of *cryptographic security in the presence of quantum devices*, including - but not limited to - quantum key distribution, quantum randomness generation, and the impact of quantum computers on classical cryptography.
 
 The 10th anniversary edition of the conference, QCrypt 2020, will take place in Amsterdam, August 10-14, 2020. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.
 
+ -->
 
+We are grateful to our generous sponsors. With their contributions, they not only support this conference series but the field of quantum cryptography in general.
+ 
 ## Our Sponsors
 
 
@@ -23,7 +26,7 @@ The 10th anniversary edition of the conference, QCrypt 2020, will take place in 
 {{% /partners %}}
 
 
-## Call for Sponsors
+<!-- ## Call for Sponsors
 **Download the <a href="/pdf/QCrypt_2020_sponsors.pdf" download>call for sponsors in pdf format</a>.**
 
 QCrypt 2020 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2020, and to present themselves during the conference by having their logo displayed, their leaflet distributed and, depending on the level of sponsorship, by being present at the conference with a stand. For QCrypt 2020, sponsorship is a crucial means to pay for certain features of the conference like tutorial talks and keynote speakers, as well as registration waving and travel grants for students from less privileged institutes.
@@ -57,7 +60,7 @@ Gold Sponsor benefits, plus further benefits that can be discussed with the conf
 If you wish to become a sponsor, please contact us at
 {{< button-link label="2020@qcrypt.net"
                 url="mailto:2020@qcrypt.net"
-                icon="email" >}}
+                icon="email" >}} -->
 
 <!-- ## Our Industry Exhibitors
 

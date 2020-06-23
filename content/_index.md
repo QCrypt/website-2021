@@ -116,7 +116,7 @@ The Roeterseiland Campus is an open city campus designed to offer future-proof t
 
 {{% /home-location %}}
 
-{{% partners categories="community" %}}
+{{% partners categories="silver,bronze,community" %}}
 
 ## Sponsors
 <!--
@@ -124,3 +124,4 @@ The Roeterseiland Campus is an open city campus designed to offer future-proof t
 -->
 
 {{% /partners %}}
+
