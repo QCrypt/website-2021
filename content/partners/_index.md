@@ -69,7 +69,7 @@ If you wish to become a sponsor, please contact us at
 {{% /partners %}} -->
 
 
-## Call for Industry Exhibitors
+<!-- ## Call for Industry Exhibitors
 **Download the <a href="/pdf/QCrypt_2020_industry_exhibitors.pdf" download>call for industry exhibitors in pdf format</a>.**
 
 QCrypt 2020 offers companies the possibility to have a stand at the venue of the conference, for the entire duration of the conference, close to where the coffee breaks take place. This is a great way to get the participants interested in your company, present your products, maybe have a small hands-on demo available, and promote your brand to this target audience.
@@ -90,7 +90,7 @@ If you wish to become a industry exhibitor, please contact us at
 {{< button-link label="2020@qcrypt.net"
                 url="mailto:2020@qcrypt.net"
                 icon="email" >}}
-
+ -->
 <!--
 {{< button-link label="Become a sponsor"
                 url="mailto:2020@qcrypt.net"
