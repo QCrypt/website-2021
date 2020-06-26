@@ -37,9 +37,14 @@ The [list of accepted posters](/accepted-papers) with PDFs will be available on 
 - Tables/lounges for sponsors.
 -->
 
+### Breaks
+The breaks between the talks can be spent in the remo.co room. Very much as with a physical conference, there you can meet and chat with your colleagues, corner the speaker from the previous session for (more) questions, visit the sponsor booths, and make new acquaintances. This is also the venue where the poster sessions take place.
+
 ### Schedule
 We are still working on a concrete conference schedule, but you can see a list of
 {{< button-link label="sessions" url="/sessions" icon="link">}} and {{< button-link label="speakers" url="/speakers" icon="link">}}
+
+
 
 ## Registration
 Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2020. Note that by registering to QCrypt, you are considered a participant of QCrypt 2020 and are thereby bound to the [code of conduct](/code-of-conduct-online).
