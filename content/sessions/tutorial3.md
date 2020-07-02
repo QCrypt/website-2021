@@ -1,6 +1,6 @@
 ---
 key: tutorial-3
-title: "Tutorial: Title 3"
+title: "Tutorial: New results on Symmetric Quantum Cryptanalysis and Perspectives"
 id: tut-3
 format: tutorial
 speakers:
@@ -9,4 +9,7 @@ videoId: null
 presentation: null
 draft: false
 ---
-Abstract of Tutorial 3
+Abstract: During this talk we will introduce the context and summarize the state-of-the-art
+ of the main quantum symmetric cryptanalysis results, providing the details of some 
+particularly interesting cases. We will also present the scenario of some related 
+open problems that are yet to be solved or improved.
