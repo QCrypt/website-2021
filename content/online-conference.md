@@ -61,11 +61,20 @@ In the week before the conference, we will send you via email the links to the z
 ## Instructions for authors of accepted papers
 1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, 3 August 2020**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
 
-2. Upload the talk video to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s
+2. Set the file name of the video to be ‘Talk’ followed by the submission number followed by the last name of the presenting author (e.g. Talk123Smith.mp4).
 
-3. After uploading, fill in this form: ...
+3. Upload the talk video to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
 
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
+
+## Instructions for authors of accepted posters
+1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 3 August 2020**. 
+
+2. Set the file name of the poster to be ‘Poster’ followed by the submission number followed by the last name of the presenting author (e.g. Poster123Smith.pdf).
+
+3. Upload the poster to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
+
+4. We will make your poster available from our webpage.
 
 ## Twitter
 {{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2020 using the hashtag #qcrypt2020 .
