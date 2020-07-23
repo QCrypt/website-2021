@@ -1,21 +1,17 @@
 ---
-key: contributed-2
-title: "Contributed Talks 2 (Chair: )"
-id: con-2
+key: contributed-5
+title: "Contributed Talks 5 (Chair: )"
+id: con-5
 format: contributed
 papers:
-- 18
-- 21
-- 36
-- 40
-- 49
-- 55
-- 59
-- 98
-- 104
+- 16
+- 29
+- 41
+- 46
+- 74
+- 76
 videoId: null
 presentation: null
 draft: false
 ---
 Title & Abstracts of contributed talks of this session
-

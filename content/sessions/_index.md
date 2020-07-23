@@ -16,6 +16,9 @@ QCrypt 2020 will be held as online event.
 ## Conference Schedule
 We are still working on the exact conference schedule. This page gives an overview of the sessions.
 
+<!-- {{< sessions-contributed >}}
+{{< /sessions-contributed >}} -->
+
 ## Tutorial Talks
 {{< sessions-tutorial >}}
 {{< /sessions-tutorial >}}
@@ -26,6 +29,9 @@ We are still working on the exact conference schedule. This page gives an overvi
 
 ## Contributed Talks
 will be created from {{< button-link label="List of accepted papers" url="/accepted-papers" icon="link">}}
+
+<!-- {{< sessions-contributed >}}
+{{< /sessions-contributed >}} -->
 
 ## Other Sessions
 {{< sessions-other >}}
