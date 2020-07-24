@@ -19,4 +19,6 @@ menu:
 
 
 ## List of Accepted Posters
-to appear here
+
+{{< posters-accepted >}}
+{{< /posters-accepted >}}
