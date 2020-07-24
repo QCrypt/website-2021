@@ -1,6 +1,6 @@
 ---
 key: contributed-5
-title: "Contributed Talks 5 (Chair: )"
+title: "Contributed Talks 5 (Chair: TBA)"
 id: con-5
 format: contributed
 papers:

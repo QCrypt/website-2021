@@ -3,12 +3,14 @@
     - session: __open
       time: '14:15'
     - session: invited1
-      time: '14:45'
+      time: '14:30'
     - session: __break
-      time: '15:30'
+      time: '15:15'
     - session: contributed1
-      time: '16:00'
-    - session: contributed2
+      time: '15:45'
+    - session: __break
+      time: '16:15'
+    - session: contributed1
       time: '16:30'
     - session: __endofday
       time: '17:00'
@@ -16,22 +18,87 @@
   sessions:
     - session: contributed2
       time: '11:00'
-    - session: contributed2
+    - session: __break
       time: '11:30'
+    - session: contributed2
+      time: '11:45'
     - session: __lunch
-      time: '12:00'
+      time: '12:15'
     - session: tutorial1
+      time: '12:45'
+    - session: __break
+      time: '14:00'
+    - session: invited2
+      time: '14:30'
+    - session: poster1
+      time: '15:15'
+    - session: __endofday
+      time: '17:15'
+- day: '2020-08-12'
+  sessions:
+    - session: industrial
+      time: '11:00'
+    - session: __lunch
+      time: '12:30'
+    - session: tutorial2
       time: '13:00'
     - session: __break
       time: '14:15'
-    - session: invited2
-      time: '14:45'
+    - session: invited3
+      time: '14:30'
+    - session: __break
+      time: '15:15'
+    - session: contributed3
+      time: '15:30'
+    - session: __break
+      time: '16:00'
+    - session: invited4
+      time: '16:15'
+    - session: __endofday
+      time: '17:00'
+- day: '2020-08-13'
+  sessions:
+    - session: poster2
+      time: '11:00'
+    - session: __lunch
+      time: '13:00'
+    - session: invited5
+      time: '13:15'
+    - session: __break
+      time: '14:00'
+    - session: business
+      time: '14:30'
     - session: __break
       time: '15:30'
-    - session: poster1
+    - session: tutorial3
       time: '16:00'
     - session: __endofday
-      time: '18:00'
-- day: '2020-08-12'
-- day: '2020-08-13'
+      time: '17:15'
 - day: '2020-08-14'
+  sessions:
+    - session: contributed4
+      time: '11:00'
+    - session: __break
+      time: '11:30'
+    - session: contributed4
+      time: '11:45'
+    - session: __lunch
+      time: '12:15'
+    - session: tutorial4
+      time: '12:45'
+    - session: __break
+      time: '14:00'
+    - session: invited6
+      time: '14:30'
+    - session: __break
+      time: '15:15'
+    - session: contributed5
+      time: '15:45'
+    - session: __break
+      time: '16:15'
+    - session: contributed5
+      time: '16:30'
+    - session: __close
+      time: '17:00'
+    - session: __endofday
+      time: '17:15'

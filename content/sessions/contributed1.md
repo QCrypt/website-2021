@@ -1,6 +1,6 @@
 ---
 key: contributed-1
-title: "Contributed Talks 1 (Chair: blabl)"
+title: "Contributed Talks 1 (Chair: TBA)"
 id: con-1
 format: contributed
 papers:
@@ -17,6 +17,3 @@ draft: false
 ---
 
 test s;kt smaybe more info here...
-
-
-

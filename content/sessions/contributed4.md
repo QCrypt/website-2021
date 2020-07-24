@@ -1,6 +1,6 @@
 ---
 key: contributed-4
-title: "Contributed Talks 4 (Chair: )"
+title: "Contributed Talks 4 (Chair: TBA)"
 id: con-4
 format: contributed
 papers:
@@ -16,5 +16,3 @@ presentation: null
 draft: false
 ---
 Title & Abstracts of contributed talks of this session
-
-
