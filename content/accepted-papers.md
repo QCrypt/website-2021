@@ -19,6 +19,7 @@ menu:
 
 
 ## List of Accepted Posters
+(in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
