@@ -1,7 +1,5 @@
 ---
-key: tutorial-1
-title: "Tutorial: Title 1"
-id: tut-1
+title: "Tutorial: TBA"
 format: tutorial
 speakers:
   - awschalom

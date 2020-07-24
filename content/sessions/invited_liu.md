@@ -1,7 +1,5 @@
 ---
-key: invited-5
 title: "Invited: Experimental Sending-or-Not-Sending Twin-Field Quantum Key Distribution over 509 km"
-id: inv-5
 format: invited
 speakers:
   - liu

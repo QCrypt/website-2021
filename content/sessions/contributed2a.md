@@ -1,11 +1,12 @@
 ---
-title: "Contributed Talks 3: QKD: Security proofs and experiments (Chair: TBA)"
+title: "Contributed Talks 2a: Experiments: QKD and beyond (Chair: TBA)"
 format: contributed
 papers:
-- 38
-- 77
-- 54
-- 57
+- 18
+- 21
+- 49
+- 55
+- 59
 videoId: null
 presentation: null
 draft: false

@@ -2,33 +2,33 @@
   sessions:
     - session: __open
       time: '14:15'
-    - session: invited1
+    - session: invited_leverrier
       time: '14:30'
     - session: __break
       time: '15:15'
-    - session: contributed1
+    - session: contributed1a
       time: '15:45'
     - session: __break
       time: '16:15'
-    - session: contributed1
+    - session: contributed1b
       time: '16:30'
     - session: __endofday
       time: '17:00'
 - day: '2020-08-11'
   sessions:
-    - session: contributed2
+    - session: contributed2a
       time: '11:00'
     - session: __break
       time: '11:30'
-    - session: contributed2
+    - session: contributed2b
       time: '11:45'
     - session: __lunch
       time: '12:15'
-    - session: tutorial1
+    - session: tutorial_diamanti
       time: '12:45'
     - session: __break
       time: '14:00'
-    - session: invited2
+    - session: invited_bussieres
       time: '14:30'
     - session: poster1
       time: '15:15'
@@ -40,11 +40,11 @@
       time: '11:00'
     - session: __lunch
       time: '12:30'
-    - session: tutorial2
+    - session: tutorial_koashi
       time: '13:00'
     - session: __break
       time: '14:15'
-    - session: invited3
+    - session: invited_pereira
       time: '14:30'
     - session: __break
       time: '15:15'
@@ -52,7 +52,7 @@
       time: '15:30'
     - session: __break
       time: '16:00'
-    - session: invited4
+    - session: invited_liu
       time: '16:15'
     - session: __endofday
       time: '17:00'
@@ -62,7 +62,7 @@
       time: '11:00'
     - session: __lunch
       time: '13:00'
-    - session: invited5
+    - session: invited_bao
       time: '13:15'
     - session: __break
       time: '14:00'
@@ -70,33 +70,33 @@
       time: '14:30'
     - session: __break
       time: '15:30'
-    - session: tutorial3
+    - session: tutorial_awschalom
       time: '16:00'
     - session: __endofday
       time: '17:15'
 - day: '2020-08-14'
   sessions:
-    - session: contributed4
+    - session: contributed4a
       time: '11:00'
     - session: __break
       time: '11:30'
-    - session: contributed4
+    - session: contributed4b
       time: '11:45'
     - session: __lunch
       time: '12:15'
-    - session: tutorial4
+    - session: tutorial_naya
       time: '12:45'
     - session: __break
       time: '14:00'
-    - session: invited6
+    - session: invited_grilo
       time: '14:30'
     - session: __break
       time: '15:15'
-    - session: contributed5
+    - session: contributed5a
       time: '15:45'
     - session: __break
       time: '16:15'
-    - session: contributed5
+    - session: contributed5b
       time: '16:30'
     - session: __close
       time: '17:00'

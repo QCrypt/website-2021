@@ -1,13 +1,8 @@
 ---
-key: contributed-5
-title: "Contributed Talks 5 (Chair: TBA)"
-id: con-5
+title: "Contributed Talks 5b: Post-quantum security (Chair: TBA)"
 format: contributed
 papers:
-- 16
-- 29
 - 41
-- 46
 - 74
 - 76
 videoId: null

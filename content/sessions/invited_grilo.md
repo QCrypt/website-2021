@@ -1,7 +1,5 @@
 ---
-key: invited-2
 title: "Invited: Quantum zero-knowledge from Locally Simulatable Proofs"
-id: inv-2
 format: invited
 speakers:
   - grilo

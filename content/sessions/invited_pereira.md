@@ -1,7 +1,5 @@
 ---
-key: invited-4
 title: "Invited: Quantum key distribution with correlated sources"
-id: inv-4
 format: invited
 speakers:
   - pereira

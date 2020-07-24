@@ -1,11 +1,11 @@
 ---
-title: "Contributed Talks 3: QKD: Security proofs and experiments (Chair: TBA)"
+title: "Contributed Talks 2b: Device independence: theory and experiment (Chair: TBA)"
 format: contributed
 papers:
-- 38
-- 77
-- 54
-- 57
+- 98
+- 104
+- 40
+- 36
 videoId: null
 presentation: null
 draft: false

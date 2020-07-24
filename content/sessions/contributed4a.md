@@ -1,16 +1,10 @@
 ---
-key: contributed-4
-title: "Contributed Talks 4 (Chair: TBA)"
-id: con-4
+title: "Contributed Talks 4a: Random-number generation (Chair: TBA)"
 format: contributed
 papers:
-- 44
-- 56
 - 65
 - 66
-- 80
-- 99
-- 105
+- 44
 videoId: null
 presentation: null
 draft: false
