@@ -46,6 +46,11 @@ yarn
 ```
 to install the dependencies.
 
+As you might have the right version of npm, you might have to install the node version manager [nvm](https://github.com/nvm-sh/nvm). Then, use
+```
+nvm install 10.0
+```
+
 In the same directory, run `npm start` to watch Sass changes.
 
 When you are happy with the result run `npm run build` to build the minified version. Then commit the theme submodule.
