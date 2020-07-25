@@ -17,9 +17,9 @@ menu:
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
 -->
 
-<a class="btn primary btn-lg" href="/online-conference">
+<a class="btn primary btn-lg" href="/schedule">
 <!--    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg> -->
-    Online Conference
+    Schedule
 </a>
 
 {{% /jumbo %}}
@@ -124,4 +124,3 @@ The Roeterseiland Campus is an open city campus designed to offer future-proof t
 -->
 
 {{% /partners %}}
-

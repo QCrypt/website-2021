@@ -27,6 +27,9 @@ content:
       - nameKey: footer_poster
         url: /poster/
         newTab: false
+      - nameKey: footer_program
+        url: /sessions/
+        newTab: false
 
 
   # - title: footer_previous_edition

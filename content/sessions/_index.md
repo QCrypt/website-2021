@@ -3,9 +3,6 @@ title: Program
 draft: false
 type: speakers
 layout: list_with_header
-menu:
-  main:
-    weight: 30
 
 ---
 
@@ -14,7 +11,7 @@ QCrypt 2020 will be held as online event.
 {{< button-link label="Format of online conference" url="/online-conference" icon="link">}}
 
 ## Conference Schedule
-We are still working on the exact conference schedule. This page gives an overview of the sessions.
+This page gives an overview of the sessions. The {{< button-link label="schedule" url="/schedule" icon="link">}} is now available.
 
 <!-- {{< sessions-contributed >}}
 {{< /sessions-contributed >}} -->

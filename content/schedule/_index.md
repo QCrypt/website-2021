@@ -1,6 +1,9 @@
 ---
 title: Schedule
 horizontal: false
+menu:
+  main:
+    weight: 30
 
 ---
 
