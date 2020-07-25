@@ -1,11 +1,14 @@
 [build]
-publish = "public"
-command = "hugo --gc --minify"
+  publish = "public"
+  command = "hugo"
 
 [context.production.environment]
-HUGO_VERSION = "0.69.2"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+  HUGO_VERSION = "0.69.2"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.69.2" # if older, use format: 0.53 (no trailing zero)
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.69.2"
+  HUGO_VERSION = "0.69.2"
