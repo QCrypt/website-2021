@@ -1,7 +1,5 @@
 ---
-key: break
 title: 'Break + Q&A + networking'
-id: break
 format: other
 tags:
   - break

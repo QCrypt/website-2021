@@ -1,7 +1,5 @@
 ---
-key: open
 title: Opening
-id: open
 format: other
 speakers:
 - fehr

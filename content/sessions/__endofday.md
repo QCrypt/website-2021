@@ -1,5 +1,4 @@
 ---
-key: endofday
 title: 'End of Day + Q&A + networking'
 format: other
 tags:

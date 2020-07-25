@@ -7,4 +7,4 @@ videoId: null
 presentation: null
 draft: false
 ---
-Speakers and Agenda of Industry Session
+TBA: Speakers and Agenda of Industry Session

@@ -9,4 +9,3 @@ videoId: null
 presentation: null
 draft: false
 ---
-Title & Abstracts of contributed talks of this session

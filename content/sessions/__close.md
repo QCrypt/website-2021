@@ -1,7 +1,5 @@
 ---
-key: close
 title: Closing
-id: close
 format: other
 speakers:
 - fehr

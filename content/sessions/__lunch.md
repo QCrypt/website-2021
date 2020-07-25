@@ -1,5 +1,4 @@
 ---
-key: lunch
 title: 'Lunch + Q&A + networking'
 format: other
 tags:
