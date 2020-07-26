@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1a: Qauntum MPC (Chair: TBA)"
+title: "Contributed Talks 1a: Quantum MPC (Chair: TBA)"
 format: contributed
 papers:
 - 17
