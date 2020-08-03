@@ -1,0 +1,167 @@
+[
+  {
+    "pid": 10,
+    "title": "A Quantum Money Solution to the Blockchain Scalability Problem",
+    "id": ""
+  },
+  {
+    "pid": 16,
+    "title": "Quantum encryption with certified deletion",
+    "id": ""
+  },
+  {
+    "pid": 17,
+    "title": "Succinct Blind Quantum Computation Using a Random Oracle",
+    "id": ""
+  },
+  {
+    "pid": 18,
+    "title": "High-Speed Measurement-Device-Independent Quantum Key Distribution with Integrated Silicon Photonics",
+    "id": ""
+  },
+  {
+    "pid": 21,
+    "title": "Experimental Measurement-Device-Independent Quantum Key Distribution with Uncharacterized Sources",
+    "id": ""
+  },
+  {
+    "pid": 29,
+    "title": "On Security Notions for Encryption in a Quantum World",
+    "id": "SIUpnJgvciY"
+  },
+  {
+    "pid": 30,
+    "title": "Secure Multi-party Quantum Computation with a Dishonest Majority",
+    "id": "RM1_a3XllVs"
+  },
+  {
+    "pid": 36,
+    "title": "Experimental quantum key distribution secure against malicious devices",
+    "id": "z5K3nlf5RD4"
+  },
+  {
+    "pid": 38,
+    "title": "Security proof of practical quantum key distribution with detection-efficiency mismatch",
+    "id": ""
+  },
+  {
+    "pid": 40,
+    "title": "Device-independent Randomness Expansion with Entangled Photons",
+    "id": "VI0uA8aSUCo"
+  },
+  {
+    "pid": 41,
+    "title": "The Measure-and-Reprogram Technique 2.0: Multi-Round Fiat-Shamir and More",
+    "id": "eNWTjJi8yzE"
+  },
+  {
+    "pid": 44,
+    "title": "Broadband Detector-Integrated On-Chip QKD Receiver for GHz Clock Rates",
+    "id": ""
+  },
+  {
+    "pid": 46,
+    "title": "Analytic quantum weak coin flipping protocols with arbitrarily small bias",
+    "id": "SNyY2nl68y0"
+  },
+  {
+    "pid": 49,
+    "title": "Fast and simple qubit-based synchronization for quantum key distribution",
+    "id": ""
+  },
+  {
+    "pid": 52,
+    "title": "Experimental quantum conference key agreement",
+    "id": "_CENmHSn_U4"
+  },
+  {
+    "pid": 54,
+    "title": "Overcoming qubit-based QKD with efficient high-dimensional encoding",
+    "id": "cjWeT7qR5mc"
+  },
+  {
+    "pid": 55,
+    "title": "Simple and robust QKD system with Qubit4Sync temporal synchronization and the POGNAC polarization encoder",
+    "id": ""
+  },
+  {
+    "pid": 56,
+    "title": "Securing practical quantum cryptography with optical power limiters",
+    "id": "HQ9p8sG1YA"
+  },
+  {
+    "pid": 57,
+    "title": "Towards high-dimensional quantum key distribution over a 2 km long multicore fiber",
+    "id": "cjWeT7qR5mc"
+  },
+  {
+    "pid": 58,
+    "title": "Non-interactive classical verification of quantum computation",
+    "id": ""
+  },
+  {
+    "pid": 59,
+    "title": "Experimental realisation of quantum oblivious transfer",
+    "id": "kY4hLwm5hkM"
+  },
+  {
+    "pid": 65,
+    "title": "Real-Time Self-Testing Quantum Random Number Generator with Non-classical States",
+    "id": ""
+  },
+  {
+    "pid": 66,
+    "title": "Benchmarking a Quantum Random Number Generator with Machine Learning",
+    "id": ""
+  },
+  {
+    "pid": 74,
+    "title": "Post-Quantum Zero Knowledge in Constant Rounds",
+    "id": ""
+  },
+  {
+    "pid": 76,
+    "title": "Efficient simulation of random states and random unitaries",
+    "id": "hUbfT4vQcIg"
+  },
+  {
+    "pid": 77,
+    "title": "Numerical Calculations of Finite Key Rate for General Quantum Key Distribution Protocols",
+    "id": "t3CuTa_znDE"
+  },
+  {
+    "pid": 80,
+    "title": "Machine learning aided carrier recovery in continuous-variable quantum key distribution",
+    "id": "IzTgl1cuFHE"
+  },
+  {
+    "pid": 89,
+    "title": "Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
+    "id": "43ZjTjixa1Y"
+  },
+  {
+    "pid": 98,
+    "title": "Robust device-independent quantum key distribution",
+    "id": ""
+  },
+  {
+    "pid": 99,
+    "title": "An Integrated Chip Platform for Measurement-Device-Independent Quantum Key Distribution (MDI-QKD)",
+    "id": ""
+  },
+  {
+    "pid": 100,
+    "title": "Scalable Pseudorandom Quantum States",
+    "id": ""
+  },
+  {
+    "pid": 104,
+    "title": "Device-independent randomness expansion against quantum side information",
+    "id": ""
+  },
+  {
+    "pid": 105,
+    "title": "On-chip Time- and Polarization-Multiplexed Continuous-variable Quantum Key Distribution",
+    "id": ""
+  }
+]
