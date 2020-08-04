@@ -52,7 +52,7 @@ Thanks to our [sponsors](/partners), there is no registration fee for participat
 <!-- {{< button-link label="Registration is not open yet" url="online-conference/#registration" icon="link" target="_blank" disabled="disabled" >}} -->
 
 
-{{< button-link label="Register here" url="/registration" icon="link" target="_blank">}}
+{{< button-link label="Register here" url="/registration" icon="menu" target="_blank">}}
 
 
 The email address you indicate during the registration will be added to an email list of registered participants of QCrypt 2020.
@@ -68,9 +68,9 @@ In the week before the conference, we will send you via email the links to the z
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
 
 ## Instructions for authors of accepted posters
-1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 3 August 2020**. 
+1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 3 August 2020**.
 
-2. Set the file name of the poster to be ‘Poster’ followed by the submission number followed by the last name of the presenting author (e.g. Poster123Smith.pdf).
+2. **(updated 4 Aug 2020) Set the file name of the poster to be ‘QCrypt2020Poster’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2020Poster012Smith.pdf).**
 
 3. Upload the poster to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
 
