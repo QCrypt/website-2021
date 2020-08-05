@@ -8,4 +8,4 @@ videoId: null
 presentation: null
 draft: false
 ---
-Goodbye, folks!
+Goodbye, folks! See you next year in person in Amsterdam!
