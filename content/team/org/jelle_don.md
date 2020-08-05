@@ -2,7 +2,7 @@
 title: Jelle Don
 surname: Don
 type: org
-subtitle: CWI
+subtitle: CWI Cryptology Group
 job: support staff
 photo: jelle_don.jpg
 socials:

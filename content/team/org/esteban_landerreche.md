@@ -2,7 +2,7 @@
 title: Esteban Landerreche
 surname: Landerreche
 type: org
-subtitle: CWI
+subtitle: CWI Cryptology Group
 job: design
 photo: esteban_landerreche.jpg
 socials:
