@@ -145,6 +145,13 @@ In the week before the conference, we will send you via email the links to the z
 
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
 
+## Instructions for zoom webinar speakers (tutorial, invited, contributed)
+{{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2020_speaker_instructions.pdf" target="_blank" download=true >}}
+
+## Instructions for session chairs
+{{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2020_sessionchairs_instructions.pdf" target="_blank" download=true >}}
+
+
 ## Instructions for authors of accepted posters
 1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 3 August 2020**.
 
@@ -153,6 +160,8 @@ In the week before the conference, we will send you via email the links to the z
 3. Upload the poster to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
 
 4. We will make your poster available from our webpage.
+
+{{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2020_posterpresenters_instructions.pdf" target="_blank" download=true >}}
 
 ## Twitter
 {{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2020 using the hashtag #qcrypt2020 .

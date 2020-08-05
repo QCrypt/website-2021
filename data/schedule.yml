@@ -16,6 +16,8 @@
       time: '17:00'
 - day: '2020-08-11'
   sessions:
+    - session: __startofday
+      time: '10:00'
     - session: contributed2a
       time: '11:00'
     - session: __break
@@ -36,6 +38,8 @@
       time: '17:15'
 - day: '2020-08-12'
   sessions:
+    - session: __startofday
+      time: '10:00'
     - session: industrial
       time: '11:00'
     - session: __lunch
@@ -58,6 +62,8 @@
       time: '17:00'
 - day: '2020-08-13'
   sessions:
+    - session: __startofday
+      time: '10:00'
     - session: poster2
       time: '11:00'
     - session: __lunch
@@ -76,6 +82,8 @@
       time: '17:15'
 - day: '2020-08-14'
   sessions:
+    - session: __startofday
+      time: '10:00'
     - session: contributed4a
       time: '11:00'
     - session: __break
