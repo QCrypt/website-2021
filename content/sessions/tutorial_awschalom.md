@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: TBA"
+title: "Tutorial: Enabling technologies for quantum networks"
 format: tutorial
 speakers:
   - awschalom
@@ -7,4 +7,4 @@ videoId: null
 presentation: null
 draft: false
 ---
-Abstract of Tutorial 1
+Abstract: will follow
