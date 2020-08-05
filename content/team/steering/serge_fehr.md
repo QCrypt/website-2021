@@ -2,7 +2,7 @@
 title: Serge Fehr
 surname: Fehr
 type: steering
-subtitle: CWI, Leiden University, QuSoft
+subtitle: CWI Cryptology group, Leiden University
 job: SC co-chair
 photo: serge_fehr.jpg
 socials:
