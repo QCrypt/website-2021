@@ -21,8 +21,8 @@ menu:
 ## List and Download of Accepted Posters
 (in order of submission)
 
-Download a tar-archive of
-{{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/Th73fW9mrU3YRv8/download" icon="tar" >}} available so far.
+Download a zip-archive of
+{{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/MuRNUx7dWxnDoqk/download" icon="tar" >}} available so far.
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
