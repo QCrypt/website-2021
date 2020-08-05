@@ -146,10 +146,10 @@ In the week before the conference, we will send you via email the links to the z
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
 
 ## Instructions for zoom webinar speakers (tutorial, invited, contributed)
-{{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2020_speaker_instructions.pdf" target="_blank" download=true >}}
+{{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2020_speaker_instructions.pdf" target="_blank" >}}
 
 ## Instructions for session chairs
-{{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2020_sessionchairs_instructions.pdf" target="_blank" download=true >}}
+{{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2020_sessionchairs_instructions.pdf" target="_blank" >}}
 
 
 ## Instructions for authors of accepted posters
@@ -161,7 +161,7 @@ In the week before the conference, we will send you via email the links to the z
 
 4. Posters are now available at {{< button-link icon="link" label="here" url="/accepted-papers/#list-and-download-of-accepted-posters" >}}
 
-5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2020_posterpresenters_instructions.pdf" target="_blank" download=true >}}
+5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2020_posterpresenters_instructions.pdf" target="_blank" >}}
 
 ## Twitter
 {{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2020 using the hashtag #qcrypt2020 .
