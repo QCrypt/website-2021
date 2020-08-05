@@ -1,5 +1,7 @@
 - day: '2020-08-10'
   sessions:
+    - session: __startofday
+      time: '13:00'
     - session: __open
       time: '14:15'
     - session: invited_leverrier
