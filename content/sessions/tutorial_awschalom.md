@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Enabling technologies for quantum networks"
+title: "Tutorial: Enabling technologies for quantum networks (Chair: TBA)"
 format: tutorial
 speakers:
   - awschalom

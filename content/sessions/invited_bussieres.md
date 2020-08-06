@@ -1,5 +1,5 @@
 ---
-title: "Invited: Speeding-up QKD and downsizing QRNGs"
+title: "Invited: Speeding-up QKD and downsizing QRNGs (Chair: Louis Salvail)"
 format: invited
 speakers:
   - bussieres

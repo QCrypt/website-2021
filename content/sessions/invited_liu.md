@@ -1,5 +1,5 @@
 ---
-title: "Invited: Experimental Sending-or-Not-Sending Twin-Field Quantum Key Distribution over 509 km"
+title: "Invited: Experimental Sending-or-Not-Sending Twin-Field Quantum Key Distribution over 509 km (Chairs: Roger Colbeck and Li Qian)"
 format: invited
 speakers:
   - liu

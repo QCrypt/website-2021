@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: New results on Symmetric Quantum Cryptanalysis and Perspectives"
+title: "Tutorial: New results on Symmetric Quantum Cryptanalysis and Perspectives (Chair: TBA)"
 format: tutorial
 speakers:
   - naya

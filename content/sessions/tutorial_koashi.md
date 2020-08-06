@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Security of quantum key distribution: approach from complementarity"
+title: "Tutorial: Security of quantum key distribution: approach from complementarity (Chair: Christoph Hirche)"
 format: tutorial
 speakers:
   - koashi

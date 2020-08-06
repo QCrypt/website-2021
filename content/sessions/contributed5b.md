@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5b: Post-quantum security (Chair: TBA)"
+title: "Contributed Talks 5b: Post-quantum security (Chairs: Sevag Gharibian and Or Sattath)"
 format: contributed
 papers:
 - 41

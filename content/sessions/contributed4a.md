@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 4a: Random-number generation (Chair: TBA)"
+title: "Contributed Talks 4a: Random-number generation (Chairs: Felix Bussieres and Hugo Zbinden)"
 format: contributed
 papers:
 - 65

@@ -1,6 +1,6 @@
 ---
 key: industry
-title: Industry Session
+title: "Industry Session (Chairs: Christoph Marquardt and Akihisa Tomita)"
 id: industry
 format: other
 videoId: null

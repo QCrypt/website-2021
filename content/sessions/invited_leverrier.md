@@ -1,5 +1,5 @@
 ---
-title: "Invited: Security proofs for continuous-variable quantum key distribution"
+title: "Invited: Security proofs for continuous-variable quantum key distribution (Chair: Frédéric Dupuis)"
 format: invited
 speakers:
   - leverrier

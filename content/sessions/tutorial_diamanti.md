@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Practical aspects of quantum key distribution systems and beyond"
+title: "Tutorial: Practical aspects of quantum key distribution systems and beyond (Chair: Norbert Lütkenhaus)"
 format: tutorial
 speakers:
   - diamanti

@@ -1,5 +1,5 @@
 ---
-title: "Invited: Towards quantum repeater and network with cold atoms"
+title: "Invited: Towards quantum repeater and network with cold atoms (Chair: TBA)"
 format: invited
 speakers:
   - bao

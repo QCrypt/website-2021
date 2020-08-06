@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1b: Mostly Theory (Chair: TBA)"
+title: "Contributed Talks 1b: Mostly Theory (Chairs: Omar Fawzi and Carl Miller)"
 format: contributed
 papers:
 - 89

@@ -1,5 +1,5 @@
 ---
-title: 'Business Meeting & Best Student Paper Price'
+title: 'Business Meeting & Best Student Paper Price (Chair: Qiang Zhang)'
 format: other
 videoId: null
 presentation: null

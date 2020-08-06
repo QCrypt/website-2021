@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2b: Device independence: theory and experiment (Chair: TBA)"
+title: "Contributed Talks 2b: Device independence: theory and experiment (Chairs: Qiang Zhang and Vadim Makarov)"
 format: contributed
 papers:
 - 98

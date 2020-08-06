@@ -1,5 +1,5 @@
 ---
-title: "Invited: Quantum key distribution with correlated sources"
+title: "Invited: Quantum key distribution with correlated sources (Chairs: Roger Colbeck and Li Qian)"
 format: invited
 speakers:
   - pereira

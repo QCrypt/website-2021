@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 4b: Experimental QKD (Chair: TBA)"
+title: "Contributed Talks 4b: Experimental QKD (Chairs: Felix Bussieres and Hugo Zbinden)"
 format: contributed
 papers:
 - 56

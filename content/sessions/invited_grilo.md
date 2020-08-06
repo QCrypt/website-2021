@@ -1,5 +1,5 @@
 ---
-title: "Invited: Quantum zero-knowledge from Locally Simulatable Proofs"
+title: "Invited: Quantum zero-knowledge from Locally Simulatable Proofs (Chair: Margarida Pereira)"
 format: invited
 speakers:
   - grilo

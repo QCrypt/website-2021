@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2a: Experiments: QKD and beyond (Chair: TBA)"
+title: "Contributed Talks 2a: Experiments: QKD and beyond (Chairs: Qiang Zhang and Vadim Makarov)"
 format: contributed
 papers:
 - 18

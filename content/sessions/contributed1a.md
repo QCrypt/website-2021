@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1a: Quantum MPC (Chair: TBA)"
+title: "Contributed Talks 1a: Quantum MPC (Chairs: Omar Fawzi and Carl Miller)"
 format: contributed
 papers:
 - 17
