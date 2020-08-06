@@ -7,10 +7,10 @@ logo: /images/partners/QA.png
 website: /partners/silver/qa/
 ---
 # Quantum.Amsterdam
-<a href="https://quantum.amsterdam" target="_blank"><img src="/images/partners/quantum.amsterdam.png" style="height:auto;width:20%" alt="quantum.amsterdam" title="quantum.amsterdam"></img></a>
+<a href="https://quantum.amsterdam" target="_blank"><img src="/images/partners/quantum.amsterdam.png" style="height:auto;width:30%" alt="quantum.amsterdam" title="quantum.amsterdam"></img></a>
 
 ### Centrum Wiskunde & Informatica
-<a href="https://www.cwi.nl" target="_blank"><img src="/images/partners/cwi.png" style="height:auto;width:20%" alt="cwi" title="cwi"></img></a>
+<a href="https://www.cwi.nl" target="_blank"><img src="/images/partners/cwi.png" style="height:auto;width:15%" alt="cwi" title="cwi"></img></a>
 
 ### QuSoft
 <a href="https://www.qusoft.org" target="_blank"><img src="/images/partners/qusoft.jpg" style="height:auto;width:20%" alt="qusoft" title="qusoft"></img></a>
