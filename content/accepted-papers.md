@@ -24,5 +24,10 @@ menu:
 Download a zip-archive of
 {{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/MuRNUx7dWxnDoqk/download" icon="tar" >}} available so far.
 
-{{< posters-accepted >}}
-{{< /posters-accepted >}}
+### Tue, 11 Aug, 15:15 - 17:15
+{{< button-link label="session" url="/sessions/poster1" icon="link" >}}
+{{< posters-accepted session="tue_afternoon" >}}{{< /posters-accepted >}}
+
+### Thu, 13 Aug, 11:00 - 13:00
+{{< button-link label="session" url="/sessions/poster2" icon="link" >}}
+{{< posters-accepted session="thu_morning">}}{{< /posters-accepted >}}

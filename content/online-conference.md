@@ -163,7 +163,7 @@ In the week before the conference, we will send you via email the links to the z
 
 5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2020_posterpresenters_instructions.pdf" target="_blank" >}}
 
-## Twitter
+## Follow us on Twitter
 {{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2020 using the hashtag #qcrypt2020 .
 
 ## Questions
