@@ -7,4 +7,14 @@ videoId: null
 presentation: null
 draft: false
 ---
-TBA: Speakers and Agenda of Industry Session
+
+## Speakers
+- Cheng-Zhi Peng, University of Science and Technology of China
+- Andreas Poppe, AIT, OpenQKD
+- Hao Qin, CAS Quantum Net
+- Yoshimichi Tanizawa, Toshiba
+- Martin Ward, Toshiba Research, ETSI
+
+## Program
+- talks by speakers
+- panel discussions led by chairs
