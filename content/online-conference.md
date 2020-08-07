@@ -15,9 +15,9 @@ The scientific presentations take place as a Zoom Webinar. Use the link in the i
 
 **NB: It is required that you represent yourself by the full name that you use for your professional work (https://2020.qcrypt.net/code-of-conduct-online/).**
 
-During presentations, participants can use the Q&A functionality to pose questions to the speaker. The session chair will then read out (some of) these questions to the speaker. Alternatively, there is the possibility to raise your hand; the session chair may then temporarily unmute you so that you can ask your question.
+During presentations, participants can use the Q&A functionality to pose questions to the speaker. *For contributed-talk sessions with multiple speakers, make sure you address the question to a particular speaker.* The session chair will then read out (some of) these questions to the speaker. Alternatively, there is the possibility to raise your hand; the session chair may then temporarily unmute you so that you can ask your question.
 
-There is also a chat feature for private and public chatting.
+There is also a chat feature for private and public chatting. <a href="https://zoom.us/download" target="_blank">Updating your local zoom client</a> to the latest version is generally advised.
 
 ### The YouTube Channel
 The Zoom Webinar is streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos . You can already find the pre-recorded videos of the contributed talks on the channel.
