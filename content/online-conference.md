@@ -132,9 +132,12 @@ Thanks to our [sponsors](/partners), there is no registration fee for participat
 {{< button-link label="Register here" url="/registration" icon="menu" target="_blank">}}
 
 The email address you indicate during the registration will be added to an email list of registered participants of QCrypt 2020.
-In the week before the conference, we will send you via email the links to the zoom webinar and the remo.co room (for the poster sessions and the social breaks)
+In the week before the conference, we will send you via email the links to the zoom webinar and the virtual meet & greet room (for the poster sessions and the social breaks).
 
+## Google and YouTube not accessible
+For participants having trouble to access our registration form, please send us an email to at {{< button-link label="helpdesk2020@qcrypt.net" url="mailto:helpdesk2020@qcrypt.net" icon="email" >}} and we will register you manually.
 
+In case you cannot access the recorded contributed talks on YouTube, download and watch them from {{< button-link label="SurfDrive" url="https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s" icon="link" target="_blank" >}} instead.
 
 ## Instructions for authors of accepted papers
 1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, 3 August 2020**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
