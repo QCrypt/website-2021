@@ -149,7 +149,11 @@ In case you cannot access the recorded contributed talks on YouTube, download an
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
 
 ## Instructions for zoom webinar speakers (tutorial, invited, contributed)
+Note that all zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
+
 {{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2020_speaker_instructions.pdf" target="_blank" >}}
+
+Please upload your slides to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s to make them available from our website.
 
 ## Instructions for session chairs
 {{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2020_sessionchairs_instructions.pdf" target="_blank" >}}
