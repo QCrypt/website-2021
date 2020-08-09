@@ -17,7 +17,7 @@ The 10th anniversary edition of the conference, QCrypt 2020, will take place in 
  -->
 
 We are grateful to our generous sponsors. With their contributions, they not only support this conference series but the field of quantum cryptography in general.
- 
+
 ## Our Sponsors
 
 
@@ -25,6 +25,8 @@ We are grateful to our generous sponsors. With their contributions, they not onl
 
 {{% /partners %}}
 
+We thank the organizers of QCrypt 2019: Gilles Brassard, Claude Crépeau, Sébastien Gambs and Louis Salvail and their institutes: University of Montréal, McGill University and Université du Québec
+à Montréal, for transferring the surplus of QCrypt 2019 to the organization of QCrypt 2020 and 2021.
 
 <!-- ## Call for Sponsors
 **Download the <a href="/pdf/QCrypt_2020_sponsors.pdf" download>call for sponsors in pdf format</a>.**
