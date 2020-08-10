@@ -10,3 +10,5 @@ videoId: null
 presentation: null
 draft: false
 ---
+
+Download the [chat](/chat/1b_chat.txt).

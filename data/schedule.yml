@@ -2,7 +2,7 @@
   sessions:
     - session: __startofday
       time: '13:00'
-    - session: __open
+    - session: open
       time: '14:15'
     - session: invited_leverrier
       time: '14:30'
@@ -108,7 +108,7 @@
       time: '16:15'
     - session: contributed5b
       time: '16:30'
-    - session: __close
+    - session: close
       time: '17:00'
     - session: __endofday
       time: '17:15'
