@@ -90,6 +90,47 @@
     }
   },
   {
+    "pid": 14,
+    "title": "Noisy Simon Period Finding",
+    "authors": [
+      {
+        "email": "alex.may@rub.de",
+        "first": "Alex",
+        "last": "May",
+        "affiliation": "Ruhr University Bochum",
+        "contact": true
+      },
+      {
+        "email": "lars.schlieper@rub.de",
+        "first": "Lars",
+        "last": "Schlieper",
+        "affiliation": "Ruhr University Bochum",
+        "contact": true
+      },
+      {
+        "email": "jonathan.schwinger@rub.de",
+        "first": "Joanthan",
+        "last": "Schwinger",
+        "affiliation": "Ruhr University Bochum"
+      }
+    ],
+    "abstract": "Let $f: \\mathbb{F}_2^n \\rightarrow \\mathbb{F}_2^n$ be a Boolean function with period $\\vec s$. It is well-known that Simon's algorithm finds $\\vec s$ in time polynomial in $n$ on quantum devices that are capable of performing error-correction. However, today's quantum devices are inherently noisy, too limited for error correction, and Simon's algorithm is not error-tolerant.\r\n\r\nWe show that even noisy quantum period finding computations lead to speedups in comparison to purely classical computations. More precisely, we implemented Simon's quantum period finding circuit on the $15$-qubit quantum device IBM Q 16 Melbourne. Our experiments show that with a certain probability $\\tau(n)$ we measure erroneous vectors that are not orthogonal to $\\vec s$. We propose new, simple, but very effective smoothing techniques to classically mitigate physical noise effects such as e.g. IBM Q's bias towards the $0$-qubit.\r\n\r\nAfter smoothing, our noisy quantum device provides us a statistical distribution that we can easily transform into an LPN instance with parameters $n$ and $\\tau(n)$. Hence, in the noisy case we may not hope to find periods in time polynomial in $n$. However, we still obtain quantum advantage even for large errors $\\tau(n)$ close to $\\frac 1 2$. Thus, period finding does not necessarily require full quantum error correction capability.\r\n\r\nkeywords: Noise-tolerant Simon period finding, IBM Q 16, LPN algorithms, quantum advantage",
+    "options": {
+      "full-version": {
+        "mimetype": "application/pdf",
+        "hash": "sha2-4b68ebd99f3f132966a26ed08b14206c9b323a7ff834e600e6150d4d7c3f94dc",
+        "timestamp": 1584958963,
+        "size": 1114300,
+        "filename": "noisy_simon.pdf"
+      },
+      "student-paper": false,
+      "name-main-presenter": "Lars Schlieper",
+      "arxiv-id": "1910.00802",
+      "morning-session": true,
+      "afternoon-session": true
+    }
+  },
+  {
     "pid": 15,
     "title": "Linear programs for entanglement and key distribution in the quantum internet",
     "authors": [
