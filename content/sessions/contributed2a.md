@@ -7,7 +7,11 @@ papers:
 - 49
 - 55
 - 59
-videoId: null
-presentation: null
+videoId: "2FDO29lVjZ0"
+presentations:
+- null
+- "/slides/Talk21Slides.pptx"
+- "/slides/Talk49Calderaro_merged_Talk55Agnesi.pdf"
+- "/slides/contributed-Starek.pdf"
 draft: false
 ---

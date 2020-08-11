@@ -3,7 +3,7 @@ title: "Invited: Speeding-up QKD and downsizing QRNGs (Chair: Louis Salvail)"
 format: invited
 speakers:
   - bussieres
-videoId: null
+videoId: "2FDO29lVjZ0"
 presentation: null
 draft: false
 ---
