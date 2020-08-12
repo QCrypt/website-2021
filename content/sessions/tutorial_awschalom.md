@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Enabling technologies for quantum networks (Chair: TBA)"
+title: "Tutorial: Enabling technologies for quantum networks (Chair: Vadim Makarov)"
 format: tutorial
 speakers:
   - awschalom

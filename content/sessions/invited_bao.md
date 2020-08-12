@@ -1,5 +1,5 @@
 ---
-title: "Invited: Towards quantum repeater and network with cold atoms (Chair: TBA)"
+title: "Invited: Towards quantum repeater and network with cold atoms (Chair: Christian Majenz)"
 format: invited
 speakers:
   - bao
