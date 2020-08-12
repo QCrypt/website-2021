@@ -8,10 +8,6 @@ papers:
 - 55
 - 59
 videoId: "l8bJHD4au44"
-presentations:
-- null
-- "/slides/Talk21Slides.pptx"
-- "/slides/Talk49Calderaro_merged_Talk55Agnesi.pdf"
-- "/slides/contributed-Starek.pdf"
+presentation: null
 draft: false
 ---
