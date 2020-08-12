@@ -3,8 +3,7 @@ title: "Invited: Security proofs for continuous-variable quantum key distributio
 format: invited
 speakers:
   - leverrier
-videoId: "riicUxzPaqk"
-videoTime: "970"
+videoId: "uKa00SmLC0U"
 presentation: "/slides/invited-Leverrier.pdf"
 draft: false
 ---
