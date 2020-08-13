@@ -3,7 +3,7 @@ title: "Tutorial: Practical aspects of quantum key distribution systems and beyo
 format: tutorial
 speakers:
   - diamanti
-videoId: "2FDO29lVjZ0"
+videoId: "yfHbcSLp0WI"
 presentation: null
 draft: false
 ---

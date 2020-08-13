@@ -3,7 +3,7 @@ title: "Invited: Quantum key distribution with correlated sources (Chairs: Roger
 format: invited
 speakers:
   - pereira
-videoId: null
+videoId: "Vfl9pPh6ipI"
 presentation: "/slides/invited-MargaridaPereira.pdf"
 draft: false
 ---

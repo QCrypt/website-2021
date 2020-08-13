@@ -6,8 +6,7 @@ papers:
 - 100
 - 10
 - 52
-videoId: "riicUxzPaqk"
-videoTime: "6029"
+videoId: "HUkZSjrxA_o"
 presentation: null
 draft: false
 ---

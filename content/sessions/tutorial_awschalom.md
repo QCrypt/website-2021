@@ -7,4 +7,5 @@ videoId: null
 presentation: null
 draft: false
 ---
-Abstract: will follow
+
+Due to legal restrictions, no recording of David's talk but only his slides will be available.

@@ -3,7 +3,7 @@ key: industry
 title: "Industry Session (Chairs: Christoph Marquardt and Akihisa Tomita)"
 id: industry
 format: other
-videoId: null
+videoId: "sueT3Y3tKHI"
 presentation: null
 draft: false
 ---

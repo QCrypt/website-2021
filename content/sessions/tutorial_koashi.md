@@ -3,7 +3,7 @@ title: "Tutorial: Security of quantum key distribution: approach from complement
 format: tutorial
 speakers:
   - koashi
-videoId: null
+videoId: "jDii_BSz_IQ"
 presentation: "/slides/QCrypt2020_Koashi_Tutorial.pdf"
 draft: false
 ---
