@@ -12,4 +12,4 @@ draft: false
 (5 min) Local chair: # participants, stats
 (5 min) Future chair: preview of QCrypt 2021
 (15 min) Open Discussion
-Around 15:05: Best Student / Most Popular Poster Awards
+Around 15:05: Best Student Paper Award
