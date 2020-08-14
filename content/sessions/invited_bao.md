@@ -3,7 +3,7 @@ title: "Invited: Towards quantum repeater and network with cold atoms (Chair: Ch
 format: invited
 speakers:
   - bao
-videoId: null
+videoId: "apdwoKgnsUA"
 presentation: null
 draft: false
 ---

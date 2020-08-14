@@ -4,8 +4,7 @@ format: other
 speakers:
 - fehr
 - schaffner
-videoId: "riicUxzPaqk"
-videoTime: "273"
+videoId: "7nivhvGdKLE"
 presentation: "/slides/OpeningSlides.pdf"
 draft: false
 ---
