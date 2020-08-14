@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: New results on Symmetric Quantum Cryptanalysis and Perspectives (Chair: TBA)"
+title: "Tutorial: New results on Symmetric Quantum Cryptanalysis and Perspectives (Chair: Frédéric Dupuis)"
 format: tutorial
 speakers:
   - naya

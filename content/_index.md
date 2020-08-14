@@ -11,7 +11,7 @@ menu:
 ## 10-14 August 2020
 
 ### 2020: online conference
-### August 2021: Amsterdam, The Netherlands
+### 23-27 August 2021: Amsterdam, The Netherlands
 
 <!--
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
