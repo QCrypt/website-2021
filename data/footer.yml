@@ -19,18 +19,20 @@ content:
       - nameKey: footer_charter
         url: /charter/
         newTab: false
-      - nameKey: footer_corona
-        url: /corona/
-        newTab: false
   - title: footer_extra
     links:
+      - nameKey: footer_call
+        url: /call/
+        newTab: false
       - nameKey: footer_poster
         url: /poster/
         newTab: false
       - nameKey: footer_program
         url: /sessions/
         newTab: false
-
+      - nameKey: footer_corona
+        url: /corona/
+        newTab: false
 
   # - title: footer_previous_edition
   #   links:

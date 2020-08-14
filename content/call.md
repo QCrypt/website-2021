@@ -1,9 +1,5 @@
 ---
 title: Call for Papers
-menu:
-  main:
-    weight: 10
-
 type: text_page
 draft: false
 ---
