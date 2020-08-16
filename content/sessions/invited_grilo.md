@@ -3,7 +3,7 @@ title: "Invited: Quantum zero-knowledge from Locally Simulatable Proofs (Chair: 
 format: invited
 speakers:
   - grilo
-videoId: null
+videoId: "jRQIjj1fdjw"
 presentation: null
 draft: false
 ---

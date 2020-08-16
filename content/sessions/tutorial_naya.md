@@ -3,7 +3,7 @@ title: "Tutorial: New results on Symmetric Quantum Cryptanalysis and Perspective
 format: tutorial
 speakers:
   - naya
-videoId: null
+videoId: "bY1XJyU_ePs"
 presentation: null
 draft: false
 ---
