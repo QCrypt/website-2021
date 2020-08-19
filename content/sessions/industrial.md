@@ -19,13 +19,16 @@ draft: false
 
 ### PART I : Standardization Activities
 11:00-11:15 Hao Qin (CAS Quantum Network)  ITU-T and ISO
+{{< button-link label="slides" url="/slides/Qcrypt2020_ITU_ISO.pdf" icon="link" target="_blank">}}
 
 11:15-11:30 Martin Ward (Toshiba Research Lab. UK)  ETSI
 
 ### PART II: Projects for QKD network around the world
 11:30-11:45 Cheng-Zhi Peng (USTC) China
+{{< button-link label="slides" url="/slides/Qcrypt2020-pcz.pdf" icon="link" target="_blank">}}
 
 11:45-12:00 Andreas Poppe (AIT) OpenQKD (EU)
+{{< button-link label="slides" url="/slides/QCrypt2020-OPENQKD.pptx" icon="link" target="_blank">}}
 
 12:00-12:15 Yoshimichi Tanizawa (Toshiba) SIP and Global QCN (Japan)
 
