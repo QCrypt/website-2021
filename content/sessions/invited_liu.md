@@ -4,7 +4,7 @@ format: invited
 speakers:
   - liu
 videoId: "bTVM4Q8IKvw"
-presentation: null
+presentation: "/slides/QCRYPT2020-YangLiu.pdf"
 draft: false
 ---
 Abstract: Channel loss is one of the most severe limitation to extend the transmission distance of quantum key distribution in practice, given that quantum signals cannot be amplified. Many efforts have been made towards the goal of achieving longer-distance QKD. In long terms, quantum repeater-based quantum network may provide an ultimate solution; In short term, both theoretical and experimental progress are made to distribute secure keys in longer distance in practical situation.
