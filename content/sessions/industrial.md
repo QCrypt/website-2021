@@ -22,6 +22,8 @@ draft: false
 {{< button-link label="slides" url="/slides/Qcrypt2020_ITU_ISO.pdf" icon="link" target="_blank">}}
 
 11:15-11:30 Martin Ward (Toshiba Research Lab. UK)  ETSI
+{{< button-link label="slides" url="/slides/Ward_QCrypt2020_IndustrySession.pdf" icon="link" target="_blank">}}
+
 
 ### PART II: Projects for QKD network around the world
 11:30-11:45 Cheng-Zhi Peng (USTC) China
