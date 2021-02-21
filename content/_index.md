@@ -12,14 +12,14 @@ menu:
 
 ### 2021: online conference
 
-<!--
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
--->
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="/partners/#call-for-sponsors">Become a sponsor</a>
 
+<!--
 <a class="btn primary btn-lg" href="/schedule">
-<!--    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg> -->
+ <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
     Schedule
 </a>
+-->
 
 {{% /jumbo %}}
 
