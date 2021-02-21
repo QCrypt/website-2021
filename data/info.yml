@@ -1,5 +1,5 @@
 id: HJRThubF4uYPkb7jSUxi
-name: QCrypt 2020
+name: QCrypt 2021
 address:
   formattedAddress: 'Roeterseiland Campus, Roetersstraat, 1018 WD Amsterdam, The Netherlands'
   locality:
@@ -12,5 +12,5 @@ address:
     lat: 52.3633392
     lng: 4.9120849
 dates:
-  start: '2020-08-10T14:15:00.000Z'
-  end: '2020-08-14T15:30:00.000Z'
+  start: '2021-08-23T9:00:00.000Z'
+  end: '2021-08-27T17:00:00.000Z'

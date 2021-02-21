@@ -1,13 +1,13 @@
-# QCrypt 2020 website
+# QCrypt 2021 website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aee8e5e5-1bfe-4e20-9383-ba9abff022ee/deploy-status)](https://app.netlify.com/sites/qcrypt2020/deploys)
 
-Live site at https://2020.qcrypt.net
+Live site at https://2021.qcrypt.net
 
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
 
-theme submodule at https://github.com/QCrypt/devfest-theme-hugo
+theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2021
 
 ## Building this conference site from scratch
 
@@ -15,7 +15,7 @@ theme submodule at https://github.com/QCrypt/devfest-theme-hugo
 2. Clone this repo:
 
 ```bash
-git clone git@github.com:QCrypt/public-website.git
+git clone git@github.com:QCrypt/website-2021.git
 ```
 
 3. Update the theme submodule
@@ -36,6 +36,7 @@ hugo server
 5. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2020.netlify.com/ and accessible under https://2020.qcrypt.net .
 
 ## Customizing the theme
+The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2021
 
 First, install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 

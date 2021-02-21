@@ -1,8 +1,5 @@
 ---
 title: Registration
-menu:
-  main:
-    weight: 5
 
 draft: false
 type: no_toc

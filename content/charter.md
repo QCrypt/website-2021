@@ -3,6 +3,11 @@ title: QCrypt Charter
 
 draft: false
 type: text_page
+
+menu:
+    main:
+        weight: 30
+
 ---
 
 
@@ -81,6 +86,12 @@ QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial 
 |2017 |Cambridge | Anne Broadbent, Marcos Curty, Eleni Diamanti, Yi-Kai Liu, Norbert Lütkenhaus, Masahide Sasaki, Christian Schaffner (chair), Qiang Zhang
 |2018 |Shanghai | Anne Broadbent, Marcos Curty, Yi-Kai Liu, Norbert Lütkenhaus, Christian Schaffner, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
 |2019 |Montreal | Anne Broadbent, Marcos Curty (chair), Serge Fehr, Yi-Kai Liu, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang
+|2020 |Montreal | Gorjan Alagic, Marcos Curty, Serge Fehr, Stacey Jeffery, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
+
+### 2020
+<a href="http://2020.qcrypt.net/" title="Website" target="_blank">
+	<img src="/images/conferences/2020.png" width="800"/>
+</a>
 
 ### 2019
 <a href="http://2019.qcrypt.net/" title="Website" target="_blank">

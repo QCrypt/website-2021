@@ -2,9 +2,6 @@
 title: Online Conference
 draft: false
 type: text_page
-menu:
-  main:
-    weight: 50
 
 ---
 

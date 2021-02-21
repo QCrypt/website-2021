@@ -8,10 +8,9 @@ menu:
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/QCrypt_background1.png" imgLabel="QCrypt 2020 background" %}}
 
-## 10-14 August 2020
+## 23-27 August 2021
 
-### 2020: online conference
-### 23-27 August 2021: Amsterdam, The Netherlands
+### 2021: online conference
 
 <!--
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
@@ -41,9 +40,9 @@ menu:
 <!-- INFO -->
 {{% home-info what="Participants:>800,Tutorials:4,Invited Talks:6,Contributed Talks:30" class="primary" %}}
 
-## What is QCrypt 2020?
+## What is QCrypt 2021?
 
-QCrypt 2020 is the 10th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
+QCrypt 2021 is the 11th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
 
 {{% /home-info %}}
 
@@ -109,11 +108,7 @@ QCrypt 2020 is the 10th edition of the yearly international scientific conferenc
     %}}
 
 ## The 2021 venue
-
-### Roeterseiland Campus, University of Amsterdam
-
-The Roeterseiland Campus is an open city campus designed to offer future-proof teaching and research facilities. The Faculties of Economics and Business and Social and Behavioural Sciences are located at the Roeterseiland campus. The Faculty of Law has settled in August 2017 on the campus.
-
+### online
 {{% /home-location %}}
 
 {{% partners categories="gold,silver,bronze,community" %}}
