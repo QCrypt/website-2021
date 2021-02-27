@@ -1,5 +1,5 @@
 ---
-title: QCrypt 2020 - Code of Conduct
+title: QCrypt 2021 - Code of Conduct
 
 draft: false
 type: no_toc
@@ -7,7 +7,7 @@ type: no_toc
 
 <small>[text based on the <a href="https://pkc.iacr.org/2020/conduct.php" target="_blank">IACR PKC 2020 code of conduct</a>]</small>
 ## Code of Conduct (online conference)
-The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of QCrypt; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, the QCrypt 2020 organizers are committed to providing a harassment-free conference experience.
+The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of QCrypt; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, the QCrypt 2021 organizers are committed to providing a harassment-free conference experience.
 
 If you experience harassment or discriminatory behavior at a QCrypt event, we encourage you to reach out to someone who could help, listed below.
 

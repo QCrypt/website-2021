@@ -6,7 +6,7 @@ menu:
 ---
 
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/QCrypt_background1.png" imgLabel="QCrypt 2020 background" %}}
+{{% jumbo img="/images/backgrounds/QCrypt_background1.png" imgLabel="QCrypt 2021 background" %}}
 
 ## 23-27 August 2021
 

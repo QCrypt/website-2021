@@ -5,16 +5,17 @@ draft: false
 type: text_page
 ---
 
+<!--
 ## Poster
 See below for the official poster of QCrypt 2021. You can download and print yourself the following versions:
 
 <a href="/images/poster/QCryptPoster21b.png" download>
   <img id="dark_bg" src="/images/poster/QCryptPoster21b.png"/>
 </a>
-
+-->
 
 ## Logos
-Here are the logos to use for QCrypt 2020. Click on the logos to download.
+Here are the logos to use for QCrypt 2021. Click on the logos to download.
 
 ### Transparent png, white font
 (you cannot use this one on white background)
