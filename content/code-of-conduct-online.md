@@ -26,4 +26,4 @@ If you witness harassment or discriminatory behavior, please consider intervenin
 -  code-of-conduct liaison person:
 {{< button-link label="Ivan Damgård" url="mailto:ivan.damgaard@qcrypt.net" icon="email" >}}
 - [Main organizers](/team/#organizing-committee)
-{{< button-link label="2020@qcrypt.net" url="mailto:2020@qcrypt.net" icon="email" >}}
+{{< button-link label="2021@qcrypt.net" url="mailto:2021@qcrypt.net" icon="email" >}}

@@ -13,4 +13,4 @@ QCrypt is the yearly international scientific conference presenting last year’
 
 **You can still register for the conference, but participation links will only be sent out twice a day.** In the meanwhile, you can watch the live stream on our QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos 
 
-In case of questions or technical difficulties, please contact: {{< button-link label="helpdesk2020@qcrypt.net" url="mailto:helpdesk2020@qcrypt.net" icon="email" >}}
+In case of questions or technical difficulties, please contact: {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}

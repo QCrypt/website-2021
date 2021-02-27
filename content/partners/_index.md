@@ -68,8 +68,8 @@ Gold Sponsor benefits, plus further benefits that can be discussed with the conf
 
 <i>Please note: VAT is applicable on all packages.</i><br>
 If you wish to become a sponsor, please contact us at
-{{< button-link label="2020@qcrypt.net"
-                url="mailto:2020@qcrypt.net"
+{{< button-link label="2021@qcrypt.net"
+                url="mailto:2021@qcrypt.net"
                 icon="email" >}}
 -->
 
@@ -99,13 +99,13 @@ QCrypt 2020 offers companies the possibility to have a stand at the venue of the
 
 <i>Please note: VAT is applicable on all packages.</i><br>
 If you wish to become a industry exhibitor, please contact us at
-{{< button-link label="2020@qcrypt.net"
-                url="mailto:2020@qcrypt.net"
+{{< button-link label="2021@qcrypt.net"
+                url="mailto:2021@qcrypt.net"
                 icon="email" >}}
  -->
 <!--
 {{< button-link label="Become a sponsor"
-                url="mailto:2020@qcrypt.net"
+                url="mailto:2021@qcrypt.net"
                 icon="file" >}}
 -->
 

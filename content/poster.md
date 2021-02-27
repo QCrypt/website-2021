@@ -6,14 +6,10 @@ type: text_page
 ---
 
 ## Poster
-See below for the official poster of QCrypt 2020. You can download and print yourself the following versions:
+See below for the official poster of QCrypt 2021. You can download and print yourself the following versions:
 
-* <a href="/images/poster/QCryptPosterA3.pdf" download>A3 PDF</a>
-* <a href="/images/poster/QCryptPosterA4.pdf" download>A4 PDF</a>
-* <a href="/images/poster/QCryptPoster.png" download>PNG</a>
-
-<a href="/images/poster/QCryptPoster.png" download>
-  <img id="dark_bg" src="/images/poster/QCryptPoster.png"/>
+<a href="/images/poster/QCryptPoster21b.png" download>
+  <img id="dark_bg" src="/images/poster/QCryptPoster21b.png"/>
 </a>
 
 
@@ -27,19 +23,9 @@ Here are the logos to use for QCrypt 2020. Click on the logos to download.
   <img id="dark_bg" src="/images/logos/QCr_Logo.png"/>
 </a>
 
-### Transparent png, white font with shadow
-<a href="/images/logos/QCr_Logo_shadow.png" download>
-  <img id="dark_bg" src="/images/logos/QCr_Logo_shadow.png"/>
-</a>
-
 ### Transparent png, black font
-<a href="/images/logos/QCr_Logo_black.png" download>
-  <img id="dark_bg" src="/images/logos/QCr_Logo_black.png"/>
-</a>
-
-### City with Logo
-<a href="/images/logos/QCrypt_withlogo.png" download>
-  <img id="dark_bg" src="/images/logos/QCrypt_withlogo.png"/>
+<a href="/images/logos/QCr_LogoBlack.png" download>
+  <img id="dark_bg" src="/images/logos/QCr_LogoBlack.png"/>
 </a>
 
 ### White Sheep
