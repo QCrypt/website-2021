@@ -31,10 +31,10 @@ You can contact us via email to {{< button-link label="2021@qcrypt.net" url="mai
 
 
 ## Program Committee
-<!-- You can contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2021@qcrypt.net" icon="email" >}}<br> -->
+You can contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2021@qcrypt.net" icon="email" >}}<br>
 
 ### PC chairs
-TBA
+* Carl Miller (QuICS, University of Maryland, NIST) 
 
 ### PC committee
 TBA
