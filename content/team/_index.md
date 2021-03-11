@@ -34,8 +34,8 @@ You can contact us via email to {{< button-link label="2021@qcrypt.net" url="mai
 You can contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2021@qcrypt.net" icon="email" >}}<br>
 
 ### PC chairs
-* Carl Miller (QuICS, University of Maryland, NIST) 
+* Carl Miller (QuICS, University of Maryland, NIST)
+* Tobias Gehring (DTU Physics, Technical University of Denmark)
 
-### PC committee
+### PC members
 TBA
-
