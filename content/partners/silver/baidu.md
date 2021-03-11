@@ -2,7 +2,7 @@
 title: Baidu
 type: partner
 draft: false
-category: bronze
+category: silver
 logo: /images/partners/Baidu.png
 website: http://ir.baidu.com
 ---

@@ -2,7 +2,7 @@
 title: PCQC
 type: partner
 draft: false
-category: bronze
+category: silver
 logo: /images/partners/PCQC.png
 website: http://www.pcqc.fr/
 ---

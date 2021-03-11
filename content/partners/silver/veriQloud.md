@@ -2,7 +2,7 @@
 title: VeriQloud
 type: partner
 draft: false
-category: bronze
+category: silver
 logo: /images/partners/VeriQloud.png
 website: https://veriqloud.com/
 ---
