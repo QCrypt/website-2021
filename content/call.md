@@ -4,6 +4,7 @@ type: text_page
 draft: false
 ---
 
+<!--
 
 ## Call for contributed talks and posters
 The annual conference on quantum cryptography (QCrypt) solicits submissions for contributed talks and posters.
@@ -14,24 +15,22 @@ Our poster is now available! Please <a href="/poster">download and print it your
 <a href="/poster">
   <img height=300 id="dark_bg" src="/images/poster/QCryptPoster.png"/>
 </a>
+-->
 
+## Key dates 2021
+The following are the tentative key dates of QCrypt 2021, exact dates will be announced in due time.
 
-## Key dates
-The following are the key dates of QCrypt 2020:
+|Date |Event|
+|:----|:----|
+|will be announced by email | Talk submission open||
+|early May 2021|Talk submission deadline|
+|early July 2021|Talk acceptance notification|
+|July 2021|Poster submission deadline|
+|July 2021| Poster acceptance notification|
+|Fri, 20 August 2021| Online registration deadline|
+|23-27 August 2021| QCrypt 2021|
 
-|Date |Event| Old Date|
-|:----|:----|----:|
-|10 March 2020| Talk submission open||
-|Fri, 17 April 2020  |Talk submission deadline|<del>1 April 2020</del>|
-|Fri, 8 May 2020 | decision that QCrypt 2020 takes place online |
-|Sun, 14 June 2020    |Talk acceptance notification|<del>22 May 2020<br>7 June 2020</del>|
-|Mon, 15 June 2020|Poster submission deadline|<del>1 June 2020</del>|
-|Sat, 20 June 2020| Poster acceptance notification|<del>15 June 2020</del>|
-|Tue, 30 June 2020| Early bird registration deadline|<del>22 June 2020</del>|
-|Wed, 5 August 2020| Online registration deadline|
-|10-14 August 2020| QCrypt 2020|
-
-Subscribe to <a href="/speakers/#google-calendar">our calendar</a> to stay updated about the official dates and events <a href="/speakers/#google-calendar">here</a>.
+Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam" target="_blank">here</a>.
 
 ## Goal of the Conference
 QCrypt is a conference for students and researchers working on all aspects of quantum cryptography. This includes theoretical and experimental research on the possibilities and limitations of secure communication and computation with quantum devices, how security can be preserved in the presence of a quantum computer, and how to achieve long distance quantum communication.
@@ -49,6 +48,7 @@ Since 2011, QCrypt features a prize for the best student submission. A submissio
 ### Program Committee
 Program committee list can be found <a href="/team/#program-committee">here</a>.
 
+<!--
 ## Submission Instructions
 An extended abstract should be 2-3 pages in A4 or letter size PDF, using reasonable margins and at least 11pt font. It should give a non-technical, clear and insightful description of the results and main ideas, their impact, and their importance to quantum cryptography.
 
@@ -58,13 +58,11 @@ The extended abstract may refer to technical details which are presented elsewhe
 
 The submission server is now available at: <a href="https://qcrypt2020.iro.umontreal.ca/" target="_blank">https://qcrypt2020.iro.umontreal.ca/</a>
 
-## Impact of coronavirus outbreak
-Check <a href="/corona">this site for updates</a> on the possible impact of the coronovirus outbreak on QCrypt 2020.
+
+"Poster only" submissions will be accepted after the notification for talks (7th June). For these submissions,  a one-page non-technical PDF is sufficient as the extended abstract.
 
 
-<!-- "Poster only" submissions will be accepted after the notification for talks (7th June). For these submissions,  a one-page non-technical PDF is sufficient as the extended abstract. -->
-
-
-<!-- Extended abstracts should be submitted electronically here using the EasyChair system (if the link doesn’t work, visit https://easychair.org/conferences/?conf=qcrypt2019 directly).
+Extended abstracts should be submitted electronically here using the EasyChair system (if the link doesn’t work, visit https://easychair.org/conferences/?conf=qcrypt2019 directly).
 If you are designing a new poster for QCrypt, consider using the following templates:  https://osf.io/8ajqs/
-This is simply a suggestion, and if you decide to follow this template, feel free to modify it as you see fit -->
+This is simply a suggestion, and if you decide to follow this template, feel free to modify it as you see fit
+-->
