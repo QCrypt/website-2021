@@ -40,6 +40,9 @@ QCrypt solicits submissions of extended abstracts describing recent research res
 
 In line with the goal of showcasing the best results each year from all subfields, the conference has no published proceedings. Yet, contributed talks are highly competitive. QCrypt welcomes the submission of any interesting and important result, while allowing researchers from a wide range of disciplines to pursue publication in any venue appropriate to their field.
 
+## Online conference
+The conference will take place virtually during the week of August 23-27, 2021.  The format and schdule will be similar to <a href="https://2020.qcrypt.net/online-conference/">last year's edition</a>. The conference will feature invited speakers, contributed talks, poster sessions, tutorials, and industry exhibitions.
+
 ## Submission Instructions
 An extended abstract should be 2-3 pages in A4 or letter size PDF, using reasonable margins and at least 11pt font. It should give a non-technical, clear and insightful description of the results and main ideas, their impact, and their importance to quantum cryptography.
 
