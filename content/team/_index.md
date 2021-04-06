@@ -49,6 +49,7 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2021@q
 * Roger Colbeck (University of York)
 * Virginia D'Auria (Institut de Physique de Nice)
 * Ivo Degiovanni (INRIM)
+* Verónica Fernández Mármol (Spanish National Research Council)
 * Daniel J. Gauthier (Ohio State University)
 * Andreas Hülsing (Eindhoven University of Technology)
 * Thomas Jennewein (University of Waterloo)
