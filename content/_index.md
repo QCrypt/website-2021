@@ -12,7 +12,7 @@ menu:
 
 ### 2021: online conference
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="/partners/#call-for-sponsors">Become a sponsor</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="/call/">Call for Papers</a>
 
 <!--
 <a class="btn primary btn-lg" href="/schedule">
