@@ -65,6 +65,7 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2021@q
 * Marco Tomamichel (National University of Singapore)
 * Vladyslav Usenko (Palacky University, Olomouc)
 * Giuseppe Vallone (University of Padova)
+* Paolo Villoresi (University of Padova)
 * Nino Walenta (Heinrich Hertz Institute)
 * Zhiliang Yuan (Toshiba Research Europe)
 * Yanbao Zhang (NTT Basic Research Lab)
