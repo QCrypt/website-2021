@@ -2,9 +2,9 @@
 title: "Quantum.Amsterdam"
 type: partner
 draft: false
-category: silver
+category: gold
 logo: /images/partners/QA.png
-website: /partners/silver/qa/
+website: /partners/gold/qa/
 ---
 <a href="https://quantum.amsterdam" target="_blank"><img src="/images/partners/quantum.amsterdam.png" style="height:auto;width:70%" alt="quantum.amsterdam" title="quantum.amsterdam"></img></a>
 
