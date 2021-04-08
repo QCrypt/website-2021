@@ -22,7 +22,7 @@ The following are the tentative key dates of QCrypt 2021, exact dates will be an
 
 |Date |Event|
 |:----|:----|
-|will be announced by email | Talk submission open||
+|April 9, 2021 | Talk submission open||
 |May 11, 2021, 11:59pm (Anywhere on Earth)|Talk submission deadline|
 |July 1, 2021|Talk acceptance notification|
 |July 6, 2021, 11:59pm (Anywhere on Earth)|Poster submission deadline|
@@ -30,7 +30,7 @@ The following are the tentative key dates of QCrypt 2021, exact dates will be an
 |Fri, 20 August 2021| Online registration deadline|
 |23-27 August 2021| QCrypt 2021|
 
-Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam" target="_blank">here</a>.
+Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events.
 
 ## Goal of the Conference
 QCRYPT is a conference for students and researchers who work on quantum cryptography, broadly defined.  We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation.  (Research on classical postquantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.)  QCRYPT features both experimental and theoretical talks.
@@ -50,16 +50,13 @@ For a "poster only" submission, a one-page non-technical PDF is sufficient as th
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
-The submission server will be announced here soon.
-<!--
 The submission server is now available at: <a href="https://qcrypt2021.quics.umd.edu/" target="_blank">https://qcrypt2021.quics.umd.edu/</a>
--->
 
 ## Student Paper Prize
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 
 ## Program Committee
-Program committee list can be found <a href="/team/#program-committee">here</a>. Please contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2021@qcrypt.net" icon="email" >}} with any questions.
+The program committee list can be found <a href="/team/#program-committee">here</a>. Please contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2021@qcrypt.net" icon="email" >}} with any questions.
 
 
 <!--
