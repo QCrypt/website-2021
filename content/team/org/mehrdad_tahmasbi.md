@@ -3,7 +3,7 @@ title: Mehrdad Tahmasbi
 surname: Tahmasbi
 type: org
 subtitle: University of Amsterdam, QuSoft
-job: slack admin
+job: suport
 photo: mehrdad_tahmasbi.png
 socials:
   - link: 'http://www.prism.gatech.edu/~mtahmasbi3/index.html'
