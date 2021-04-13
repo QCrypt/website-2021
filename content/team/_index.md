@@ -40,6 +40,7 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2021@q
 ### PC members
 * Antonio Acín (Institute of Photonic Sciences)
 * Romain Alléaume (Telecom Paris)
+* Erika Andersson	(Heriot-Watt University)
 * Rotem Arnon-Friedman (Weizmann Institute of Science)
 * Davide Bacco (Technical University of Denmark)
 * Zvika Brakerski (Weizmann Institute of Science)
@@ -52,6 +53,7 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2021@q
 * Yfke Dulek (QuSoft and CWI Amsterdam)
 * Verónica Fernández Mármol (Spanish National Research Council)
 * Daniel J. Gauthier (Ohio State University)
+* Sean Hallgren (Penn State University)
 * Andreas Hülsing (Eindhoven University of Technology)
 * Thomas Jennewein (University of Waterloo)
 * George Kanellos (University of Bristol)
