@@ -18,15 +18,14 @@ Our poster is now available! Please <a href="/poster">download and print it your
 -->
 
 ## Key dates 2021
-The following are the tentative key dates of QCrypt 2021, exact dates will be announced in due time.
 
 |Date |Event|
 |:----|:----|
-|April 9, 2021 | Talk submission open||
-|May 11, 2021, 11:59pm (Anywhere on Earth)|Talk submission deadline|
-|July 1, 2021|Talk acceptance notification|
-|July 6, 2021, 11:59pm (Anywhere on Earth)|Poster submission deadline|
-|July 16, 2021| Poster acceptance notification|
+|Fri, 9 April 2021 | Talk submission open||
+|Tue, 11 May 2021, 23:59 (Anywhere on Earth)|Talk submission deadline|
+|Thu, 1 July 1 2021|Talk acceptance notification|
+|Tue, 6 July 2021, 23:59 (Anywhere on Earth)|Poster submission deadline|
+|Fri, 16 July 2021| Poster acceptance notification|
 |Fri, 20 August 2021| Online registration deadline|
 |23-27 August 2021| QCrypt 2021|
 
