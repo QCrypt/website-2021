@@ -23,7 +23,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |:----|:----|
 |Fri, 9 April 2021 | Talk submission open||
 |Tue, 11 May 2021, 23:59 (Anywhere on Earth)|Talk submission deadline|
-|Thu, 1 July 1 2021|Talk acceptance notification|
+|Thu, 1 July 2021|Talk acceptance notification|
 |Tue, 6 July 2021, 23:59 (Anywhere on Earth)|Poster submission deadline|
 |Fri, 16 July 2021| Poster acceptance notification|
 |Fri, 20 August 2021| Online registration deadline|
