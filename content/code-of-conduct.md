@@ -1,7 +1,7 @@
 ---
 title: QCrypt - Code of Conduct
 
-draft: false
+draft: true
 type: no_toc
 ---
 

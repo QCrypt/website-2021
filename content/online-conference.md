@@ -1,16 +1,16 @@
 ---
 title: Online Conference
-draft: false
+draft: true
 type: text_page
 
 ---
 
-## Instructions for QCrypt 2020 participants
+## Instructions for QCrypt 2021 participants
 
 ### The Zoom Webinar
-The scientific presentations take place as a Zoom Webinar. Use the link in the invitation email (sent on Saturday, 8 Aug 2020) to access the webinar. You are then prompted to fill in your name and email address.
+The scientific presentations take place as a Zoom Webinar. Use the link in the invitation email (sent on Saturday, ??? Aug 2021) to access the webinar. You are then prompted to fill in your name and email address.
 
-**NB: It is required that you represent yourself by the full name that you use for your professional work (https://2020.qcrypt.net/code-of-conduct-online/).**
+**NB: It is required that you represent yourself by the full name that you use for your professional work (https://2021.qcrypt.net/code-of-conduct-online/).**
 
 During presentations, participants can use the Q&A functionality to pose questions to the speaker. *For contributed-talk sessions with multiple speakers, make sure you address the question to a particular speaker.* The session chair will then read out (some of) these questions to the speaker. Alternatively, there is the possibility to raise your hand; the session chair may then temporarily unmute you so that you can ask your question.
 
@@ -20,28 +20,28 @@ There is also a chat feature for private and public chatting. <a href="https://z
 The Zoom Webinar is streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos . You can already find the pre-recorded videos of the contributed talks on the channel.
 
 ### The Slack Workspace
-The QCrypt Slack workspace enables interaction that is not restricted to the time of the day when the conference is actively running. For instance, participants that were not able to be present at the live presentation and Q&A can this way still ask questions about a presentation. Or, use the Slack private chat to agree on a time and place to meet in the Meet-&-Greet Room. Use the link from the invitation email (sent on Saturday, 8 Aug 2020) to subscribe to the QCrypt Slack channel.
+The QCrypt Slack workspace enables interaction that is not restricted to the time of the day when the conference is actively running. For instance, participants that were not able to be present at the live presentation and Q&A can this way still ask questions about a presentation. Or, use the Slack private chat to agree on a time and place to meet in the Meet-&-Greet Room. Use the link from the invitation email (sent on Saturday, ??? Aug 2021) to subscribe to the QCrypt Slack channel.
 
 ### The Meet-&-Greet Room
-The breaks between the scientific presentations, as well as the two poster sessions, take place in the QCrypt 2020 Meet-&-Greet Room. This room is designed to enable, and hopefully stimulate, interaction between the participants. Beyond that, it offers the possibility for (more) private discussions with the speakers, and participants can visit the Sponsor Lounges and check out the pin boards there, and talk to the corresponding company- and institute-representatives.
+The breaks between the scientific presentations, as well as the two poster sessions, take place in the QCrypt 2021 Meet-&-Greet Room. This room is designed to enable, and hopefully stimulate, interaction between the participants. Beyond that, it offers the possibility for (more) private discussions with the speakers, and participants can visit the Sponsor Lounges and check out the pin boards there, and talk to the corresponding company- and institute-representatives.
 
 The Meet-&-Greet Room (powered by remo.co) is purely browser based. Up-to-date versions of Firefox, Chrome and Safari are supported; other browsers may not work (well). Visit https://geartest.remo.co  to verify that your system satisfied the requirements. To use the video-talking feature, you must grant your browser access to your microphone and camera.
 
-Below are detailed instructions on how to access the QCrypt 2020 Meet-&-Greet Room, and how to use it.
+Below are detailed instructions on how to access the QCrypt 2021 Meet-&-Greet Room, and how to use it.
 
 #### How to: Register for and Access the Meet-&-Greet Room
-1. Use the link in the invitation email (sent on Saturday, 8 Aug 2020) to access the event landing page, and click “Save me a spot” if the event has not started yet, or “Sign in to join event” in case the event is already running. <img src="/images/instructions/landing_page.png" alt="landing page" title="landing page" height="200" style="display:block;width:50%;height:auto;" />
+1. Use the link in the invitation email (sent on Saturday, ??? Aug 2021) to access the event landing page, and click “Save me a spot” if the event has not started yet, or “Sign in to join event” in case the event is already running. <img src="/images/instructions/landing_page.png" alt="landing page" title="landing page" height="200" style="display:block;width:50%;height:auto;" />
 
 
 2. Enter your email address and create an account, or log in to your account if you are already registered.
 
 3. <img src="/images/instructions/profile.png" alt="profile" title="profile" style="float:right;width:15%;height:auto;" />When you are back on the event landing page, click on the icon in the upper right corner to access your profile. There, you can add a profile picture; this will make it easier for fellow QCrypt attendees to recognize you in the Meet-&-Greet Room. You can also fill in your affiliation, add a link to your LinkedIn profile, and more.
-**NB: It is required that you represent yourself by the full name that you use for your professional work (https://2020.qcrypt.net/code-of-conduct-online/)**
+**NB: It is required that you represent yourself by the full name that you use for your professional work (https://2021.qcrypt.net/code-of-conduct-online/)**
 <div style="clear:right" />
 
 4. <img src="/images/instructions/join_event.png" alt="join event" title="join event" style="height:auto;float:right;width:20%;" />
 Once the event has started, click “Join event now” on the event landing page and read the explanations and follow the instructions, or select “skip for now” for immediate access. You may also get the option to test your camera and microphone.
-If you encounter problems joining then send a message to the QCrypt Slack helpdesk channel and an email to helpdesk2020@qcrypt.net.
+If you encounter problems joining then send a message to the QCrypt Slack helpdesk channel and an email to helpdesk2021@qcrypt.net.
 <div style="clear:right" />
 
 #### How to: Use the Meet-&-Greet Room
@@ -86,15 +86,15 @@ There is also a “Need help?” button on the lower left corner; this is the su
 
 
 ## General format
-The online edition of QCrypt 2020 will have a similar format than  other conferences such as [Eurocrypt 20](https://eurocrypt.iacr.org/2020/) and [PKC 20](https://pkc.iacr.org/2020/) that were recently held online. The authors of accepted papers are asked to prepare and upload a 20-25 minute video of their talks that will be available on [our YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) several days before the conference.
+The online edition of QCrypt 2021 will have a similar format as other conferences such as [Eurocrypt 20](https://eurocrypt.iacr.org/2020/) and [PKC 20](https://pkc.iacr.org/2020/) that were held online. The authors of accepted papers are asked to prepare and upload a 20-25 minute video of their talks that will be available on [our YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) several days before the conference.
 
-From Monday, 10 August to Friday, 14 August 2020,
+From Monday, 23 August to Friday, 27 August 2021,
 
 - the main program of the conference takes place as zoom webinar,
 - the poster sessions and networking breaks will take place in a virtual Meet & Greet Room (featured by <a href="https://remo.co" target="_blank">https://remo.co</a>),
 - participants can talk to each other on Slack.
 
-All partipants of QCrypt 2020 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
+All partipants of QCrypt 2021 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
 
 ### Tutorial talks, Invited talks
 The tutorial and invited talks are given live on the zoom webinar, and simultaneously streamed to YouTube. Webinar participants can ask questions via the zoom Q&A functionality. The speaker will answer the most important questions after the talk on zoom. After each session, the speaker is moving over to the Meet & Greet Room and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
@@ -121,23 +121,23 @@ The breaks between the talks can be spent in the Meet & Greet Room. Very much as
 The {{< button-link label="conference schedule" url="/schedule" icon="link">}} is now available.
 
 ## Registration
-Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2020. Note that by registering to QCrypt, you are considered a participant of QCrypt 2020 and are thereby bound to the [code of conduct](/code-of-conduct-online).
+Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2021. Note that by registering to QCrypt, you are considered a participant of QCrypt 2021 and are thereby bound to the [code of conduct](/code-of-conduct-online).
 
-<!-- {{< button-link label="Registration is not open yet" url="online-conference/#registration" icon="link" target="_blank" disabled="disabled" >}} -->
+{{< button-link label="Registration is not open yet" url="online-conference/#registration" icon="link" target="_blank" disabled="disabled" >}}
 
 
-{{< button-link label="Register here" url="/registration" icon="menu" target="_blank">}}
+<!-- {{< button-link label="Register here" url="/registration" icon="menu" target="_blank">}} -->
 
-The email address you indicate during the registration will be added to an email list of registered participants of QCrypt 2020.
+The email address you indicate during the registration will be added to an email list of registered participants of QCrypt 2021.
 In the week before the conference, we will send you via email the links to the zoom webinar and the virtual meet & greet room (for the poster sessions and the social breaks).
 
 ## Google and YouTube not accessible
-For participants having trouble to access our registration form, please send us an email to at {{< button-link label="helpdesk2020@qcrypt.net" url="mailto:helpdesk2020@qcrypt.net" icon="email" >}} and we will register you manually.
+For participants having trouble to access our registration form, please send us an email to at {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}} and we will register you manually.
 
 In case you cannot access the recorded contributed talks on YouTube, download and watch them from {{< button-link label="SurfDrive" url="https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s" icon="link" target="_blank" >}} instead.
 
 ## Instructions for authors of accepted papers
-1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, 3 August 2020**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
+1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, ??? August 2021**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
 
 2. Set the file name of the video to be ‘Talk’ followed by the submission number followed by the last name of the presenting author (e.g. Talk123Smith.mp4).
 
@@ -148,27 +148,27 @@ In case you cannot access the recorded contributed talks on YouTube, download an
 ## Instructions for zoom webinar speakers (tutorial, invited, contributed)
 Note that all zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
 
-{{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2020_speaker_instructions.pdf" target="_blank" >}}
+{{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2021_speaker_instructions.pdf" target="_blank" >}}
 
 Please upload your slides to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s to make them available from our website.
 
 ## Instructions for session chairs
-{{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2020_sessionchairs_instructions.pdf" target="_blank" >}}
+{{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2021_sessionchairs_instructions.pdf" target="_blank" >}}
 
 
 ## Instructions for authors of accepted posters
-1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 3 August 2020**.
+1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, ??? August 2021**.
 
-2. **(updated 4 Aug 2020) Set the file name of the poster to be ‘QCrypt2020Poster’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2020Poster012Smith.pdf).**
+2. Set the file name of the poster to be ‘QCrypt2021Poster’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2021Poster012Smith.pdf).
 
 3. Upload the poster to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
 
 4. Posters are now available at {{< button-link icon="link" label="here" url="/accepted-papers/#list-and-download-of-accepted-posters" >}}
 
-5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2020_posterpresenters_instructions.pdf" target="_blank" >}}
+5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2021_posterpresenters_instructions.pdf" target="_blank" >}}
 
 ## Follow us on Twitter
-{{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2020 using the hashtag #qcrypt2020 .
+{{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2021 using the hashtag #qcrypt2021 .
 
 ## Questions
-If you have quetions, you can ask them on the #helpdesk channel on slack, or email to {{< button-link label="helpdesk2020@qcrypt.net" url="mailto:helpdesk2020@qcrypt.net" icon="email" >}}
+If you have quetions, you can ask them on the #helpdesk channel on slack, or email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}

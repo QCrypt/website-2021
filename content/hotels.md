@@ -4,7 +4,7 @@ image: /images/backgrounds/sail.jpg
 type: with_banner
 fullTitle: Accommodation and SAIL
 
-draft: false
+draft: true
 ---
 
 ## SAIL

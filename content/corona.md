@@ -1,6 +1,6 @@
 ---
 title: Corona updates
-draft: false
+draft: true
 type: text_page
 ---
 
