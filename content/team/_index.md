@@ -72,5 +72,5 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2021@q
 * Giuseppe Vallone (University of Padova)
 * Paolo Villoresi (University of Padova)
 * Nino Walenta (Heinrich Hertz Institute)
-* Zhiliang Yuan (Toshiba Research Europe)
+* Zhiliang Yuan (Beijing Academy of Quantum Information Sciences)
 * Yanbao Zhang (NTT Basic Research Lab)
