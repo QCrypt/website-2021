@@ -43,9 +43,9 @@ In line with the goal of showcasing the best results each year from all subfield
 The conference will take place virtually during the week of August 23-27, 2021.  The format and schdule will be similar to <a href="https://2020.qcrypt.net/online-conference/">last year's edition</a>. The conference will feature invited speakers, contributed talks, poster sessions, tutorials, and industry exhibitions.
 
 ## Submission Instructions
-An extended abstract should be 2-3 pages in A4 or letter size PDF, using reasonable margins and at least 11pt font. It should give a non-technical, clear and insightful description of the results and main ideas, their impact, and their importance to quantum cryptography.
+All submissions should be in PDF (Portable Document Format).  An extended abstract for a talk submission should be 2-3 pages, in A4 or letter size, using reasonable margins and at least 11pt font.  (The 3-page limit does not include references.)  An extended abstract for a talk should give a non-technical, clear and insightful description of the results and main ideas, their impact, and their importance to quantum cryptography.
 
-For a "poster only" submission, a one-page non-technical PDF is sufficient as the extended abstract.
+For a “poster only” submission, a one-page non-technical description is sufficient as an extended abstract.
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
