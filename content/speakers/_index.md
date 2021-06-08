@@ -3,6 +3,9 @@ title: Speakers
 draft: false
 type: speakers
 layout: list_with_header
+menu:
+    main:
+        weight: 40
 ---
 
 
