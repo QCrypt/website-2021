@@ -18,5 +18,5 @@ menu:
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
 
-## Online event
-{{< button-link label="online conference format" url="/online-conference" icon="link" target="_blank">}}
+<!-- ## Online event
+{{< button-link label="online conference format" url="/online-conference" icon="link" target="_blank">}} -->
