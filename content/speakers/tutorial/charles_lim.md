@@ -1,8 +1,8 @@
 ---
 key: lim
-name: Charles lim
+name: Charles Lim
 surname: Lim
-company: Centre for Quantum Technogolies
+company: National University of Singapore
 photoURL: /images/speakers/Charles_Lim.jpg
 type: tutorial
 website: 'https://www.ccwlim.com'
