@@ -5,7 +5,7 @@ surname: Khurana
 company: University of Illinois Urbana-Champaign
 photoURL: /images/speakers/Dakshita_Khurana.jpg
 type: invited
-website: 'https://www.dakshitakhurana.com'
+website: '/sessions/invited_khurana'
 socials:
   - link: 'https://www.dakshitakhurana.com'
     name: Site

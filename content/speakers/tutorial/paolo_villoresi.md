@@ -5,7 +5,7 @@ surname: Villoresi
 company: University of Padova
 photoURL: /images/speakers/Paolo_Villoresi.jpg
 type: tutorial
-website: 'http://www.dei.unipd.it/~pavil'
+website: '/sessions/tutorial_villoresi'
 socials:
   - link: 'http://www.dei.unipd.it/~pavil'
     name: Site
