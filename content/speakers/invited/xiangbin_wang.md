@@ -1,6 +1,6 @@
 ---
 key: wang
-name: Xiangbin Wang
+name: Xiang-Bin Wang
 surname: Wang
 company: Tsinghua University
 photoURL: /images/speakers/xiangbin_wang.jpg
