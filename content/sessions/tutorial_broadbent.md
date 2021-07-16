@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: title TBA (Chair: TBA)"
+title: "Tutorial: Quantum Uncloneability (Chair: TBA)"
 format: tutorial
 speakers:
   - broadbent
