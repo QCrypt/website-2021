@@ -849,9 +849,119 @@
         "abstract": "Measurement-device-independent quantum key distribution (MDI-QKD), based\r\non two-photon interference, is immune to all attacks against the detection system and allows a\r\nQKD network with untrusted relays. Since the MDI-QKD protocol was proposed, fiber-based\r\nimplementations aimed at longer distance, higher key rates and network verification have been\r\nrapidly developed. However, owing to the effect of atmospheric turbulence, MDI-QKD over\r\nfree-space channel remains experimentally challenging. Herein, by developing a robust adaptive\r\noptics system, high-precision time synchronization and frequency locking between independent\r\nphoton sources located far apart, we realized the first free-space MDI-QKD over a 19.2-km urban\r\natmospheric channel, which well exceeds the effective atmospheric thickness. Our experiment\r\ntakes the first step towards satellite-based MDI-QKD. Moreover, the technology developed herein\r\nopens the way to quantum experiments in free space involving long-distance interference of\r\nindependent single photons.",
         "authors": [
             {
+                "first": "Yuan",
+                "last": "Cao",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
                 "first": "Yu-Huai",
                 "last": "Li",
-                "affiliation": "University of Science and Technology of China"
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Kui-Xing",
+                "last": "Yang",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Yang-Fan",
+                "last": "Jiang",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Shuang-Lin",
+                "last": "Li",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Xiao-Long",
+                "last": "Hu",
+                "affiliation": "Tsinghua University"
+            },
+            {
+                "first": "Maimaiti",
+                "last": "Abulizi",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Cheng-Long",
+                "last": "Li",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Weijun",
+                "last": "Zhang",
+                "affiliation": "Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences"
+            },
+            {
+                "first": "Qi-Chao",
+                "last": "Sun",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Wei-Yue",
+                "last": "Liu",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Xiao",
+                "last": "Jiang",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Sheng-Kai",
+                "last": "Liao",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Ji-Gang",
+                "last": "Ren",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Hao",
+                "last": "Li",
+                "affiliation": "Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences"
+            },
+            {
+                "first": "Lixing",
+                "last": "You",
+                "affiliation": "Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences"
+            },
+            {
+                "first": "Zhen",
+                "last": "Wang",
+                "affiliation": "Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences"
+            },
+            {
+                "first": "Juan",
+                "last": "Yin",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Chao-Yang",
+                "last": "Lu",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Xiang-Bin",
+                "last": "Wang",
+                "affiliation": "University of Science and Technology of China and Tsinghua University"
+            },
+            {
+                "first": "Qiang",
+                "last": "Zhang",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Cheng-Zhi",
+                "last": "Peng",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
+            },
+            {
+                "first": "Jian-Wei",
+                "last": "Pan",
+                "affiliation": "University of Science and Technology of China and Shanghai Research Center for Quantum Sciences"
             }
         ],
         "submission_type": "Talk or poster",
