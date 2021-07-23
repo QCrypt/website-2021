@@ -165,11 +165,12 @@ When preparing your slides, leave some room on the upper right corner for the im
 
 The protocol for your presentation is as follows:
 - Presentations for contributed talks should be 5 minutes.
-- Visit the Zoom webinar 10 to 15 minutes before the start of the **session** that features your presentation. During this time, you can then check if screen sharing works, etc.
+- In the evening before the day of your session, you receive an invitation as panelist for the Zoom webinar.
+- Visit the Zoom webinar 10 minutes before the start of the **session** that features your presentation. During this time, you can then check if screen sharing works, etc.
 - Once the webinar is live and the session chair has introduced you and given you the floor, you give your presentation. Ignore chat messages that may pop up during the presentation; the session chair will deal with those.
 - All panelists currently not presenting can leave on their cameras, but should mute themselves.
 - After all the presentations in a session are finished, the session chair will organize the Q&A.
-- When the session with your presentation is over, you are asked to directly go to the "Meet the Speakers" tab in the "Presentation area" of meetanyway  (see the separate instructions for participants for entering and using the "Meet the Speakers" tab in meetanyway).
+- When the session with your presentation is over, you are asked to directly go to the "Meet the Speakers" tab in the "Presentation area" of meetanyway.
 Participants may now join you in this lounge for further questions and discussions regarding your presentation.
 
 
