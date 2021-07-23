@@ -1,17 +1,18 @@
 ---
 title: Registration
 
-draft: true
-type: no_toc
+draft: false
+type: text_page
+menu:
+    main:
+        weight: 20
 
 ---
 
 ## Registration for QCrypt 2021 is now open!
-QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2021 event will take place online. Thanks to <a href="/partners" target="_blank">our sponsors</a>, there is no registration fee for participants. The link below will bring you to the Google registration form:
+QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2021 event will take place online. Thanks to <a href="/partners" target="_blank">our sponsors</a>, there is no registration fee for participants. The link below will bring you to the registration form:
 
-{{< button-link label="Register here" url="https://forms.gle/bFRGhKkLvh7KN3j56" icon="link" target="_blank">}}
-
-TODO update form url
+{{< button-link label="Register here" url="https://www.illc.uva.nl/cms/QCrypt-2021-Registration" icon="link" target="_blank">}}
 
 <!-- **You can still register for the conference, but participation links will only be sent out twice a day.** In the meanwhile, you can watch the live stream on our QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos -->
 

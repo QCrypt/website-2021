@@ -1,11 +1,16 @@
 ---
 title: Online Conference
-draft: true
+draft: false
 type: text_page
+draft: false
+type: text_page
+menu:
+    main:
+        weight: 30
 
 ---
 
-## Instructions for QCrypt 2021 participants
+<!--## Instructions for QCrypt 2021 participants
 
 ### The Zoom Webinar
 The scientific presentations take place as a Zoom Webinar. Use the link in the invitation email (sent on Saturday, ??? Aug 2021) to access the webinar. You are then prompted to fill in your name and email address.
@@ -82,21 +87,21 @@ NB: The chat shows all participants that have ever been in the room, and not onl
 **Need help.** If you need help then visit our Help Desk on the 3rd floor and talk to our staff, or send a message to the QCrypt Slack helpdesk channer.
 There is also a “Need help?” button on the lower left corner; this is the support from the provider of the platform (remo.co). Feel free to use; they are generally fast and competent.
 
-**Leave.** Exit the Meet-&-Greet Room by clicking on the “Quit Event” button in the toolbar.
+**Leave.** Exit the Meet-&-Greet Room by clicking on the “Quit Event” button in the toolbar. -->
 
 
 ## General format
-The online edition of QCrypt 2021 will have a similar format as other conferences such as [Eurocrypt 20](https://eurocrypt.iacr.org/2020/) and [PKC 20](https://pkc.iacr.org/2020/) that were held online. The authors of accepted papers are asked to prepare and upload a 20-25 minute video of their talks that will be available on [our YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) several days before the conference.
+The online edition of QCrypt 2021 will have a similar format as [last year](https://2020.qcrypt.net) that was held online. The authors of accepted papers are asked to prepare and upload a 20-25 minute video of their talks that will be available on [our YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) several days before the conference.
 
-From Monday, 23 August to Friday, 27 August 2021,
+<!-- From Monday, 23 August to Friday, 27 August 2021,
 
 - the main program of the conference takes place as zoom webinar,
 - the poster sessions and networking breaks will take place in a virtual Meet & Greet Room (featured by <a href="https://remo.co" target="_blank">https://remo.co</a>),
-- participants can talk to each other on Slack.
+- participants can talk to each other on Slack. -->
 
 All partipants of QCrypt 2021 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
 
-### Tutorial talks, Invited talks
+<!-- ### Tutorial talks, Invited talks
 The tutorial and invited talks are given live on the zoom webinar, and simultaneously streamed to YouTube. Webinar participants can ask questions via the zoom Q&A functionality. The speaker will answer the most important questions after the talk on zoom. After each session, the speaker is moving over to the Meet & Greet Room and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
 
 ### Contributed talks
@@ -104,7 +109,7 @@ The [list of accepted papers](/accepted-papers) is here. After making a 20-25 mi
 After each session, the speakers are moving over to the Meet & Greet Room and will be available there to answer more individual questions.
 
 ### Poster sessions
-The [list of accepted posters](/accepted-papers) with PDFs is now available on this website. The two poster sessions take place in the Meet & Greet Room. More details will be provided later.
+The [list of accepted posters](/accepted-papers) with PDFs is now available on this website. The two poster sessions take place in the Meet & Greet Room. More details will be provided later. -->
 
 <!--
 - One poster/presenter per table
@@ -114,61 +119,117 @@ The [list of accepted posters](/accepted-papers) with PDFs is now available on t
 - Tables/lounges for sponsors.
 -->
 
-### Breaks
+<!-- ### Breaks
 The breaks between the talks can be spent in the Meet & Greet Room. Very much as with a physical conference, there you can meet and chat with your colleagues, corner the speaker from the previous session for (more) questions, visit the sponsor booths, and make new acquaintances. This is also the venue where the poster sessions take place.
 
 ### Schedule
-The {{< button-link label="conference schedule" url="/schedule" icon="link">}} is now available.
+The {{< button-link label="conference schedule" url="/schedule" icon="link">}} is now available. -->
 
 ## Registration
 Thanks to our [sponsors](/partners), there is no registration fee for participating in the online edition of QCrypt 2021. Note that by registering to QCrypt, you are considered a participant of QCrypt 2021 and are thereby bound to the [code of conduct](/code-of-conduct-online).
 
-{{< button-link label="Registration is not open yet" url="online-conference/#registration" icon="link" target="_blank" disabled="disabled" >}}
+<!--{{< button-link label="Registration is not open yet" url="online-conference/#registration" icon="link" target="_blank" disabled="disabled" >}}-->
 
 
-<!-- {{< button-link label="Register here" url="/registration" icon="menu" target="_blank">}} -->
+{{< button-link label="Register here" url="/registration" icon="menu" target="_blank">}}
 
 The email address you indicate during the registration will be added to an email list of registered participants of QCrypt 2021.
-In the week before the conference, we will send you via email the links to the zoom webinar and the virtual meet & greet room (for the poster sessions and the social breaks).
+In the week before the conference, we will send you instructions on how to attend the conference via email.
 
-## Google and YouTube not accessible
+<!--## Google and YouTube not accessible
 For participants having trouble to access our registration form, please send us an email to at {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}} and we will register you manually.
 
-In case you cannot access the recorded contributed talks on YouTube, download and watch them from {{< button-link label="SurfDrive" url="https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s" icon="link" target="_blank" >}} instead.
+In case you cannot access the recorded contributed talks on YouTube, download and watch them from {{< button-link label="SurfDrive" url="https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W" icon="link" target="_blank" >}} instead.-->
 
 ## Instructions for authors of accepted papers
-1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, ??? August 2021**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
+Speakers are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a speaker, you will receive some extra information on top, e.g., you will receive a separate link to access the Zoom webinar as a “panelist”. Generally, it is a good idea to [update](https://zoom.us/download) your local zoom client to the latest version.
+
+1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, 16 August 2021**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
 
 2. Set the file name of the video to be ‘Talk’ followed by the submission number followed by the last name of the presenting author (e.g. Talk123Smith.mp4).
 
-3. Upload the talk video to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
+3. Upload the talk video to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W).
 
 4. We will upload your talk to our [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) and make it available from our webpage.
 
+Authors of accepted papers will also give a short (5-minute) live presentation during the week of the conference, via a Zoom webinar. For instructions, see below.
+
+
+
 ## Instructions for zoom webinar speakers (tutorial, invited, contributed)
-Note that all zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
+Note that all Zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw).
 
-{{< button-link icon="direction" label="PDF instructions for speakers" url="/pdf/QCrypt2021_speaker_instructions.pdf" target="_blank" >}}
+When preparing your slides, leave some room on the upper right corner for the image of yourself on the live stream. After your talk, please upload your slides to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W) so we can make them available from our website.
 
-Please upload your slides to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s to make them available from our website.
+**Mind the time zones! Make sure that you have the right time for your presentation. All times on the schedule are [Amsterdam time (CEST)](https://www.timeanddate.com/worldclock/personal.html?cities=16,33,165,248,224,176,136&wch=3).**
 
-## Instructions for session chairs
-{{< button-link icon="direction" label="PDF instructions for session chairs" url="/pdf/QCrypt2021_sessionchairs_instructions.pdf" target="_blank" >}}
+The protocol for your presentation is as follows:
+- Presentations for contributed talks should be 5 minutes.
+- Visit the Zoom webinar 10 to 15 minutes before the start of the **session** that features your presentation. During this time, you can then check if screen sharing works, etc.
+- Once the webinar is live and the session chair has introduced you and given you the floor, you give your presentation. Ignore chat messages that may pop up during the presentation; the session chair will deal with those.
+- All panelists currently not presenting can leave on their cameras, but should mute themselves.
+- After all the presentations in a session are finished, the session chair will organize the Q&A.
+- When the session with your presentation is over, you are asked to directly go to the "Meet the Speakers" tab in the "Presentation area" of meetanyway  (see the separate instructions for participants for entering and using the "Meet the Speakers" tab in meetanyway).
+Participants may now join you in this lounge for further questions and discussions regarding your presentation.
 
 
 ## Instructions for authors of accepted posters
-1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, ??? August 2021**.
+Poster presenters are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference.
+
+<!-- Check https://2021.qcrypt.net/accepted-papers/#list-of-accepted-posters, or https://2021.qcrypt.net/sessions/poster1/ and https://2021.qcrypt.net/sessions/poster2/, to see which of the two poster sessions features your poster. -->
+
+1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 16 August 2021**.
 
 2. Set the file name of the poster to be ‘QCrypt2021Poster’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2021Poster012Smith.pdf).
 
-3. Upload the poster to https://surfdrive.surf.nl/files/index.php/s/SerEi1nOmmxNP0s.
+3. Upload the poster to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W). Please double-check your file before uploading, because you will not be able to edit it yourself afterwards.
 
-4. Posters are now available at {{< button-link icon="link" label="here" url="/accepted-papers/#list-and-download-of-accepted-posters" >}}
+<!-- 4. Posters are now available at {{< button-link icon="link" label="here" url="/accepted-papers/#list-and-download-of-accepted-posters" >}} -->
 
-5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2021_posterpresenters_instructions.pdf" target="_blank" >}}
+<!-- 5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2021_posterpresenters_instructions.pdf" target="_blank" >}} -->
+
+The protocol for your poster presentation is as follows:
+- 5 minutes before the start of the poster session that features your poster, go to the Poster Session area of meetanyway.
+- Look for the tab containing your submission number.
+- Make sure your microphone and camera are on.
+- You are now ready to receive the participants at your poster.
+
+If you encounter problems, drop by the "Help Desk" in the Main Lobby, send a message to the QCrypt Slack #helpdesk channel, or send an email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}.
+
+
+
+## Instructions for session chairs
+Session chairs are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a session chair, you will receive some additional information, e.g., you will receive a separate link to access the Zoom webinar as a "panelist". Generally, it is a good idea to [update](https://zoom.us/download) your local zoom client to the latest version.
+
+**Mind the time zones! Make sure that you have the right time for your presentation.
+All times on the schedule are [Amsterdam time (CEST)](https://www.timeanddate.com/worldclock/personal.html?cities=16,33,165,248,224,176,136&wch=3).**
+
+For the conference, we will using Zoom webinars (which have a number of [differences](https://support.zoom.us/hc/en-us/articles/115005474943-Meeting-and-webinar-comparison) compared to regular Zoom meetings). As a security feature, regular attendees cannot turn on video, and can only speak when activated by a (co-)host.
+
+The protocol for your session chairing is as follows:
+- In the evening before the day you chair a session, you receive an invitation as panelist for the Zoom webinar.
+- Visit the Zoom webinar 10 minutes before the start of the session you are chairing.
+- Check that all upcoming speaker(s) of the session is/are present and ready. If applicable, coordinate the tasks with the other chair, e.g., one chair keeps an eye on the time, the other focuses on questions from the audience.
+- All panelists not presenting can leave on their cameras, but should mute themselves.
+- Once the webinar is live:
+    - Welcome the audience.
+    - Quickly explain the procedure, in particular that the audience can ask questions
+        - by writing the question into the Slack channel (for sessions with multiple speakers, make sure the question includes the person it is intended for);
+        - by raising the hand and being unmuted by the session chair (mostly for tutorial, and possibly invited talks, not used for contributed talks).
+    - Introduce the (first) speaker and hand over to him/her for the presentation.
+    - In case of a contributed-talks session, once the first speaker is done, give the word to the second speaker, etc.
+    - At the end of the session, organize the Q&A:
+        - Read out (relevant) questions from the Slack channel.
+        - Check for raised hands and unmute temporarily to let the person ask (**this requires the chair to be co-host**).
+        - Check if some of the panelists have questions.
+        - **If necessary, try to get a bit of a discussion going by asking questions yourself.**
+    - Make sure to stay within the allotted time slot.
+    - Thank the speaker(s) at the end of the session.
+    - Announce that the speaker(s) will be available for further questions in the "Meet the Speaker" (if this is indeed the case).
+
 
 ## Follow us on Twitter
 {{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2021 using the hashtag #qcrypt2021 .
 
 ## Questions
-If you have quetions, you can ask them on the #helpdesk channel on slack, or email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}
+If you have quetions, you can ask them on the #helpdesk channel on Slack, or email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}

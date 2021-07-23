@@ -2,9 +2,6 @@
 title: Call for Papers
 type: text_page
 aliases: [/call_staging/]
-menu:
-  main:
-    weight: 20
 draft: false
 ---
 

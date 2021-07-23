@@ -4,9 +4,6 @@ title: QCrypt Charter
 draft: false
 type: text_page
 
-menu:
-    main:
-        weight: 30
 
 ---
 
