@@ -189,10 +189,10 @@ Poster presenters are asked to [register](/registration) to the conference in or
 <!-- 5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2021_posterpresenters_instructions.pdf" target="_blank" >}} -->
 
 The protocol for your poster presentation is as follows:
-- 5 minutes before the start of the poster session that features your poster, go to the Poster Session area of meetanyway.
-- Look for the tab containing your submission number.
-- Make sure your microphone and camera are on.
-- You are now ready to receive the participants at your poster.
+* 5 minutes before the start of the poster session that features your poster, go to the Poster Session area of meetanyway.
+* Look for the tab containing your submission number.
+* Make sure your microphone and camera are on.
+* You are now ready to receive the participants at your poster.
 
 If you encounter problems, drop by the "Help Desk" in the Main Lobby, send a message to the QCrypt Slack #helpdesk channel, or send an email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}.
 
@@ -207,25 +207,25 @@ All times on the schedule are [Amsterdam time (CEST)](https://www.timeanddate.co
 For the conference, we will using Zoom webinars (which have a number of [differences](https://support.zoom.us/hc/en-us/articles/115005474943-Meeting-and-webinar-comparison) compared to regular Zoom meetings). As a security feature, regular attendees cannot turn on video, and can only speak when activated by a (co-)host.
 
 The protocol for your session chairing is as follows:
-- In the evening before the day you chair a session, you receive an invitation as panelist for the Zoom webinar.
-- Visit the Zoom webinar 10 minutes before the start of the session you are chairing.
-- Check that all upcoming speaker(s) of the session is/are present and ready. If applicable, coordinate the tasks with the other chair, e.g., one chair keeps an eye on the time, the other focuses on questions from the audience.
-- All panelists not presenting can leave on their cameras, but should mute themselves.
-- Once the webinar is live:
-    - Welcome the audience.
-    - Quickly explain the procedure, in particular that the audience can ask questions
-        - by writing the question into the Slack channel (for sessions with multiple speakers, make sure the question includes the person it is intended for);
-        - by raising the hand and being unmuted by the session chair (mostly for tutorial, and possibly invited talks, not used for contributed talks).
-    - Introduce the (first) speaker and hand over to him/her for the presentation.
-    - In case of a contributed-talks session, once the first speaker is done, give the word to the second speaker, etc.
-    - At the end of the session, organize the Q&A:
-        - Read out (relevant) questions from the Slack channel.
-        - Check for raised hands and unmute temporarily to let the person ask (**this requires the chair to be co-host**).
-        - Check if some of the panelists have questions.
-        - **If necessary, try to get a bit of a discussion going by asking questions yourself.**
-    - Make sure to stay within the allotted time slot.
-    - Thank the speaker(s) at the end of the session.
-    - Announce that the speaker(s) will be available for further questions in the "Meet the Speaker" (if this is indeed the case).
+* In the evening before the day you chair a session, you receive an invitation as panelist for the Zoom webinar.
+* Visit the Zoom webinar 10 minutes before the start of the session you are chairing.
+* Check that all upcoming speaker(s) of the session is/are present and ready. If applicable, coordinate the tasks with the other chair, e.g., one chair keeps an eye on the time, the other focuses on questions from the audience.
+* All panelists not presenting can leave on their cameras, but should mute themselves.
+* Once the webinar is live:
+    * Welcome the audience.
+    * Quickly explain the procedure, in particular that the audience can ask questions
+        * by writing the question into the Slack channel (for sessions with multiple speakers, make sure the question includes the person it is intended for);
+        * by raising the hand and being unmuted by the session chair (mostly for tutorial, and possibly invited talks, not used for contributed talks).
+    * Introduce the (first) speaker and hand over to him/her for the presentation.
+    * In case of a contributed-talks session, once the first speaker is done, give the word to the second speaker, etc.
+    * At the end of the session, organize the Q&A:
+        * Read out (relevant) questions from the Slack channel.
+        * Check for raised hands and unmute temporarily to let the person ask (**this requires the chair to be co-host**).
+        * Check if some of the panelists have questions.
+        * **If necessary, try to get a bit of a discussion going by asking questions yourself.**
+    * Make sure to stay within the allotted time slot.
+    * Thank the speaker(s) at the end of the session.
+    * Announce that the speaker(s) will be available for further questions in the "Meet the Speaker" (if this is indeed the case).
 
 
 ## Follow us on Twitter
