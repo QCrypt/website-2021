@@ -93,23 +93,23 @@ There is also a “Need help?” button on the lower left corner; this is the su
 ## General format
 The online edition of QCrypt 2021 will have a similar format as [last year](https://2020.qcrypt.net) that was held online. The authors of accepted papers are asked to prepare and upload a 20-25 minute video of their talks that will be available on [our YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw) several days before the conference.
 
-<!-- From Monday, 23 August to Friday, 27 August 2021,
+From Monday, 23 August to Friday, 27 August 2021,
 
-- the main program of the conference takes place as zoom webinar,
-- the poster sessions and networking breaks will take place in a virtual Meet & Greet Room (featured by <a href="https://remo.co" target="_blank">https://remo.co</a>),
-- participants can talk to each other on Slack. -->
+- the main program of the conference (including poster sessions and networking breaks) takes place on the meetanway platform. Instructions how to access the platform will be sent by email to all registered participants.
+- participants can talk to each other on Slack.
 
 All partipants of QCrypt 2021 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
 
-<!-- ### Tutorial talks, Invited talks
-The tutorial and invited talks are given live on the zoom webinar, and simultaneously streamed to YouTube. Webinar participants can ask questions via the zoom Q&A functionality. The speaker will answer the most important questions after the talk on zoom. After each session, the speaker is moving over to the Meet & Greet Room and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
+### Tutorial talks, Invited talks
+The tutorial and invited talks are given live on the zoom webinar, and simultaneously streamed to YouTube. Webinar participants can ask questions via Slack. The speaker will answer the most important questions after the talk on zoom. After each session, the speaker is moving over to the “Meet the Speakers” tab in the “Presentation area” of meetanyway and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
 
 ### Contributed talks
-The [list of accepted papers](/accepted-papers) is here. After making a 20-25 minute video of their talks available before the conference, the live "online" part of presenting contributed articles is divided into thematic sessions on the zoom webinar. In each session, 3 to 4 contributed articles will be presented by means of a 5 minute talk each, followed by a panel discussion involving the speakers of the session and moderated by some members of the program committee.
-After each session, the speakers are moving over to the Meet & Greet Room and will be available there to answer more individual questions.
+The [list of accepted papers](/speakers) is here. After making a 20-25 minute video of their talks available before the conference, the live "online" part of presenting contributed articles is divided into thematic sessions. In each session, 3 to 4 contributed articles will be presented by means of a 5 minute talk each, followed by a panel discussion involving the speakers of the session and moderated by some members of the program committee.
+After each session, the speakers are moving over to the “Meet the Speakers” tab in the “Presentation area” of meetanyway and will be available there to answer more individual questions.
 
-### Poster sessions
-The [list of accepted posters](/accepted-papers) with PDFs is now available on this website. The two poster sessions take place in the Meet & Greet Room. More details will be provided later. -->
+
+<!-- ### Poster sessions
+The [list of accepted posters](/speakers) with PDFs is now available on this website. The two poster sessions take place in the Meet & Greet Room. More details will be provided later. -->
 
 <!--
 - One poster/presenter per table
@@ -226,7 +226,7 @@ The protocol for your session chairing is as follows:
         * **If necessary, try to get a bit of a discussion going by asking questions yourself.**
     * Make sure to stay within the allotted time slot.
     * Thank the speaker(s) at the end of the session.
-    * Announce that the speaker(s) will be available for further questions in the "Meet the Speaker" (if this is indeed the case).
+    * Announce that the speaker(s) will be available for further questions in the “Meet the Speakers” tab in the “Presentation area” of meetanyway (if this is indeed the case).
 
 
 ## Follow us on Twitter
