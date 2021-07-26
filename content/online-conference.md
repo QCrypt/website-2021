@@ -141,7 +141,8 @@ For participants having trouble to access our registration form, please send us 
 
 In case you cannot access the recorded contributed talks on YouTube, download and watch them from {{< button-link label="SurfDrive" url="https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W" icon="link" target="_blank" >}} instead.-->
 
-## Instructions for authors of accepted papers
+## Instructions
+### Instructions for authors of accepted papers
 Speakers are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a speaker, you will receive some extra information on top, e.g., you will receive a separate link to access the Zoom webinar as a “panelist”. Generally, it is a good idea to [update](https://zoom.us/download) your local zoom client to the latest version.
 
 1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, 16 August 2021**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
@@ -156,7 +157,7 @@ Authors of accepted papers will also give a short (5-minute) live presentation d
 
 
 
-## Instructions for zoom webinar speakers (tutorial, invited, contributed)
+### Instructions for zoom webinar speakers (tutorial, invited, contributed)
 Note that all Zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw).
 
 When preparing your slides, leave some room on the upper right corner for the image of yourself on the live stream. After your talk, please upload your slides to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W) so we can make them available from our website.
@@ -174,7 +175,7 @@ The protocol for your presentation is as follows:
 Participants may now join you in this lounge for further questions and discussions regarding your presentation.
 
 
-## Instructions for authors of accepted posters
+### Instructions for authors of accepted posters
 Poster presenters are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference.
 
 <!-- Check https://2021.qcrypt.net/accepted-papers/#list-of-accepted-posters, or https://2021.qcrypt.net/sessions/poster1/ and https://2021.qcrypt.net/sessions/poster2/, to see which of the two poster sessions features your poster. -->
@@ -199,7 +200,7 @@ If you encounter problems, drop by the "Help Desk" in the Main Lobby, send a mes
 
 
 
-## Instructions for session chairs
+### Instructions for session chairs
 Session chairs are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a session chair, you will receive some additional information, e.g., you will receive a separate link to access the Zoom webinar as a "panelist". Generally, it is a good idea to [update](https://zoom.us/download) your local zoom client to the latest version.
 
 **Mind the time zones! Make sure that you have the right time for your presentation.
