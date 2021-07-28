@@ -1,6 +1,5 @@
 ---
 title: "Industry Session (Chair: Feihu Xu)"
-format: invited
 speakers:
   - huttner
 videoId: null

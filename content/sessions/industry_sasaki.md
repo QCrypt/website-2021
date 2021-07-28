@@ -1,6 +1,5 @@
 ---
 title: "Industry Session (Chair: Feihu Xu)"
-format: invited
 speakers:
   - sasaki
 videoId: null
