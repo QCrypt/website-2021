@@ -1,5 +1,5 @@
 ---
-title: "Industry Session (Chair: Feihu Xu)"
+title: "Industry Session (Chairs: Marco Lucamarini and Feihu Xu)"
 speakers:
   - ursin
 videoId: null
