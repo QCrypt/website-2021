@@ -23,6 +23,12 @@ Click on a speaker's name to read the title and abstract for their presentation.
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
 
+## Industry Session
+Click on a speaker's name to read their bio.
+
+{{< speakers-industry >}}
+{{< /speakers-industry >}}
+
 ## List of Accepted Contributed Talks
 (in order of submission)
 

@@ -6,6 +6,18 @@
       time: '14:15'
     - session: invited_qi
       time: '00:00'
+    - session: industry_huttner
+      time: '00:00'
+    - session: industry_qi
+      time: '00:00'
+    - session: industry_sasaki
+      time: '00:00'
+    - session: industry_shields
+      time: '00:00'
+    - session: industry_ursin
+      time: '00:00'
+    - session: industry_wille
+      time: '00:00'
     - session: __break
       time: '00:00'
     - session: contributed1a
