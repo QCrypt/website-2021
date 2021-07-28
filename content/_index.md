@@ -38,7 +38,7 @@ menu:
  -->
 
 <!-- INFO -->
-{{% home-info what="Participants:>800,Tutorials:4,Invited Talks:6,Contributed Talks:30" class="primary" %}}
+{{% home-info what="Participants:>800,Tutorials:4,Invited Talks:6,Contributed Talks:29" class="primary" %}}
 
 ## What is QCrypt 2021?
 

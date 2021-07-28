@@ -548,59 +548,6 @@
         "mergedwith": 14
     },
     {
-        "pid": 48,
-        "title": "Dimension Reduction in Quantum Key Distribution for Continuous- and Discrete-Variable Protocols",
-        "abstract": "We develop a method to connect the infinite-dimensional description of optical continuous-variable quantum key distribution (QKD) protocols to a finite-dimensional formulation. The secure key rates of the optical QKD protocols can then be evaluated using recently-developed reliable numerical methods for key rate calculations. We apply this method to obtain asymptotic key rates for discrete-modulated continuous-variable QKD protocols, which are of practical significance due to their experimental simplicity and potential for large-scale deployment in quantum-secured networks. Importantly, our security proof does not require the photon-number cutoff assumption relied upon in previous works. We also demonstrate that our method can provide practical advantages over the flag-state squasher when applied to discrete-variable protocols.",
-        "authors": [
-            {
-                "first": "Twesh",
-                "last": "Upadhyaya",
-                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo"
-            },
-            {
-                "first": "Thomas",
-                "last": "van Himbeeck",
-                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo; Department of Electrical and Computer Engineering, University of Toronto"
-            },
-            {
-                "first": "Jie",
-                "last": "Lin",
-                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo"
-            },
-            {
-                "first": "Norbert",
-                "last": "Lütkenhaus",
-                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo"
-            }
-        ],
-        "submission_type": "Talk or poster",
-        "extended_abstract": {
-            "mimetype": "application\/pdf",
-            "hash": "sha2-89cb2a7e4f223c9caf8112966613c3f9671e718b8b810bc02fb5d44224d1fb7e",
-            "timestamp": 1620702101,
-            "size": 268288,
-            "filename": "ExtendedAbstract.pdf"
-        },
-        "technical_paper": {
-            "mimetype": "application\/pdf",
-            "hash": "sha2-9ded4334c10efac91d279ea0193c7545882489e480ff47087f2aebb3d98c4ead",
-            "timestamp": 1620702101,
-            "size": 602945,
-            "filename": "2101.05799.pdf"
-        },
-        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "Yes",
-        "topics": [
-            "Continuous-variable",
-            "Discrete-variable",
-            "Quantum key distribution and secure communication",
-            "Theory"
-        ],
-        "decision": "Accepted",
-        "status": "rejected",
-        "submitted": true,
-        "submitted_at": 1620702349
-    },
-    {
         "pid": 50,
         "title": "Position-based cryptography: Single-qubit protocol secure against multi-qubit attacks",
         "abstract": "While it is known that unconditionally secure position-based cryptography is impossible both in the classical and the quantum setting, it has been shown that some quantum protocols for position verification are secure against attackers which share a quantum state of bounded dimension. In this work, we consider the security of the qubit routing protocol. The protocol has the advantage that an honest prover only has to manipulate a single qubit and a classical string of length 2n. We show that the protocol is secure if each of the attackers holds at most n\/2 - 3 qubits. With this, we show for the first time that there exists a quantum position verification protocol where the ratio between the quantum resources an honest prover needs and the quantum resources the attackers need to break the protocol is unbounded. The verifiers need only increase the amount of classical resources to force the attackers to use more quantum resources. Finally, we show that the qubit routing protocol is robust with respect to noise, making it appealing for applications.",
