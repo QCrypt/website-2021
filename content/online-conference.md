@@ -180,7 +180,7 @@ Poster presenters are asked to [register](/registration) to the conference in or
 
 <!-- Check https://2021.qcrypt.net/accepted-papers/#list-of-accepted-posters, or https://2021.qcrypt.net/sessions/poster1/ and https://2021.qcrypt.net/sessions/poster2/, to see which of the two poster sessions features your poster. -->
 
-1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 16 August 2021**.
+1. We ask the authors of each accepted poster to prepare their poster and save it to a pdf file by the deadline of **Monday, 16 August 2021**. You can use the regular A1 or A0 format, keep in mind that the poster will be downloaded and viewed locally as PDF by the conference participants.
 
 2. Set the file name of the poster to be ‘QCrypt2021Poster’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2021Poster012Smith.pdf).
 
