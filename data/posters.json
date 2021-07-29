@@ -2619,48 +2619,6 @@
         "submitted_at": 1620748776
     },
     {
-        "pid": 101,
-        "title": "Continuous-variable quantum key distribution with practical state preparation",
-        "abstract": "Establishing the security of continuous-variable quantum key distribution is notoriously a hard problem. Most of the theoretical analyses proposed so far relied on some sort of idealized modeling of quantum state preparation or measurement. For example, it is sometimes assumed that the sender prepares a continuous and unbounded ensemble of coherent states, or that the receiver is able to implement ideal homodyne or heterodyne detection, which have continuous and unbounded outcomes. Obviously, these assumptions cannot be verified in experimental implementations as any physical device has finite range and resolution. Here we address the issue of imperfect state preparation and propose a method to bridge the gap between theoretical security analysis and experimental implementations of continuous-variable quantum key distribution. We establish the asymptotic security against collective attacks with experimental imperfections in state preparation.",
-        "authors": [
-            {
-                "first": "Cosmo",
-                "last": "Lupo",
-                "affiliation": "University of Sheffield"
-            },
-            {
-                "first": "Tobias",
-                "last": "Gehring",
-                "affiliation": "Technical University of Denmark"
-            }
-        ],
-        "submission_type": "Talk or poster",
-        "extended_abstract": {
-            "mimetype": "application\/pdf",
-            "hash": "sha2-7a32c69e742fd49a3baf67a6dcf9131c5e8f595c285b06d4fbaf5cde99dfea69",
-            "timestamp": 1620750068,
-            "size": 272074,
-            "filename": "SP_abstract.pdf"
-        },
-        "technical_paper": {
-            "mimetype": "application\/pdf",
-            "hash": "sha2-5c8d36585095f5b5d5778cd269a89d095fce134a69a4718e4770851f11c605fb",
-            "timestamp": 1620750068,
-            "size": 718705,
-            "filename": "SP_technical.pdf"
-        },
-        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "No",
-        "topics": [
-            "Continuous-variable",
-            "Quantum cryptography with information-theoretic security",
-            "Theory"
-        ],
-        "decision": "Poster",
-        "status": "rejected",
-        "submitted": true,
-        "submitted_at": 1620749033
-    },
-    {
         "pid": 102,
         "title": "The “quantum annoying” property of password-authenticated key exchange protocols",
         "abstract": "During the Crypto Forum Research Group (CFRG)'s standardization of password-authenticated key exchange (PAKE) protocols, a novel property emerged: a PAKE scheme is said to be ``quantum-annoying'' if a quantum computer can compromise the security of the scheme, but only by solving one discrete logarithm for each guess of a password. Considering that early quantum computers will likely take quite long to solve even a single discrete logarithm, a quantum-annoying PAKE, combined with a large password space, could delay the need for a post-quantum replacement by years, or even decades.\r\n\r\nIn this paper, we make the first steps towards formalizing the quantum-annoying property. We consider a classical adversary in an extension of the generic group model in which the adversary has access to an oracle that solves discrete logarithms. While this idealized model does not fully capture the range of operations available to an adversary with a general-purpose quantum computer, this model does allow us to quantify security in terms of the number of discrete logarithms solved. We apply this approach to the CPace protocol, a balanced PAKE advancing through the CFRG standardization process, and show that the CPaceBase variant is secure in the generic group model with a discrete logarithm oracle.",
