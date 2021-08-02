@@ -4008,42 +4008,6 @@
         "submitted_at": 1620819088
     },
     {
-        "pid": 157,
-        "title": "Quantum Indifferentiability of SHA-3",
-        "abstract": "In this paper we prove quantum indifferentiability of the sponge construction instantiated with random (invertible) permutations. With this result we bring the post-quantum security of the standardized SHA-3 hash function to the level matching its security against classical adversaries. To achieve our result, we generalize the compressed-oracle technique of Zhandry (Crypto'19) by defining and proving correctness of a compressed permutation oracle. We believe our technique will find applications in many more cryptographic constructions.",
-        "authors": [
-            {
-                "first": "Jan",
-                "last": "Czajkowski",
-                "affiliation": "Weizmann Institute of Science"
-            }
-        ],
-        "submission_type": "Talk or poster",
-        "extended_abstract": {
-            "mimetype": "application\/pdf",
-            "hash": "sha2-71645bf1d640736dbace82955dd39aa4ae6f7553db7b644765d3ab14bceb3dd4",
-            "timestamp": 1620819609,
-            "size": 348209,
-            "filename": "abstract.pdf"
-        },
-        "technical_paper": {
-            "mimetype": "application\/pdf",
-            "hash": "sha2-d7b88b735ad4d40874fa9acc4d7d4aa7868ec0559f1c8fcab6b6dd952a67251e",
-            "timestamp": 1620819609,
-            "size": 545768,
-            "filename": "perms.pdf"
-        },
-        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "No",
-        "topics": [
-            "Postquantum cryptography",
-            "Theory"
-        ],
-        "decision": "Poster",
-        "status": "rejected",
-        "submitted": true,
-        "submitted_at": 1620819609
-    },
-    {
         "pid": 160,
         "title": "New Protocols and Ideas Towards Practical Quantum Position Verification",
         "abstract": "In this work, we study loss-tolerant quantum position verification (QPV) protocols. We propose a new fully loss-tolerant protocol, based on the SWAP test, with several desirable properties. The task of the protocol,  which can be implemented using only a single beam splitter and two detectors, is to estimate the overlap between two input states. By formulating possible attacks as a semi-definite program (SDP), we prove full loss tolerance against unentangled attackers restricted to local operations and classical communication (LOCC), and additionally show that the attack probability decays exponentially under parallel repetition of rounds. Furthermore, we investigate the role of loss and quantum communication attacks in QPV in general. A protocol that is provably secure against unentangled attackers restricted to LOCC, but can be perfectly attacked by local operations and a single round of simultaneous quantum communication, is constructed. However, we show that any protocol secure against classical communication can be transformed into a protocol secure against quantum communication. Finally, we observe that any QPV protocol can be attacked with a linear amount of entanglement if the loss is high enough.",
@@ -6692,22 +6656,22 @@
             {
                 "first": "Jeevanandha",
                 "last": "Ramanathan",
-                "affiliation": "hysics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
+                "affiliation": "Physics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
             },
             {
                 "first": "Michelle Mei",
                 "last": "Wang",
-                "affiliation": "hysics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
+                "affiliation": "Physics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
             },
             {
                 "first": "Yong Meng",
                 "last": "Sua",
-                "affiliation": "hysics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
+                "affiliation": "Physics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
             },
             {
                 "first": "Yuping",
                 "last": "Huang",
-                "affiliation": "hysics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
+                "affiliation": "Physics Department, Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA"
             }
         ],
         "submission_type": "Poster only",
