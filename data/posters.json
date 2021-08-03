@@ -5372,9 +5372,39 @@
                 "affiliation": "toshiba corporation"
             },
             {
+                "first": "Alexander R.",
+                "last": "Dixon",
+                "affiliation": "toshiba corporation"
+            },
+            {
                 "first": "Yoshimichi",
                 "last": "Tanizawa",
                 "affiliation": "toshiba corporation"
+            },
+            {
+                "first": "Hideaki",
+                "last": "Sato",
+                "affiliation": "toshiba corporation"
+            },
+            {
+                "first": "Muneaki",
+                "last": "Shimada",
+                "affiliation": "Tohoku University"
+            },
+            {
+                "first": "Yasunobu",
+                "last": "Okamura",
+                "affiliation": "Tohoku University"
+            },
+            {
+                "first": "Fuji",
+                "last": "Nagmi",
+                "affiliation": "Tohoku University"
+            },
+            {
+                "first": "Mikio",
+                "last": "Fujiwara",
+                "affiliation": "NICT"
             }
         ],
         "submission_type": "Poster only",
