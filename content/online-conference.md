@@ -19,7 +19,7 @@ The scientific presentations take place as a Zoom Webinar. Use the link in the i
 
 During presentations, participants can use the Q&A functionality to pose questions to the speaker. *For contributed-talk sessions with multiple speakers, make sure you address the question to a particular speaker.* The session chair will then read out (some of) these questions to the speaker. Alternatively, there is the possibility to raise your hand; the session chair may then temporarily unmute you so that you can ask your question.
 
-There is also a chat feature for private and public chatting. <a href="https://zoom.us/download" target="_blank">Updating your local zoom client</a> to the latest version is generally advised.
+There is also a chat feature for private and public chatting. <a href="https://zoom.us/download" target="_blank">Updating your local Zoom client</a> to the latest version is generally advised.
 
 ### The YouTube Channel
 The Zoom Webinar is streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos . You can already find the pre-recorded videos of the contributed talks on the channel.
@@ -101,7 +101,7 @@ From Monday, 23 August to Friday, 27 August 2021,
 All partipants of QCrypt 2021 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
 
 ### Tutorial talks, Invited talks
-The tutorial and invited talks are given live on the zoom webinar, and simultaneously streamed to YouTube. Webinar participants can ask questions via Slack. The speaker will answer the most important questions after the talk on zoom. After each session, the speaker is moving over to the “Meet the Speakers” tab in the “Presentation area” of meetanyway and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
+The tutorial and invited talks are given live on the Zoom webinar, and simultaneously streamed to YouTube. Webinar participants can ask questions via Slack. The speaker will answer the most important questions after the talk on Zoom. After each session, the speaker is moving over to the “Meet the Speakers” tab in the “Presentation area” of meetanyway and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
 
 ### Contributed talks
 The [list of accepted papers](/speakers) is here. After making a 20-25 minute video of their talks available before the conference, the live "online" part of presenting contributed articles is divided into thematic sessions. In each session, 3 to 4 contributed articles will be presented by means of a 5 minute talk each, followed by a panel discussion involving the speakers of the session and moderated by some members of the program committee.
@@ -143,7 +143,7 @@ In case you cannot access the recorded contributed talks on YouTube, download an
 
 ## Instructions
 ### Instructions for authors of accepted papers
-Speakers are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a speaker, you will receive some extra information on top, e.g., you will receive a separate link to access the Zoom webinar as a “panelist”. Generally, it is a good idea to [update](https://zoom.us/download) your local zoom client to the latest version.
+Speakers are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a speaker, you will receive some extra information on top, e.g., you will receive a separate link to access the Zoom webinar as a “panelist”. Generally, it is a good idea to [update](https://zoom.us/download) your local Zoom client to the latest version.
 
 1. We ask the authors of each accepted paper to prepare a 20-25 minute video of their talk by the deadline of **Monday, 16 August 2021**, following <a href="https://iacr.org/videos/guidelines.html" target="_blank">these guidelines</a>.
 
@@ -157,7 +157,7 @@ Authors of accepted papers will also give a short (5-minute) live presentation d
 
 
 
-### Instructions for zoom webinar speakers (tutorial, invited, contributed)
+### Instructions for Zoom webinar speakers (tutorial, invited, contributed)
 Note that all Zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw).
 
 When preparing your slides, leave some room on the upper right corner for the image of yourself on the live stream. After your talk, please upload your slides to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W) so we can make them available from our website.
@@ -201,12 +201,10 @@ If you encounter problems, drop by the "Help Desk" in the Main Lobby, send a mes
 
 
 ### Instructions for session chairs
-Session chairs are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a session chair, you will receive some additional information, e.g., you will receive a separate link to access the Zoom webinar as a "panelist". Generally, it is a good idea to [update](https://zoom.us/download) your local zoom client to the latest version.
+Session chairs are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference. As a session chair, you will receive some additional information, e.g., you will receive a separate link to access the Zoom webinar as a "panelist". Generally, it is a good idea to [update](https://zoom.us/download) your local Zoom client to the latest version.
 
 **Mind the time zones! Make sure that you have the right time for your presentation.
 All times on the schedule are [Amsterdam time (CEST)](https://www.timeanddate.com/worldclock/personal.html?cities=16,33,165,248,224,176,136&wch=3).**
-
-For the conference, we will using Zoom webinars (which have a number of [differences](https://support.zoom.us/hc/en-us/articles/115005474943-Meeting-and-webinar-comparison) compared to regular Zoom meetings). As a security feature, regular attendees cannot turn on video, and can only speak when activated by a (co-)host.
 
 The protocol for your session chairing is as follows:
 * In the evening before the day you chair a session, you receive an invitation as panelist for the Zoom webinar.
@@ -222,7 +220,7 @@ The protocol for your session chairing is as follows:
     * In case of a contributed-talks session, once the first speaker is done, give the word to the second speaker, etc.
     * At the end of the session, organize the Q&A:
         * Read out (relevant) questions from the Slack channel.
-        * Check for raised hands and unmute temporarily to let the person ask (**this requires the chair to be co-host**).
+        * Check for raised hands and unmute temporarily to let the person ask a question. **This requires the chair to be co-host**: as a [security feature](https://support.zoom.us/hc/en-us/articles/115005474943-Meeting-and-webinar-comparison), regular attendees in Zoom webinars cannot turn on video, and can only speak when activated by a (co-)host.
         * Check if some of the panelists have questions.
         * **If necessary, try to get a bit of a discussion going by asking questions yourself.**
     * Make sure to stay within the allotted time slot.
