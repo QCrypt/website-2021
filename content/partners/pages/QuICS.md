@@ -9,4 +9,4 @@ aliases: [/sponsors/quics/]
 
 Description
 
-[Visit their website](https://quics.umd.edu/)
+<a href="https://quics.umd.edu/" target="_blank">Visit their website</a>
