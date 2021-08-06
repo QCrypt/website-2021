@@ -1,11 +1,12 @@
 ---
-title: "Contributed Talks 5b: Post-quantum security (Chairs: Sevag Gharibian and Or Sattath)"
+title: "Contributed Talks 5b: QKD implementation"
 format: contributed
 papers:
-- 41
-- 74
+- 14
+- 47
 - 76
-videoId: "FzxCsWQMZY0"
+- 23
+videoId: null
 presentation: null
 draft: false
 ---

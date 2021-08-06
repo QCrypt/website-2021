@@ -1,12 +1,12 @@
 ---
-title: 'Business Meeting & Best Student Paper Price (Chair: Qiang Zhang)'
+title: 'Business Meeting & Best Student Paper Prize'
 format: other
-videoId: "XCfX24ZA9Sg"
+videoId: null
 presentation: null
 draft: false
 ---
 
-## Program
+<!-- ## Program
 (5 min) Qiang Zhang, SC chair: Summary of SC activitiesfrom Oct 2019 – Aug 2020
 {{< button-link label="SC slides" url="/slides/BusinessQCrypt2020.pptx" icon="link" target="_blank">}}
 
@@ -36,4 +36,4 @@ Congratulations to **Jiayu Zhang** for *Succinct Blind Quantum Computation Using
 Congratulations to **Fabian Beutel** for *Broadband Detector-Integrated On-Chip
 QKD Receiver for GHz Clock Rates* with co-authors Helge Gehring, Martin A. Wolff, Carsten Schuck, Wolfram Pernice
 
-{{< button-link label="award" url="/slides/beststpaper2.pdf" icon="link">}}
+{{< button-link label="award" url="/slides/beststpaper2.pdf" icon="link">}} -->

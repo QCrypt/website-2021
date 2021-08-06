@@ -1,126 +1,116 @@
-- day: '2018-01-01'
+- day: '2021-08-23'
   sessions:
-    - session: __startofday
-      time: '13:00'
     - session: open
-      time: '14:15'
-    - session: invited_qi
-      time: '00:00'
-    - session: industry_huttner
-      time: '00:00'
-    - session: industry_qi
-      time: '00:00'
-    - session: industry_sasaki
-      time: '00:00'
-    - session: industry_shields
-      time: '00:00'
-    - session: industry_ursin
-      time: '00:00'
-    - session: industry_wille
-      time: '00:00'
-    - session: __break
-      time: '00:00'
-    - session: contributed1a
-      time: '15:45'
-    - session: __break
-      time: '16:15'
-    - session: contributed1b
-      time: '16:30'
-    - session: __endofday
-      time: '17:00'
-- day: '2018-01-01'
-  sessions:
-    - session: __startofday
-      time: '10:00'
-    - session: contributed2a
-      time: '11:00'
-    - session: __break
-      time: '11:30'
-    - session: contributed2b
-      time: '11:45'
-    - session: __lunch
-      time: '12:15'
-    - session: tutorial_broadbent
-      time: '00:00'
-    - session: __break
-      time: '00:00'
+      time: '14:30'
     - session: invited_khurana
-      time: '00:00'
-    - session: poster1
-      time: '00:00'
+      time: '14:45'
+    - session: __break
+      time: '15:30'
+    - session: contributed1
+      time: '16:00'
+    - session: __break
+      time: '16:30'
+    - session: tutorial_vazirani
+      time: '16:45'
     - session: __endofday
-      time: '17:15'
-- day: '2018-01-01'
+      time: '18:00'
+
+- day: '2021-08-24'
   sessions:
     - session: __startofday
-      time: '10:00'
+      time: '10:30'
+    - session: invited_groblacher
+      time: '11:00'
+    - session: __lunch
+      time: '11:45'
+    - session: tutorial_lim
+      time: '12:15'
+    - session: __break
+      time: '13:30'
+    - session: contributed2a
+      time: '14:00'
+    - session: __break
+      time: '14:30'
+    - session: contributed2b
+      time: '14:45'
+    - session: __break
+      time: '15:15'
+    - session: poster1
+      time: '15:30'
+    - session: __endofday
+      time: '17:30'
+
+- day: '2021-08-25'
+  sessions:
+    - session: __startofday
+      time: '10:30'
     - session: industrial
       time: '11:00'
     - session: __lunch
       time: '12:30'
-    - session: tutorial_lim
-      time: '00:00'
+    - session: contributed3a
+      time: '13:00'
     - session: __break
-      time: '00:00'
-    - session: invited_pittaluga
-      time: '00:00'
+      time: '13:30'
+    - session: contributed3b
+      time: '13:45'
     - session: __break
-      time: '00:00'
-    - session: contributed3
+      time: '14:15'
+    - session: invited_upadhyaya
+      time: '14:45'
+    - session: __break
       time: '15:30'
-    - session: __break
+    - session: invited_qi
       time: '16:00'
-    - session: invited_groblacher
-      time: '00:00'
     - session: __endofday
-      time: '00:00'
-- day: '2018-01-01'
+      time: '16:45'
+
+- day: '2021-08-26'
   sessions:
     - session: __startofday
-      time: '10:00'
+      time: '10:30'
     - session: poster2
       time: '11:00'
     - session: __lunch
       time: '13:00'
-    - session: invited_upadhyaya
-      time: '00:00'
+    - session: invited_pittaluga
+      time: '13:15'
     - session: __break
-      time: '00:00'
+      time: '14:00'
     - session: business
       time: '14:30'
     - session: __break
+      time: '15:15'
+    - session: tutorial_broadbent
       time: '15:30'
-    - session: tutorial_villoresi
-      time: '00:00'
     - session: __endofday
-      time: '00:00'
-- day: '2018-01-01'
+      time: '16:45'
+
+- day: '2021-08-27'
   sessions:
     - session: __startofday
-      time: '10:00'
-    - session: contributed4a
+      time: '10:30'
+    - session: contributed5a
       time: '11:00'
     - session: __break
       time: '11:30'
-    - session: contributed4b
+    - session: contributed5b
       time: '11:45'
     - session: __lunch
       time: '12:15'
-    - session: tutorial_vazirani
-      time: '00:00'
+    - session: tutorial_villoresi
+      time: '12:45'
     - session: __break
-      time: '00:00'
+      time: '14:00'
     - session: invited_wang
-      time: '00:00'
+      time: '14:30'
     - session: __break
-      time: '00:00'
-    - session: contributed5a
+      time: '15:15'
+    - session: contributed5c
       time: '15:45'
     - session: __break
       time: '16:15'
-    - session: contributed5b
+    - session: contributed5d
       time: '16:30'
     - session: close
       time: '17:00'
-    - session: __endofday
-      time: '17:15'

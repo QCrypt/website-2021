@@ -1,10 +1,11 @@
 ---
-title: "Contributed Talks 2b: Device-independence"
+title: "Contributed Talks 3a: QKD"
 format: contributed
 papers:
-- 141
-- 106
-- 125
+- 91
+- 121
+- 31
+- 120
 videoId: null
 presentation: null
 draft: false

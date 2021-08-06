@@ -1,11 +1,12 @@
 ---
-title: "Contributed Talks 5a: Encryption and coin-flipping (Chairs: Sevag Gharibian and Or Sattath)"
+title: "Contributed Talks 5a: Theory, non-QKD"
 format: contributed
 papers:
-- 16
-- 29
-- 46
-videoId: "A2GRxspzWUg"
+- 44
+- 45
+- 159
+- 50
+videoId: null
 presentation: null
 draft: false
 ---

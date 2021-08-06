@@ -1,10 +1,10 @@
 ---
-title: "Contributed Talks 2b: Device-independence"
+title: "Contributed Talks 1: Post-quantum"
 format: contributed
 papers:
-- 141
-- 106
-- 125
+- 16
+- 60
+- 138
 videoId: null
 presentation: null
 draft: false
