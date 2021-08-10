@@ -4,8 +4,8 @@ format: other
 speakers:
 - fehr
 - schaffner
-videoId: "7nivhvGdKLE"
-presentation: "/slides/OpeningSlides.pdf"
+videoId: null
+presentation: null
 draft: false
 ---
 Welcome everybody!

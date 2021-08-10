@@ -2,7 +2,7 @@
 title: Poster Session 2
 format: other
 tags:
-  - remoco
+  - poster
 videoId: null
 presentation: null
 draft: false
