@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5a: Theory, non-QKD"
+title: "Contributed Talks 5a: Theory in multi-party interactions"
 format: contributed
 papers:
 - 44

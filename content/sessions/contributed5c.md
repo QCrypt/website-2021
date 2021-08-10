@@ -1,9 +1,9 @@
 ---
-title: "Contributed Talks 5c: Quantum networking"
+title: "Contributed Talks 5c: Photonic integration"
 format: contributed
 papers:
 - 154
-- 53
+- 33
 - 35
 videoId: null
 presentation: null

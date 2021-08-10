@@ -79,7 +79,7 @@
             "filename": "Qcrypt_HollowCoreFibre_OAlia FINAL.pdf"
         },
         "options": {
-
+            "presenter-live-session": "Obada Alia"
         },
         "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "Yes",
         "submitted_at": 1620772941,
@@ -121,7 +121,11 @@
         },
         "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "Yes",
         "submitted": true,
-        "submitted_at": 1619331638
+        "submitted_at": 1619331638,
+        "options": {
+            "presenter-live-session": "Yu-Hsuan Huang",
+            "arxiv-id": "2010.11658"
+        }
     },
     {
         "pid": 18,
@@ -218,7 +222,12 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620207573
+        "submitted_at": 1620207573,
+        "options": {
+            "presenter-live-session": "Jasminder Sidhu",
+            "arxiv-id": "2012.07829v2"
+        }
+
     },
     {
         "pid": 31,
@@ -260,7 +269,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620564713
+        "submitted_at": 1620564713,
+        "options": {
+            "presenter-live-session": "Róbert Trényi"
+        }
     },
     {
         "pid": 33,
@@ -337,7 +349,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620658797
+        "submitted_at": 1620658797,
+        "options": {
+            "presenter-live-session": "Likang Zhang"
+        }
     },
     {
         "pid": 35,
@@ -400,7 +415,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620746480
+        "submitted_at": 1620746480,
+        "options": {
+            "presenter-live-session": "Wenjun Wen"
+        }
     },
     {
         "pid": 44,
@@ -447,7 +465,12 @@
         "status": "rejected",
         "submitted": true,
         "submitted_at": 1620659690,
-        "mergedwith":45
+        "mergedwith":45,
+        "options": {
+            "presenter-live-session": "Takashi Yamakawa",
+            "arxiv-id": "2011.02670"
+        }
+
     },
     {
         "pid": 45,
@@ -499,7 +522,12 @@
         "status": "rejected",
         "submitted": true,
         "submitted_at": 1620660178,
-        "mergedwith": 44
+        "mergedwith": 44,
+        "options": {
+            "presenter-live-session": "Takashi Yamakawa",
+            "arxiv-id": "2103.11244"
+        }
+
     },
     {
         "pid": 47,
@@ -545,7 +573,10 @@
         "status": "rejected",
         "submitted": true,
         "submitted_at": 1620660794,
-        "mergedwith": 14
+        "mergedwith": 14,
+        "options": {
+            "presenter-live-session": "Fadri Grünenfelder"
+        }
     },
     {
         "pid": 50,

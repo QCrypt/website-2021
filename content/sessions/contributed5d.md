@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5d: Theory, non-QKD"
+title: "Contributed Talks 5d: Beyond QKD"
 format: contributed
 papers:
 - 80
