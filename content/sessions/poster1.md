@@ -7,9 +7,10 @@ videoId: null
 presentation: null
 draft: false
 ---
-This poster session takes place on Tue, 11 Aug, 15:15 - 17:15 over at our {{< button-link label="virtual Meet & Greet Room" icon="link" url="/online-conference/#the-meet--greet-room" >}}.
+This poster session takes place on Tue, 24 Aug, 15:30 - 17:30 on meetanyway.
 
-{{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2020_posterpresenters_instructions.pdf" target="_blank" >}}
+Click link for
+{{< button-link icon="direction" label="instructions for authors of accepted posters" url="/online-conference/#instructions-for-authors-of-accepted-posters" target="_blank" >}}
 
 ## Posters presented in this session
 {{< posters-accepted session="tue_afternoon" >}}{{< /posters-accepted >}}
