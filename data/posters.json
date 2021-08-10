@@ -12,7 +12,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-db2e07212db09795ae60cdd046d4843589084e99ec3794d77dc41c6e6eb589d2",
             "timestamp": 1618230402,
             "size": 68751,
@@ -75,7 +75,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-dda7f6e84163f06f9d6a2602426e0ba3418b54bd3efec6441735751aa2bf810b",
             "timestamp": 1618477632,
             "size": 272131,
@@ -109,14 +109,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-fe3fe8f277c064f6f2a7c2bfad77e0d3f71f89ffcffa444bc916e0f1303c05dc",
             "timestamp": 1620372595,
             "size": 61087,
             "filename": "QCRYPT2021.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-4a9d6c1263d402e0a2314bdbe0139d4e7b7b04ac0223f1190023147934fd05d9",
             "timestamp": 1619082212,
             "size": 547255,
@@ -169,7 +169,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-cee07feb8ced4184c11afe4f7af18617c2124d7a747308358db6501634ab6e88",
             "timestamp": 1619440876,
             "size": 325713,
@@ -190,7 +190,7 @@
     {
         "pid": 19,
         "title": "Certified Quantum Random Numbers from Untrusted Light",
-        "abstract": "A remarkable aspect of quantum theory is that certain measurement outcomes are entirely unpredictable to all possible observers. Such quantum events can be harnessed to generate numbers whose randomness is asserted based upon the underlying physical processes. We formally introduce, design, and experimentally demonstrate an ultrafast optical quantum random number generator that uses a totally untrusted photonic source. While considering completely general quantum attacks and using dedicated FPGA hardware for post-processing, we certify and generate in real time random numbers at a rate of 8.05 Gb\/s with a composable security parameter of 10^{−10}. Composable security is the most stringent and useful security paradigm because any given protocol remains secure even if arbitrarily combined with other instances of the same, or other, protocols, thereby allowing the generated randomness to be utilized for arbitrary applications in cryptography and beyond. This work achieves the fastest generation of composably secure quantum random numbers ever reported.",
+        "abstract": "A remarkable aspect of quantum theory is that certain measurement outcomes are entirely unpredictable to all possible observers. Such quantum events can be harnessed to generate numbers whose randomness is asserted based upon the underlying physical processes. We formally introduce, design, and experimentally demonstrate an ultrafast optical quantum random number generator that uses a totally untrusted photonic source. While considering completely general quantum attacks and using dedicated FPGA hardware for post-processing, we certify and generate in real time random numbers at a rate of 8.05 Gb/s with a composable security parameter of 10^{−10}. Composable security is the most stringent and useful security paradigm because any given protocol remains secure even if arbitrarily combined with other instances of the same, or other, protocols, thereby allowing the generated randomness to be utilized for arbitrary applications in cryptography and beyond. This work achieves the fastest generation of composably secure quantum random numbers ever reported.",
         "authors": [
             {
                 "first": "David",
@@ -250,14 +250,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-0d17c7fa64a96864d8d6b1871342a3cd287c3c3c9828b0fa047842ab04f584d5",
             "timestamp": 1620759923,
             "size": 435705,
             "filename": "QCRYPT_2021_Walk.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b9d845655b0ce5680f6c16e941efd83f931fe65440cb34636b103d427dd87563",
             "timestamp": 1620759923,
             "size": 1096400,
@@ -318,14 +318,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-657b2849f0e83ad64be928ff154f235c740a352aa83e63c8dc1072986433ab91",
             "timestamp": 1620303415,
             "size": 983711,
             "filename": "Neumann_CW-Model_ext_abst_QCrypt21.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-80776939fda6db9fac8aee686d591149d2610dbeea5310efeb30e9fe5be79368",
             "timestamp": 1620303415,
             "size": 920807,
@@ -356,14 +356,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-fdc398dd2331dd5a633c4d9009594c0c7ac63b17356d87e833107ac8dc09ede9",
             "timestamp": 1620113981,
             "size": 62615,
             "filename": "predicate-binding-qcrypt21.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e15f84ef694b6eb7a5433a79c496bfc91f1ea7195964d2437f087146ad024653",
             "timestamp": 1620371867,
             "size": 501601,
@@ -412,14 +412,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8ca5eb66cf82357cfec27266dc383d0237f910d277c1d60f29b5ef2069a6cc88",
             "timestamp": 1620248923,
             "size": 306053,
             "filename": "QCrypt21_QReceiver.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-41e7225f5494e584eb930548727e59629394da9cea56645042931a66d10bdf36",
             "timestamp": 1620248923,
             "size": 1065591,
@@ -455,14 +455,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-6e89c948b5262bf3d63116204f93b77ff2a78cef872b372437d9ebc0d87c8dc3",
             "timestamp": 1620809724,
             "size": 180596,
             "filename": "Q_message_QPIR_QCrypt.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f67b7db0c76d3e42ba4b95f0c612890b139481e0b0be96b80e97bc0f18b85d8a",
             "timestamp": 1620809724,
             "size": 381350,
@@ -500,14 +500,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5f8f980f4d1b057f3dc9a57820ed36c89418fb9bbee91a4924cc183da1b00814",
             "timestamp": 1620386134,
             "size": 192787,
             "filename": "QCrypt_2021_Submission.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3333b31eb4837332b77fc7f99502e56bb16b79750cb653f1019edded18c6c472",
             "timestamp": 1620386134,
             "size": 481191,
@@ -526,7 +526,7 @@
     {
         "pid": 28,
         "title": "Remote synchronization of multiple ultrafast multi-channel time taggers",
-        "abstract": "Time-Correlated Single Photon Counting (TCSPC) and continuous time tagging of photon arrival\r\ntimes are very powerful tools in many areas of applied physics [1]. In optical quantum science, they are widely used for the characterization of non-classical light emitters and the detection of coincident photon arrival events. In light of the recent quantum technology initiatives, these timing devices play a central role as crucial technological building blocks.\r\nHere, we present a new scalable concept of multi-channel event timers with up to 64 channels, 5 ps digital resolution and accurate long-distance synchronization capabilities using the White Rabbit fiber network protocol [2]. We demonstrate a relative timing precision of about 40 ps to 50 ps r.m.s. over several kilometers distance in network topologies of different complexity and with different fiber lengths, with and without additional network traffic. One set of results measuring across 5 different devices in a simple star-topology using one White Rabbit switch is shown in Fig. 1 as an example. The new event timers have an extremely short dead time of <650 ps, which keeps up with the quick progress of development in the area of superconducting nanowires and other single photon detectors with short recovery times. The event timers feature two data interfaces to the host: a USB interface and a low-latency interface to external FPGAs, on which custom algorithms for real-time data processing can be implemented. In particular, the FPGA interface is presently being employed in a demonstrator of a high speed QKD system as part of the QuPAD project, funded by the German Federal Ministry of Eduaction and research, contract number 13N14953.\r\nThe new design also provides several valuable features such as adjustable timing offsets for each\r\ninput channel at full resolution, four external marker inputs for imaging and other synchronization\r\ntasks, as well as in\/outputs for hardware driven experiment control, as established in various trendsetting instruments developed earlier [3-4].\r\n\r\nReferences\r\n[1] P. Kapusta, M. Wahl, and R. Erdmann (eds.), Advanced Photon Counting - Applications, Methods,\r\nInstrumentation, (Springer International Publishing, 2015)\r\n[2] J. Serrano, P. Alvarez, M. Cattin, E. G. Cota, P. M. J. H. Lewis, T. Włostowski et al., \"The White Rabbit\r\nProject\", Proc. ICALEPCS TUC004, Kobe, Japan (2009).\r\n[3] M. Wahl, T. Roehlicke, S. Kulisch, S. Rohilla, B. Kraemer and A.C. Hocke, \"Photon arrival time tagging\r\nwith many channels, sub-nanosecond deadtime, very high throughput, and fiber optic remote synchronization\",\r\nRev. Sci. Instrum. 91, 013108 (2020).\r\n[4] M. Wahl, H.-J. Rahn, T. Roehlicke, R. Erdmann, G. Kell, A. Ahlrichs, M. Kernbach, A.W. Schell, and O.\r\nBenson, \"Integrated multichannel photon timing instrument with very short dead time and high throughput \",\r\nRev. Sci. Instrum. 84, 043102 (2013).",
+        "abstract": "Time-Correlated Single Photon Counting (TCSPC) and continuous time tagging of photon arrival\r\ntimes are very powerful tools in many areas of applied physics [1]. In optical quantum science, they are widely used for the characterization of non-classical light emitters and the detection of coincident photon arrival events. In light of the recent quantum technology initiatives, these timing devices play a central role as crucial technological building blocks.\r\nHere, we present a new scalable concept of multi-channel event timers with up to 64 channels, 5 ps digital resolution and accurate long-distance synchronization capabilities using the White Rabbit fiber network protocol [2]. We demonstrate a relative timing precision of about 40 ps to 50 ps r.m.s. over several kilometers distance in network topologies of different complexity and with different fiber lengths, with and without additional network traffic. One set of results measuring across 5 different devices in a simple star-topology using one White Rabbit switch is shown in Fig. 1 as an example. The new event timers have an extremely short dead time of <650 ps, which keeps up with the quick progress of development in the area of superconducting nanowires and other single photon detectors with short recovery times. The event timers feature two data interfaces to the host: a USB interface and a low-latency interface to external FPGAs, on which custom algorithms for real-time data processing can be implemented. In particular, the FPGA interface is presently being employed in a demonstrator of a high speed QKD system as part of the QuPAD project, funded by the German Federal Ministry of Eduaction and research, contract number 13N14953.\r\nThe new design also provides several valuable features such as adjustable timing offsets for each\r\ninput channel at full resolution, four external marker inputs for imaging and other synchronization\r\ntasks, as well as in/outputs for hardware driven experiment control, as established in various trendsetting instruments developed earlier [3-4].\r\n\r\nReferences\r\n[1] P. Kapusta, M. Wahl, and R. Erdmann (eds.), Advanced Photon Counting - Applications, Methods,\r\nInstrumentation, (Springer International Publishing, 2015)\r\n[2] J. Serrano, P. Alvarez, M. Cattin, E. G. Cota, P. M. J. H. Lewis, T. Włostowski et al., \"The White Rabbit\r\nProject\", Proc. ICALEPCS TUC004, Kobe, Japan (2009).\r\n[3] M. Wahl, T. Roehlicke, S. Kulisch, S. Rohilla, B. Kraemer and A.C. Hocke, \"Photon arrival time tagging\r\nwith many channels, sub-nanosecond deadtime, very high throughput, and fiber optic remote synchronization\",\r\nRev. Sci. Instrum. 91, 013108 (2020).\r\n[4] M. Wahl, H.-J. Rahn, T. Roehlicke, R. Erdmann, G. Kell, A. Ahlrichs, M. Kernbach, A.W. Schell, and O.\r\nBenson, \"Integrated multichannel photon timing instrument with very short dead time and high throughput \",\r\nRev. Sci. Instrum. 84, 043102 (2013).",
         "authors": [
             {
                 "first": "Torsten",
@@ -556,7 +556,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1bdc3bc186230ad66d1ca07d321d776feac261052cce77c30b1604d944083ba6",
             "timestamp": 1620387016,
             "size": 114709,
@@ -589,14 +589,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-402705052723a1c3ca280e47bbb6a721cb18c4b5522ff9d1f5ae2d39d0c9298d",
             "timestamp": 1620442628,
             "size": 275554,
             "filename": "Improving the performance of RFI-QKD through turbulent atmosphere.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-0b6e3b46e90d398c4241ffe4ed653503e695c65ec7ae5284f1daa403520ca95d",
             "timestamp": 1620442628,
             "size": 602179,
@@ -640,14 +640,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3f29e84cdfc803fb3fcf1c5135d2dd76310b3cc4a464026ba9feb405e890090c",
             "timestamp": 1620573635,
             "size": 279573,
             "filename": "Qcrypt_Abstract_2021 (1).pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-180b0a10c2319d0ad6c9be1cc9711295b6e007f095d3ecbbc0c7de2cb17e43d8",
             "timestamp": 1620573635,
             "size": 1247253,
@@ -713,7 +713,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e1df660708d3d373061612909407ee2fce21e7293f946b0e935d30769742045b",
             "timestamp": 1620638599,
             "size": 538338,
@@ -801,7 +801,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f125cc6d1bcfe8bb45ab7f162fb36208d44b0492690a368789e9862cbe5c3239",
             "timestamp": 1620719170,
             "size": 517931,
@@ -859,7 +859,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-87ab624d962111835f1f9a852407004dac25ab4bc3f0fd418711ac3bae827abc",
             "timestamp": 1620637145,
             "size": 268386,
@@ -907,14 +907,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-04e0ce522d4be4cbae3016f48af31bfc7f14631a913deaa39c1995a689e8346a",
             "timestamp": 1620654647,
             "size": 221711,
             "filename": "abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-82eecf4328e6c7bcc29b83aea171ee689203c8e40b78d399f07d342208e67ccb",
             "timestamp": 1620654647,
             "size": 3659010,
@@ -949,14 +949,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3151401451caae19e96fe51106a2c01dafb8854c4bc959c5e77eed8e4d58a4cf",
             "timestamp": 1620743247,
             "size": 283151,
             "filename": "extended-abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-00500a29b9be6bf446695ea7f54a6787293337dff4a562b9d84f549a78ef66f1",
             "timestamp": 1620743247,
             "size": 658225,
@@ -1006,14 +1006,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-9578f45382cb4ec83095b8d72c5ac1e08c994fe1b45695a508478acac2288cdf",
             "timestamp": 1620660474,
             "size": 311995,
             "filename": "QEnclave_QCrypt_submission_abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-98980426bb8996e9e3ccb3f18735ee9a8ebec02d6de5805b9d0d2c8833956c09",
             "timestamp": 1620659279,
             "size": 650117,
@@ -1051,14 +1051,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-42df3861d6c006e4c4649b6f43a140824324beca2d2db02dc19878b95b831ba1",
             "timestamp": 1620665289,
             "size": 349835,
             "filename": "QCrypt_2021.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e3c328bb37a35cbfb5faf1e7811aa1b0f1286b2a96ccac7eed06bc570a5a0f3a",
             "timestamp": 1620665289,
             "size": 586148,
@@ -1109,7 +1109,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-fdcf3147532a5afeb945f35b4bc283ccf57e4c7b8fa6d7aef427c6acc449c221",
             "timestamp": 1620680107,
             "size": 213834,
@@ -1156,14 +1156,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-65d66afd2f949cc2585314597ee047a53d0842cbac7871ab5dedad63f883c157",
             "timestamp": 1620747897,
             "size": 261229,
             "filename": "ImpOTQCryptAbs.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-90b3dde29e58e8b01c1d182409a17da55913f8e3a408a98a9e5fb6cff3742c71",
             "timestamp": 1620747897,
             "size": 363392,
@@ -1209,14 +1209,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ce969c83164dea892fd890c8ee7bf7bcb57994eed3c7be0f2f673e0b31bf24dd",
             "timestamp": 1620683792,
             "size": 725632,
             "filename": "QCrypt_Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-4ebe8e2e538f4bed0772f9926312551effccf6bfbd71f0832d40ce0d45254180",
             "timestamp": 1620720326,
             "size": 2600764,
@@ -1254,7 +1254,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8671117e6321d0c89e74bc5fa9a300a7344755a20608b5ddab59fd23c1b5adab",
             "timestamp": 1620693840,
             "size": 232014,
@@ -1304,7 +1304,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-cfa67440929e3089ec118c11ba4ff117d26728c3a4c37be1f85943bb2f440e5c",
             "timestamp": 1620782985,
             "size": 1195140,
@@ -1371,7 +1371,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ab36459c4d34608b9f583ed80048a0b8965acc8fa7c772903ffa1a773c35ed64",
             "timestamp": 1620718079,
             "size": 1315573,
@@ -1424,7 +1424,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d1215feff6ea14a4e16d597913b37188263021e3092b3d1dd516e1f63dc5ddd0",
             "timestamp": 1620718463,
             "size": 796908,
@@ -1467,7 +1467,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-4d35fd6ba3fb9d884264b6bcb1dd7e49c9688272d04f5e2f450a252aaf609c8a",
             "timestamp": 1620803983,
             "size": 283682,
@@ -1497,7 +1497,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-85306df4e4c42592916a54e21f5b876c0e3bd450cc0df823d25076f54728f600",
             "timestamp": 1620801876,
             "size": 35513,
@@ -1563,7 +1563,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3745cef95a6a2821f627bdd34688f7475d5a49202f7351a9fcccf6a3bbd9ba31",
             "timestamp": 1620720358,
             "size": 494286,
@@ -1583,7 +1583,7 @@
     {
         "pid": 69,
         "title": "Tamper Detection against Unitary Operators",
-        "abstract": "We consider (Enc, Dec) schemes which are used to encode a classical\/quantum message m and derive an n-qubit quantum codeword ψ_m. The quantum codeword ψ_m can adversarially tamper via a unitary U∈F_u from some known tampering unitary family F_u, resulting in Uψ_mU†.\r\nFirstly, we initiate the general study of quantum tamper detection codes, which must detect that tampering occurred with high probability. In case there was no tampering, we would like to output the message m with a probability of 1. We show that quantum tamper detection codes exist for both classical messages and quantum messages for any family F_u of unitary operators, such that |F_u|<2^{2^{αn}} for some known constant α∈(0,1) and all the unitary operators satisfy one additional condition :\r\n\r\n  Far from Identity : For each U∈F_u, we require that its\r\nmodulus of trace value isn't too much i.e. $ |Trace(U)| \\leq \\phi N$, where\r\nN=2^n.\r\n\r\nQuantum tamper-detection codes are quantum generalizations of classical tamper detection codes studied by Jafargholi et al. \r\nAdditionally for classical message m, if we must either output message m or detect that tampering occurred and output ⊥ with high probability, we show that it is possible without the restriction of Far from Identity condition for any family of unitary operators F_u, such that |F_u|<2^{2^αn}. We also provide efficient (Enc, Dec) schemes when the family of tampering unitary operators are from Pauli group Pn, which can be thought of as a quantum version of the algebraic manipulation detection (AMD) codes of Cramer et al.",
+        "abstract": "We consider (Enc, Dec) schemes which are used to encode a classical/quantum message m and derive an n-qubit quantum codeword ψ_m. The quantum codeword ψ_m can adversarially tamper via a unitary U∈F_u from some known tampering unitary family F_u, resulting in Uψ_mU†.\r\nFirstly, we initiate the general study of quantum tamper detection codes, which must detect that tampering occurred with high probability. In case there was no tampering, we would like to output the message m with a probability of 1. We show that quantum tamper detection codes exist for both classical messages and quantum messages for any family F_u of unitary operators, such that |F_u|<2^{2^{αn}} for some known constant α∈(0,1) and all the unitary operators satisfy one additional condition :\r\n\r\n  Far from Identity : For each U∈F_u, we require that its\r\nmodulus of trace value isn't too much i.e. $ |Trace(U)| \\leq \\phi N$, where\r\nN=2^n.\r\n\r\nQuantum tamper-detection codes are quantum generalizations of classical tamper detection codes studied by Jafargholi et al. \r\nAdditionally for classical message m, if we must either output message m or detect that tampering occurred and output ⊥ with high probability, we show that it is possible without the restriction of Far from Identity condition for any family of unitary operators F_u, such that |F_u|<2^{2^αn}. We also provide efficient (Enc, Dec) schemes when the family of tampering unitary operators are from Pauli group Pn, which can be thought of as a quantum version of the algebraic manipulation detection (AMD) codes of Cramer et al.",
         "authors": [
             {
                 "first": "Upendra",
@@ -1598,7 +1598,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-2e6e44bb2a738625179428ec1d4500132dd4ad6b28f9dab882dd3188004db388",
             "timestamp": 1620750101,
             "size": 250528,
@@ -1643,14 +1643,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-bc1214dfacc425d79d08b238d27f45deb09f018d3a84f52416d9414f30b959d4",
             "timestamp": 1620755373,
             "size": 266979,
             "filename": "qcrypt_abs.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-96223972237e3d70de2d81079720762b5f0e34825e12ca6dc50dccdbda20ce92",
             "timestamp": 1620755373,
             "size": 506623,
@@ -1705,14 +1705,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f3fa69567e85865cedf6039e5ebe8f18ae7c7c875f815b3b95d795aa0720c9dc",
             "timestamp": 1620816582,
             "size": 299552,
             "filename": "Abstract_Fast_and_Simple_One_Way_High_Dimensional_Quantum_Key_Distribution.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a15a2d3b9513c7b069f391f9831afa13bd11801b30d4bdddb3575a4418cc56b8",
             "timestamp": 1620800683,
             "size": 471117,
@@ -1778,14 +1778,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-777ef17dd7b419d1d49bdb4d12570131f03a86278826857311f6f5a9048aebee",
             "timestamp": 1620727242,
             "size": 515026,
             "filename": "qcrypt_mdi_v3.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-71fd721e30add51f3f4742bccbe1175b7c16f72d2706e82ec1ed35f7d34d1c61",
             "timestamp": 1620727242,
             "size": 1250228,
@@ -1826,14 +1826,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e99b1500f01aeb35ba23e004625c95a463fde24a3dafc6aa2a7116b441644fef",
             "timestamp": 1620738991,
             "size": 338324,
             "filename": "Extended Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b669d058224f4ed6fbaefeb5cae288e172fa42c7aa49dc6f7b5b7693dcde7ecf",
             "timestamp": 1620738991,
             "size": 816031,
@@ -1883,14 +1883,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-93b1b3adf8e0cc1ae810f16688dbc656eea6c7cdf78101cd468815af24be068c",
             "timestamp": 1620752070,
             "size": 1351510,
             "filename": "Hacking a Quantum Random Number Generator-P R Smith.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ea57e13a2adc170763cc37c3615234eb7cbc97f84d8f9f62a0139d732c716645",
             "timestamp": 1620731987,
             "size": 3905146,
@@ -1911,7 +1911,7 @@
     {
         "pid": 79,
         "title": "Practical Parallel Self-testing of Bell States via Magic Rectangles",
-        "abstract": "Self-testing is a method to verify that one has a particular quantum state from purely classical statistics. For practical applications, such as device-independent delegated verifiable quantum computation, it is crucial that one self-tests multiple Bell states in parallel while keeping the quantum capabilities required of one side to a minimum. In this work, we use the $3 \\times n$ magic rectangle games (generalisations of the magic square game) to obtain a self-test for $n$ Bell states where the one side needs only to measure single-qubit Pauli observables. The protocol requires small input sizes (constant for Alice and $O(\\log n)$ bits for Bob) and is robust with robustness $O(n^{5\/2} \\sqrt{\\varepsilon})$, where $\\varepsilon$ is the closeness of the observed correlations to the ideal. To achieve the desired self-test we introduce a one-side-local quantum strategy for the magic square game that wins with certainty, generalise this strategy to the family of $3 \\times n$ magic rectangle games, and supplement these nonlocal games with extra check rounds (of single and pairs of observables).",
+        "abstract": "Self-testing is a method to verify that one has a particular quantum state from purely classical statistics. For practical applications, such as device-independent delegated verifiable quantum computation, it is crucial that one self-tests multiple Bell states in parallel while keeping the quantum capabilities required of one side to a minimum. In this work, we use the $3 \\times n$ magic rectangle games (generalisations of the magic square game) to obtain a self-test for $n$ Bell states where the one side needs only to measure single-qubit Pauli observables. The protocol requires small input sizes (constant for Alice and $O(\\log n)$ bits for Bob) and is robust with robustness $O(n^{5/2} \\sqrt{\\varepsilon})$, where $\\varepsilon$ is the closeness of the observed correlations to the ideal. To achieve the desired self-test we introduce a one-side-local quantum strategy for the magic square game that wins with certainty, generalise this strategy to the family of $3 \\times n$ magic rectangle games, and supplement these nonlocal games with extra check rounds (of single and pairs of observables).",
         "authors": [
             {
                 "first": "Sean A.",
@@ -1926,7 +1926,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-9a577be8e6f61ec0a98b8474f63ce5483d5b6e593062fc0554956759d6ca6e1a",
             "timestamp": 1620735632,
             "size": 191404,
@@ -1966,7 +1966,7 @@
             {
                 "first": "GRZEGORZ RACHEL",
                 "last": "MIELDZIOC",
-                "affiliation": "Center for Theoretical Physics, Polish Academy of Sciences, Al. Lotnikow 32\/46, 02-668 Warszawa, Poland"
+                "affiliation": "Center for Theoretical Physics, Polish Academy of Sciences, Al. Lotnikow 32/46, 02-668 Warszawa, Poland"
             },
             {
                 "first": "ARUL",
@@ -1976,12 +1976,12 @@
             {
                 "first": "KAROL",
                 "last": "ZYCZKOWSKI",
-                "affiliation": "Center for Theoretical Physics, Polish Academy of Sciences, Al. Lotnikow 32\/46, 02-668 Warszawa, Poland"
+                "affiliation": "Center for Theoretical Physics, Polish Academy of Sciences, Al. Lotnikow 32/46, 02-668 Warszawa, Poland"
             }
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1c483128b7a95da96f9ee54bfa11237e7f18df7fbf067e318cc9d2ca85e82759",
             "timestamp": 1620752753,
             "size": 106434,
@@ -2020,14 +2020,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-51f161b087bfc82a62d44d04a7aa75839a16be4146aafc7f6564a375f6a6b220",
             "timestamp": 1620733864,
             "size": 189719,
             "filename": "Extended Abstract for QCrypt 2021.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-122190aaa2913f3028b4ccfad42a2627bd9383f945bcb693022679c246959b42",
             "timestamp": 1620733864,
             "size": 486779,
@@ -2062,7 +2062,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3112ffa81c3b56f044cb75cc4d9de67557be68a5d47cb53e7950a6aff8543060",
             "timestamp": 1620734529,
             "size": 132264,
@@ -2111,14 +2111,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8275b990ce4c3dca5468639e77c838792f8683a38512ac42846da6f704c2e5c7",
             "timestamp": 1620741232,
             "size": 253648,
             "filename": "submission-qcrypt2021-extended_abstract-v1.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f3481f26183955af555e31eb40517a579b254417a06e62e3e80e798ca367dfa7",
             "timestamp": 1620781758,
             "size": 572344,
@@ -2202,14 +2202,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d4d60a891af3d87e7a822b5f34e994bbacfa2aabc87e22bdaaac255411163a06",
             "timestamp": 1620743496,
             "size": 558512,
             "filename": "AbstractQCRYPT.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-49bd18e8d14038a64859a3d1061eabf2d63a26f686881f38f406a6c82e356d83",
             "timestamp": 1620743496,
             "size": 970541,
@@ -2229,7 +2229,7 @@
     {
         "pid": 94,
         "title": "A non-interactive XOR quantum oblivious transfer protocol",
-        "abstract": "Oblivious transfer (OT) is an important cryptographic primitive for transmitting information between two non-trusting parties and can be used as basic building block to implement any two-party computation. One variant of OT is XOR oblivious transfer (XOT), where the sender Alice has two bits and sends them to the receiver Bob. Bob will obtain either the first bit, the second bit, or their XOR. In an honest run of the protocol, Bob should not learn anything more than this, and Alice should not be able to tell what Bob has learned. Unfortunately, perfect quantum OT is impossible with information-theoretic security, so we focus on obtaining the smallest possible cheating probabilities for dishonest parties, when there are no restrictions imposed on them. We present a non-interactive quantum XOT protocol with classical post-processing, where the cheating probabilities are 1\/2 for Alice and 3\/4 for Bob. Reversing this protocol, so that Bob becomes the sender of a quantum state and Alice the receiver who measures it, while still implementing oblivious transfer from Alice to Bob, we show that the cheating probabilities for both parties stay the same as for the unreversed protocol. The reversed protocol is even easier to implement. The quantum XOT protocol outperforms classical XOT protocols. Lastly, we are in the process of implementing both the unreversed and the reversed protocol experimentally.",
+        "abstract": "Oblivious transfer (OT) is an important cryptographic primitive for transmitting information between two non-trusting parties and can be used as basic building block to implement any two-party computation. One variant of OT is XOR oblivious transfer (XOT), where the sender Alice has two bits and sends them to the receiver Bob. Bob will obtain either the first bit, the second bit, or their XOR. In an honest run of the protocol, Bob should not learn anything more than this, and Alice should not be able to tell what Bob has learned. Unfortunately, perfect quantum OT is impossible with information-theoretic security, so we focus on obtaining the smallest possible cheating probabilities for dishonest parties, when there are no restrictions imposed on them. We present a non-interactive quantum XOT protocol with classical post-processing, where the cheating probabilities are 1/2 for Alice and 3/4 for Bob. Reversing this protocol, so that Bob becomes the sender of a quantum state and Alice the receiver who measures it, while still implementing oblivious transfer from Alice to Bob, we show that the cheating probabilities for both parties stay the same as for the unreversed protocol. The reversed protocol is even easier to implement. The quantum XOT protocol outperforms classical XOT protocols. Lastly, we are in the process of implementing both the unreversed and the reversed protocol experimentally.",
         "authors": [
             {
                 "first": "Lara",
@@ -2269,14 +2269,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a7a41690191a6c57983f4f5561e9add4a81515160b5f995995560260ec0db18e",
             "timestamp": 1620744112,
             "size": 152561,
             "filename": "ExtAbstract_QCrypt2021_XOT.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-44e2f4e321385925f29a2c03213bb5a028e9bd8fe1106864f4a446d18af1c823",
             "timestamp": 1620744112,
             "size": 427816,
@@ -2318,14 +2318,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-2f6cad5e988c9f9ca58fa2b699256e817fcbd39e3a3bd3d00456059d17860260",
             "timestamp": 1620746145,
             "size": 348693,
             "filename": "Qcrypt_conference_abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-6a44123f082aa2517d3cc4055c669f10df5758a101e705175a415e6fb3eada6f",
             "timestamp": 1620746292,
             "size": 1002138,
@@ -2345,7 +2345,7 @@
     {
         "pid": 96,
         "title": "Coherent phase fluctuations suppression for real-world twin-field quantum key distribution",
-        "abstract": "Quantum key distribution (QKD) ensures the sharing of secret cryptographic keys between distant entities (typically called Alice and Bob), whose intrinsic security is guaranteed by the laws of nature [1–3]. Besides pioneering experiments involving satellite transmission [4], the challenge is the integration of this technology in telecommunication fiber networks, in particular in long haul segments [5–11].  The longest achievable communication distance is limited by the channel loss which increases exponentially with the fiber length and noise in the deployed single photon detector.  The secure QKD key rate decreases exponentially with the channel fiber length. \r\n\r\nAlthough the communication distance could be extended using quantum repeaters, the related research is still at a proof-of-principle level [12]. Presently the widely adopted solution is the exploitation of trusted nodes, whose security represents however a significant technical issue.\r\n\r\nAn innovative approach that overcomes, at least partially, the need for trusted node is represented by the recently proposed QKD protocol dubbed twin-field QKD (TF-QKD) [13]. In TF-QKD, the information is encoded on dim laser pulses generated at distant Alice and Bob terminals and sent through optical fiber over half of the entire communication distance to the central node, Charlie, where they interfere. For this reason, the TF-QKD has weaker dependence on channel losses, essentially doubling the communication distance with respect to the conventional prepare-and-measure QKD solution.\r\n\r\nTF-QKDhas been proved secure against general attacks (see e.g. [14–18]), but its implementation is challenging as  the optical pulses sent by Alice and Bob are required to be phase-coherent  and preserve coherence when reaching Charlie after travelling the long fiber paths. While phase coherence  can be achieved by phase-locking the two QKD lasers in Alice and Bob to a common reference laser transmitted through a service channel, uncorrelated phase changes due to the length and refractive index fluctuations in the long optical fibers still remain and will reduce the visibility of the interference measurement. In the TF-QKD proof-of-principle experiments [19–26], this effect was mitigated by interleaving the QKD frames with classical transmission frames that were used to periodically realign the phases of interfering pulses. \r\n\r\nHere we present an alternative solution derived from the metrological research community, more precisely from atomic clocks comparison technology. Specifically, transmission of coherent laser radiation over thousand-kilometer-long fibers is exploited for the comparison of distant atomic clocks at the highest accuracy [27–32]. In this case phase fluctuations in long fiber also need to be addressed, othewise they would substantially degrade the comparison results. Precise comparison among these atomic clocks are made possible by the use of ultra-stable lasers and the active cancellation of the noise introduced by connecting fibers. Here we demonstrate that this technique can be successfully adapted into a TF-QKD setup.\r\n\r\nMore specifically, we designed and developed an apparatus suitable for actively cancelling phase fluctuations of both the lasers and of the connecting fibers in a TF-QKD setup. This is achieved by transmitting an additional sensing laser light at a slightly different wavelength in the same fiber as the QKD dim pulses. In Charlie, this sensing laser is used for the fiber optical length stabilisation. We show that this multiplexed solution can be properly tuned in order to avoid a sizeable impact on the number of background photons observed by the single-photon detectors in the QKD channels, allowing simultaneous key streaming and channels stabilization, ensuring longer duty-cycles of the QKD process and a tighter control of the optical phase on long-haul deployed fibers. Furthermore, we tested our solution in a real-world network where the net losses between Alice and Bob are as high as 65 dB, resulting here in a distance of 206 km, or equivalent at 325 km on a fiber haul at common nominal losses of 0.2 dB\/km [33].\r\n\r\nReferences\r\n\r\n[1] Bennett, C. H. & Brassard, G. Quantum cryptography: public key distribution and coin tossing. Theor. Comput. Sci. 560, 7–11 (2014).\r\n[2] Scarani, V. et al. The security of practical quantum key distribution. Rev. Mod. Phys. 81, 1301 (2009).\r\n[3] Kwong Lo, H., Curty, M. & Tamaki, K. Secure quantum key distribution. Nature Photonics 8, 595-604 (2014).\r\n[4] Liao, S-K., Cai, W-Q., Pan, J-W. Satellite-to-ground quantum key distribution, Nature 549, 43-47 (2017)\r\n[5] Peev, M. et al. The SECOQC quantum key distribution network in Vienna, New J. Phys. 11, 075001 (2009).\r\n[6] Sasaki, M. et al. Field test of quantum key distribution in the Tokyo QKD Network. Opt. Expr. 19, 10387 (2011).\r\n[7] Dynes, J. F. et al. Cambridge quantum network. npj Quantum Inf. 5, 101 (2019).\r\n[8] Shimizu K., et al. Performance of long-distance quantum key distribution over 90-km optical links installed in a field environment of Tokyo metropolitan area. J. Lightwave Technol. 32,, 141-51 (2014).\r\n[9] Bacco, D. et al. Field trial of a three-state quantum key distribution scheme in the Florence metropolitan area. EPJ Quantum Technol.6, 5 (2019).\r\n[10] Choi, I. et al. Field trial of a quantum secured 10 Gb\/s DWDM transmission system over a single installed fiber. Opt. Expr 22, 23121-23128 (2014).\r\n[11] Dixon, A. R. et al. Quantum key distribution with hacking countermeasures and long term field trial, Sci. Rep. 7, 7583 (2017).\r\n[12] Xu, F., Ma, X., Zhang, Q., Lo, H-K. & Pan, J-W. Secure quantum key distribution with realistic devices. Rev. Mod. Phys. 92, 025002 (2020)\r\n[13] Lucamarini, M., Yuan, Z. L., Dynes, J. F., Shields, A. J. Overcoming the rate-distance limit of quantum key distribution without quantum repeaters. Nature 557, 400-403 (2018).\r\n[14] Ma, X. Zeng, P., & Zhou, H. Phase-Matching Quantum Key Distribution. Phys. Rev. X 8, 031043 (2018).\r\n[15] Wang, X-B., Yu, Z-W. & Hu, X-L. Twin-field quantum key distribution with large misalignment error. Phys. Rev. A 98, 062323 (2018).\r\n[16] Lin J. & Lutkenhaus, N. Simple security analysis of phase-matching measurement-device-independent quantum key distribution. Phys. Rev. A 98, 042332 (2018);\r\n[17] Curty, M., Azuma, K. & Lo, H.-K. Simple security proof of twin-field type quantum key distribution protocol. npj Quantum Inf. 5, 64 (2019)\r\n[18] Yin, H-L. & Chen, Z-B. Finite-key analysis for twin-field quantum key distribution with composable security, Sci Rep. 9, 17113 (2019).\r\n[19] Wang, S. et al. Beating the Fundamental Rate-Distance Limit in a Proof-of-Principle Quantum Key Distribution System. Phys. Rev. X 9, 021046 (2019)\r\n[20] Minder, M. et al. Experimental quantum key distribution beyond the repeaterless secret key capacity. Nature Photon. 13, 334-338 (2019)\r\n[21] X. Zhong, Hu, J., Curty, M., Qian, L. & Lo, H-K. Proof-of-Principle Experimental Demonstration of Twin-Field Type Quantum Key Distribution. Phys. Rev. Lett. 123, 100506 (2019)\r\n[22] Chen, J-P. et al. Sending-or-Not-Sending with Independent Lasers: Secure Twin-Field Quantum Key Distribution over 509 km. Phys. Rev. Lett. 124, 070501 (2020).\r\n[23] Fang, X-T., et al. Implementation of quantum key distribution surpassing the linear rate transmittance bound. Nature Photon 14, 422-425 (2020).\r\n[24] Pittaluga M, et al., 600 km repeater-like quantum communications with dual-band stabilisation, arXiv:2012.15099 (2020)\r\n[25] Hui Liu et al., Field Test of Twin-Field Quantum Key Distribution through Sending-or-Not-Sending over 428 km, arXiv:2101.00276  (2021)\r\n[26] Jiu-Peng Chen et al., Twin-Field Quantum Key Distribution over 511 km Optical Fiber Linking two Distant Metropolitans, arXiv:2102.00433 (2021)\r\n[27] Clivati, C. et al. Optical frequency transfer over submarine fiber links. Optica 5, 893 (2018).\r\n[28] Clivati, C. et al. Common-clock very long baseline interferometry using a coherent optical fiber link. Optica 7, 1031-1037 (2020)\r\n[29] Grotti, J. et al. Geodesy and metrology with a transportable optical clock. Nature Physics 14, 437-441 (2018).\r\n[30] Lisdat, C. et al. A clock network for geodesy and fundamental science. Nat.Comm. 7, 12443 (2016).\r\n[31] Delva, P. et al. Test of Special Relativity Using a Fiber Network of Optical Clocks, Phys. Rev. Lett. 118, 221102 (2017).\r\n[32] Guena, J. First international comparison of fountain primary frequency standards via a long distance optical fiber link. Metrologia 54, 348 (2017).\r\n[33] Clivati, C. et al. Coherent phase transfer for real-world twin-field quantum key distribution, arXiv:2012.15199 (2021)",
+        "abstract": "Quantum key distribution (QKD) ensures the sharing of secret cryptographic keys between distant entities (typically called Alice and Bob), whose intrinsic security is guaranteed by the laws of nature [1–3]. Besides pioneering experiments involving satellite transmission [4], the challenge is the integration of this technology in telecommunication fiber networks, in particular in long haul segments [5–11].  The longest achievable communication distance is limited by the channel loss which increases exponentially with the fiber length and noise in the deployed single photon detector.  The secure QKD key rate decreases exponentially with the channel fiber length. \r\n\r\nAlthough the communication distance could be extended using quantum repeaters, the related research is still at a proof-of-principle level [12]. Presently the widely adopted solution is the exploitation of trusted nodes, whose security represents however a significant technical issue.\r\n\r\nAn innovative approach that overcomes, at least partially, the need for trusted node is represented by the recently proposed QKD protocol dubbed twin-field QKD (TF-QKD) [13]. In TF-QKD, the information is encoded on dim laser pulses generated at distant Alice and Bob terminals and sent through optical fiber over half of the entire communication distance to the central node, Charlie, where they interfere. For this reason, the TF-QKD has weaker dependence on channel losses, essentially doubling the communication distance with respect to the conventional prepare-and-measure QKD solution.\r\n\r\nTF-QKDhas been proved secure against general attacks (see e.g. [14–18]), but its implementation is challenging as  the optical pulses sent by Alice and Bob are required to be phase-coherent  and preserve coherence when reaching Charlie after travelling the long fiber paths. While phase coherence  can be achieved by phase-locking the two QKD lasers in Alice and Bob to a common reference laser transmitted through a service channel, uncorrelated phase changes due to the length and refractive index fluctuations in the long optical fibers still remain and will reduce the visibility of the interference measurement. In the TF-QKD proof-of-principle experiments [19–26], this effect was mitigated by interleaving the QKD frames with classical transmission frames that were used to periodically realign the phases of interfering pulses. \r\n\r\nHere we present an alternative solution derived from the metrological research community, more precisely from atomic clocks comparison technology. Specifically, transmission of coherent laser radiation over thousand-kilometer-long fibers is exploited for the comparison of distant atomic clocks at the highest accuracy [27–32]. In this case phase fluctuations in long fiber also need to be addressed, othewise they would substantially degrade the comparison results. Precise comparison among these atomic clocks are made possible by the use of ultra-stable lasers and the active cancellation of the noise introduced by connecting fibers. Here we demonstrate that this technique can be successfully adapted into a TF-QKD setup.\r\n\r\nMore specifically, we designed and developed an apparatus suitable for actively cancelling phase fluctuations of both the lasers and of the connecting fibers in a TF-QKD setup. This is achieved by transmitting an additional sensing laser light at a slightly different wavelength in the same fiber as the QKD dim pulses. In Charlie, this sensing laser is used for the fiber optical length stabilisation. We show that this multiplexed solution can be properly tuned in order to avoid a sizeable impact on the number of background photons observed by the single-photon detectors in the QKD channels, allowing simultaneous key streaming and channels stabilization, ensuring longer duty-cycles of the QKD process and a tighter control of the optical phase on long-haul deployed fibers. Furthermore, we tested our solution in a real-world network where the net losses between Alice and Bob are as high as 65 dB, resulting here in a distance of 206 km, or equivalent at 325 km on a fiber haul at common nominal losses of 0.2 dB/km [33].\r\n\r\nReferences\r\n\r\n[1] Bennett, C. H. & Brassard, G. Quantum cryptography: public key distribution and coin tossing. Theor. Comput. Sci. 560, 7–11 (2014).\r\n[2] Scarani, V. et al. The security of practical quantum key distribution. Rev. Mod. Phys. 81, 1301 (2009).\r\n[3] Kwong Lo, H., Curty, M. & Tamaki, K. Secure quantum key distribution. Nature Photonics 8, 595-604 (2014).\r\n[4] Liao, S-K., Cai, W-Q., Pan, J-W. Satellite-to-ground quantum key distribution, Nature 549, 43-47 (2017)\r\n[5] Peev, M. et al. The SECOQC quantum key distribution network in Vienna, New J. Phys. 11, 075001 (2009).\r\n[6] Sasaki, M. et al. Field test of quantum key distribution in the Tokyo QKD Network. Opt. Expr. 19, 10387 (2011).\r\n[7] Dynes, J. F. et al. Cambridge quantum network. npj Quantum Inf. 5, 101 (2019).\r\n[8] Shimizu K., et al. Performance of long-distance quantum key distribution over 90-km optical links installed in a field environment of Tokyo metropolitan area. J. Lightwave Technol. 32,, 141-51 (2014).\r\n[9] Bacco, D. et al. Field trial of a three-state quantum key distribution scheme in the Florence metropolitan area. EPJ Quantum Technol.6, 5 (2019).\r\n[10] Choi, I. et al. Field trial of a quantum secured 10 Gb/s DWDM transmission system over a single installed fiber. Opt. Expr 22, 23121-23128 (2014).\r\n[11] Dixon, A. R. et al. Quantum key distribution with hacking countermeasures and long term field trial, Sci. Rep. 7, 7583 (2017).\r\n[12] Xu, F., Ma, X., Zhang, Q., Lo, H-K. & Pan, J-W. Secure quantum key distribution with realistic devices. Rev. Mod. Phys. 92, 025002 (2020)\r\n[13] Lucamarini, M., Yuan, Z. L., Dynes, J. F., Shields, A. J. Overcoming the rate-distance limit of quantum key distribution without quantum repeaters. Nature 557, 400-403 (2018).\r\n[14] Ma, X. Zeng, P., & Zhou, H. Phase-Matching Quantum Key Distribution. Phys. Rev. X 8, 031043 (2018).\r\n[15] Wang, X-B., Yu, Z-W. & Hu, X-L. Twin-field quantum key distribution with large misalignment error. Phys. Rev. A 98, 062323 (2018).\r\n[16] Lin J. & Lutkenhaus, N. Simple security analysis of phase-matching measurement-device-independent quantum key distribution. Phys. Rev. A 98, 042332 (2018);\r\n[17] Curty, M., Azuma, K. & Lo, H.-K. Simple security proof of twin-field type quantum key distribution protocol. npj Quantum Inf. 5, 64 (2019)\r\n[18] Yin, H-L. & Chen, Z-B. Finite-key analysis for twin-field quantum key distribution with composable security, Sci Rep. 9, 17113 (2019).\r\n[19] Wang, S. et al. Beating the Fundamental Rate-Distance Limit in a Proof-of-Principle Quantum Key Distribution System. Phys. Rev. X 9, 021046 (2019)\r\n[20] Minder, M. et al. Experimental quantum key distribution beyond the repeaterless secret key capacity. Nature Photon. 13, 334-338 (2019)\r\n[21] X. Zhong, Hu, J., Curty, M., Qian, L. & Lo, H-K. Proof-of-Principle Experimental Demonstration of Twin-Field Type Quantum Key Distribution. Phys. Rev. Lett. 123, 100506 (2019)\r\n[22] Chen, J-P. et al. Sending-or-Not-Sending with Independent Lasers: Secure Twin-Field Quantum Key Distribution over 509 km. Phys. Rev. Lett. 124, 070501 (2020).\r\n[23] Fang, X-T., et al. Implementation of quantum key distribution surpassing the linear rate transmittance bound. Nature Photon 14, 422-425 (2020).\r\n[24] Pittaluga M, et al., 600 km repeater-like quantum communications with dual-band stabilisation, arXiv:2012.15099 (2020)\r\n[25] Hui Liu et al., Field Test of Twin-Field Quantum Key Distribution through Sending-or-Not-Sending over 428 km, arXiv:2101.00276  (2021)\r\n[26] Jiu-Peng Chen et al., Twin-Field Quantum Key Distribution over 511 km Optical Fiber Linking two Distant Metropolitans, arXiv:2102.00433 (2021)\r\n[27] Clivati, C. et al. Optical frequency transfer over submarine fiber links. Optica 5, 893 (2018).\r\n[28] Clivati, C. et al. Common-clock very long baseline interferometry using a coherent optical fiber link. Optica 7, 1031-1037 (2020)\r\n[29] Grotti, J. et al. Geodesy and metrology with a transportable optical clock. Nature Physics 14, 437-441 (2018).\r\n[30] Lisdat, C. et al. A clock network for geodesy and fundamental science. Nat.Comm. 7, 12443 (2016).\r\n[31] Delva, P. et al. Test of Special Relativity Using a Fiber Network of Optical Clocks, Phys. Rev. Lett. 118, 221102 (2017).\r\n[32] Guena, J. First international comparison of fountain primary frequency standards via a long distance optical fiber link. Metrologia 54, 348 (2017).\r\n[33] Clivati, C. et al. Coherent phase transfer for real-world twin-field quantum key distribution, arXiv:2012.15199 (2021)",
         "authors": [
             {
                 "first": "Ivo Pietro",
@@ -2415,7 +2415,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-bf142e76e3ad2c5eb70b2192177127ef18a27407665a3521436d04a46b5245cb",
             "timestamp": 1620746238,
             "size": 129876,
@@ -2460,7 +2460,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-406c8d8f9e30c0d5f5b6346f239f5080930facfa0c64fc5d93d642d54cee0331",
             "timestamp": 1620747212,
             "size": 16237,
@@ -2517,14 +2517,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b109b5ebfe50d1bfe137a4cae387cadfebdc2bad2d4394d04519f3f3af26bc1d",
             "timestamp": 1620747362,
             "size": 693339,
             "filename": "Abstrac.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-90506d820642f74d2772505f8a73e5ec819a5dc61a1b03b554cc6959c83d9288",
             "timestamp": 1620747362,
             "size": 781350,
@@ -2554,14 +2554,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7fd36b63413d9b53c72ffc80d1ff6f147b67fd98da4772dc29b792a09df1bf7a",
             "timestamp": 1620748437,
             "size": 105143,
             "filename": "Symmetry.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f687a14254f1bc3981578733f8159ff4e0a501b4923272317e0d80570c77ff97",
             "timestamp": 1620748437,
             "size": 241361,
@@ -2602,7 +2602,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e2a21b2101dba2a36c9243546996762f88892958ba001770d86f8e7d42b7279c",
             "timestamp": 1620815594,
             "size": 101311,
@@ -2636,14 +2636,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b93c68c33439fd0619751db5bcaa4ed784cd7cbccda0aca7950d7b8490194ecf",
             "timestamp": 1620749285,
             "size": 94085,
             "filename": "quantum-annoying-abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8019bdb9fa7bec6b00d4ffc860642b8c85d978af1fb035a5125876d4e8be82f0",
             "timestamp": 1620749285,
             "size": 495293,
@@ -2677,14 +2677,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-62b0925a61d8ec6c01baf120dadab24938d49bf0f6404b85ec75f2790620924e",
             "timestamp": 1620749992,
             "size": 1142863,
             "filename": "QCrypt_2021_Yumang_work.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b60c93b5adf932a811f8e8852a7aa5a019593528f0fa84c8c584bbf87698f5da",
             "timestamp": 1620749992,
             "size": 3271141,
@@ -2719,7 +2719,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-840f7123f5d9efe59b1a36f04e4e74e37d6b0d0677ec4edc2801de3c38679a13",
             "timestamp": 1620750652,
             "size": 120767,
@@ -2762,14 +2762,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1f59ace0c50b9c3934ce325764f7589673e2d2969fb0d5968545b570e00c483b",
             "timestamp": 1620753831,
             "size": 180398,
             "filename": "QCRYPT2021_QUnforgeability_Extended_Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-c44deef64f0f623c251d8bc3084a25a271809474ce7abb31a5c24d5ff9d22bde",
             "timestamp": 1620753831,
             "size": 745518,
@@ -2802,7 +2802,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1296f4f627cbbeaea4f8b04b44a513055e45c2a8c8db84456d672b2acb28ec55",
             "timestamp": 1620754725,
             "size": 292233,
@@ -2843,14 +2843,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-9f10973e67ab052f00dd4a15bf13cb652b02db884220de1b84982a708b7e9160",
             "timestamp": 1620777353,
             "size": 146997,
             "filename": "Ext. Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ba6c6a29c9bd3e49eb8264f8c4685f88af8221eab2b1c8fd04b577b3944bf26c",
             "timestamp": 1620777353,
             "size": 214695,
@@ -2888,7 +2888,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-939f18b208dd92b02b475c3893551e757dd5d7da2ea2cd9cf7773382ca5fc543",
             "timestamp": 1620761902,
             "size": 378678,
@@ -2907,7 +2907,7 @@
     {
         "pid": 117,
         "title": "Limitations on Uncloneable Encryption and Simultaneous One-Way-to-Hiding",
-        "abstract": "We study uncloneable quantum encryption schemes for classical messages as recently proposed by Broadbent and Lord. We focus on the information-theoretic setting and give several limitations on the structure and security of these schemes: Concretely, 1) We give an explicit cloning-indistinguishable attack that succeeds with probability 12+μ\/16 where μ is related to the largest eigenvalue of the resulting quantum ciphertexts. 2)  The *simultaneous* one-way-to-hiding (O2H) lemma is an important technique in recent works on uncloneable encryption and quantum copy protection. We give an explicit example which shatters the hope of reducing the multiplicative \"security loss\" constant in this lemma to below 9\/8. 3) For a uniform message distribution, we partially characterize the scheme with the minimal success probability for cloning attacks. 4) Under natural symmetry conditions, we prove that the rank of the ciphertext density operators has to grow at least logarithmically in the number of messages to ensure uncloneable security.",
+        "abstract": "We study uncloneable quantum encryption schemes for classical messages as recently proposed by Broadbent and Lord. We focus on the information-theoretic setting and give several limitations on the structure and security of these schemes: Concretely, 1) We give an explicit cloning-indistinguishable attack that succeeds with probability 12+μ/16 where μ is related to the largest eigenvalue of the resulting quantum ciphertexts. 2)  The *simultaneous* one-way-to-hiding (O2H) lemma is an important technique in recent works on uncloneable encryption and quantum copy protection. We give an explicit example which shatters the hope of reducing the multiplicative \"security loss\" constant in this lemma to below 9/8. 3) For a uniform message distribution, we partially characterize the scheme with the minimal success probability for cloning attacks. 4) Under natural symmetry conditions, we prove that the rank of the ciphertext density operators has to grow at least logarithmically in the number of messages to ensure uncloneable security.",
         "authors": [
             {
                 "first": "Christian",
@@ -2927,7 +2927,7 @@
         ],
         "submission_type": "Talk only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-c9b2957c59981a85a146d3a21bb78d441b12093f19680334255e477be3ce0839",
             "timestamp": 1620762230,
             "size": 391232,
@@ -3010,7 +3010,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-03910b81ef0a24c0bc491a20a15ad1d0ceac3ce6d4024aa93971f308934a11e0",
             "timestamp": 1620763263,
             "size": 2880399,
@@ -3055,7 +3055,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-71091b2b03faa17b2c0a29b90c389f82e4de235dc080c8b51c938d7192098e34",
             "timestamp": 1620764491,
             "size": 185935,
@@ -3094,14 +3094,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f142a5e90f7114b4d70c9b93b9f3af7f32e8c56f11946605b5b73f2abe39118f",
             "timestamp": 1620764969,
             "size": 172415,
             "filename": "Winternitz (1).pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e80210a133c173041fb7459a4e0c98e007667eaa724f035970ba0f302e8651e1",
             "timestamp": 1620764969,
             "size": 475911,
@@ -3170,14 +3170,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d574bd0e890d9700fdff696a8b872b3057165de6494df04eda3064f115b247fe",
             "timestamp": 1620769711,
             "size": 91165,
             "filename": "QCrypt2021_Ruppert.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5c3ef5da640569a408014254dcd81b320ce3616109680a57ef090c5899af0db2",
             "timestamp": 1620769711,
             "size": 1055916,
@@ -3218,14 +3218,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-9b6f545077abf557b924345b512d40a71df265022f165ba1ba85b9c0e695de3c",
             "timestamp": 1620819888,
             "size": 65038,
             "filename": "QCRYPT_abs.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-885bc5dddf01acb3ee42fef1ba91ab6ea8605a3605a31d2cfb866c5fc0dec6a2",
             "timestamp": 1620819888,
             "size": 472897,
@@ -3260,7 +3260,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ca184fb29ecacfc9d806e5beb542f98377b9b090cdbbe250bface30e0cdf4b3b",
             "timestamp": 1620783588,
             "size": 152433,
@@ -3310,7 +3310,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-6928a0a995067035b867fceaf7fef4bf6e2d49e9192bb0fda986571f3ed9f449",
             "timestamp": 1620784733,
             "size": 657843,
@@ -3356,14 +3356,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d941899c00ce1b0bfd8428d9c3f175be319a1929a7db5f5565034940e03d3bc8",
             "timestamp": 1620789086,
             "size": 281679,
             "filename": "QCrypt_Submission (3).pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-07bb8c3ac98a4e3f84e2d848a4357d14ffcdd68c98efbd9b707c0001c84a9863",
             "timestamp": 1620788492,
             "size": 955465,
@@ -3408,14 +3408,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7e33f82c0dc9bdbe73e51d7f921bdcedbc41932e8b6d8812cdcaad31ad6e2920",
             "timestamp": 1620791639,
             "size": 305320,
             "filename": "Finite_key_EB_S_QKD_QCRYPT21_Sub.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b2c68b36419ee145c7ca07472b94ef13773fb51d695206a98b980b6ead407df1",
             "timestamp": 1620791639,
             "size": 392972,
@@ -3462,7 +3462,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f01afc65978d32af195ed888a07f29595c30f301119bdb81124c2e47a14479d7",
             "timestamp": 1620812295,
             "size": 217403,
@@ -3501,7 +3501,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5b7ea5036f0d6977fa293719a57b2607dbe507341dd3a7fc5354334b7861222c",
             "timestamp": 1620802819,
             "size": 467670,
@@ -3548,14 +3548,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-60a7992bd90a6181a1955e3c593d08265eed56540fd79d01257cf26ce0a6fd95",
             "timestamp": 1620808546,
             "size": 1306382,
             "filename": "Variational_Quantum_Cloning_QCRYPT2021_abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-fde3188f3255cbc5fbcf9f6b351f29ca5a85e5a068c9f51f436382805c73d09c",
             "timestamp": 1620808546,
             "size": 4180255,
@@ -3621,7 +3621,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-53f6b3606ec5d17f6abc2749695fb8acd281493639902e2efc059953ec9f789a",
             "timestamp": 1620809536,
             "size": 372895,
@@ -3666,14 +3666,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-dcf87c1de21c7bf14e7e70e400e474e6d080287880fb26f40db8bded25b6c5b2",
             "timestamp": 1620810329,
             "size": 214032,
             "filename": "Q2PC_QCrypt_Extended_Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d5b799abc60593247f71e8b7191592da7125ff1cfc4d082da89618fbf2215fc5",
             "timestamp": 1620810329,
             "size": 737512,
@@ -3715,14 +3715,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a5fbdb5fbbe17be61d3fcd40a70acc632f4ce19e99ff8c2f501f433c587488fe",
             "timestamp": 1620811210,
             "size": 334367,
             "filename": "Qcrypt abstract-2021 Kumar.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1bac1f225d3106d90821a5e1132ca289c560de76249817c1d84d33942ae7570a",
             "timestamp": 1620811210,
             "size": 862668,
@@ -3766,7 +3766,7 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e37c2fcb9388a1dacbede4e3ea303983b9ac455cd8b8c406089e1f27aa14c24a",
             "timestamp": 1620814350,
             "size": 264882,
@@ -3825,14 +3825,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-2a861493b54c50440acb6c6327a6c293508cbe19bbb544767b34c6c556e3d2fb",
             "timestamp": 1620814678,
             "size": 605619,
             "filename": "Provably-secure QRE with untrusted homodyne detection (extended abstract).pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8e65cd361432c4cc74bc2905d8486460ff2ac87e9d6d62824b7f0dd1e51936b0",
             "timestamp": 1620814678,
             "size": 546127,
@@ -3875,14 +3875,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-efdb80f2c9c7a43888ff1870345326b61c511a29a19259cf71ab830d454707f4",
             "timestamp": 1620817377,
             "size": 115981,
             "filename": "private_mac_4.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-bab1d853593a1bb7d47c3b167ac9de71fed6b533b4f4910f95a24d6ca9a41c57",
             "timestamp": 1620817377,
             "size": 275613,
@@ -3926,14 +3926,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-058861fc19f3b9fab670d4e01daeb512249dc35aa5b4ff07f07a3b7e549bde84",
             "timestamp": 1620819873,
             "size": 108648,
             "filename": "qcrypt abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7b4aceab399b18ac2f5c67173b99e757d8d437ffc565db971aa256946598e55d",
             "timestamp": 1620819324,
             "size": 587674,
@@ -3982,14 +3982,14 @@
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-66878a2a101162c1f9d0c86278cc4634f911a43e61367880d6f1fe0a0052fc9f",
             "timestamp": 1620819088,
             "size": 1053340,
             "filename": "proceeding.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-cdfa309f2ea4fe106881206d19084e825fdc7be75a0058fb8c35e59947f47650",
             "timestamp": 1620819088,
             "size": 201112,
@@ -4015,12 +4015,12 @@
             {
                 "first": "Rene",
                 "last": "Allerstorfer",
-                "affiliation": "QuSoft\/CWI"
+                "affiliation": "QuSoft/CWI"
             },
             {
                 "first": "Harry",
                 "last": "Buhrman",
-                "affiliation": "QuSoft\/CWI"
+                "affiliation": "QuSoft/CWI"
             },
             {
                 "first": "Florian",
@@ -4030,19 +4030,19 @@
             {
                 "first": "Philip Verduyn",
                 "last": "Lunel",
-                "affiliation": "QuSoft\/CWI"
+                "affiliation": "QuSoft/CWI"
             }
         ],
         "submission_type": "Talk or poster",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3dfb8c2f7d2c421e56bbf06d444afc15038c39c290a8e8cf72bbe9f2b8ab2ffc",
             "timestamp": 1620820349,
             "size": 320427,
             "filename": "QPV_Ext_Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-6474aa4085e85a84e4f5a45cf069c834a0c4e63f37347ed57a64ff50b5538172",
             "timestamp": 1620820349,
             "size": 1627129,
@@ -4088,7 +4088,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a017d74c02fbe72678c5518ced1b44844e7890c511815ae27242635afec12cb6",
             "timestamp": 1621449013,
             "size": 459565,
@@ -4108,7 +4108,7 @@
     {
         "pid": 164,
         "title": "Open Source LDPC-based error correction",
-        "abstract": "Error correction is an essential step in the classical post-processing of all quantum key distribution\r\n(QKD) protocols. We present error correction methods optimized for discrete variable (DV) QKD and make them freely available as an ongoing open-source project (github.com\/XQP-Munich\/LDPC4QKD). \r\nOur methods are based on irregular quasi-cyclic (QC) low density parity check (LDPC) codes and\r\nstate-of-the-art rate adaption techniques.",
+        "abstract": "Error correction is an essential step in the classical post-processing of all quantum key distribution\r\n(QKD) protocols. We present error correction methods optimized for discrete variable (DV) QKD and make them freely available as an ongoing open-source project (github.com/XQP-Munich/LDPC4QKD). \r\nOur methods are based on irregular quasi-cyclic (QC) low density parity check (LDPC) codes and\r\nstate-of-the-art rate adaption techniques.",
         "authors": [
             {
                 "first": "Adomas",
@@ -4128,7 +4128,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d09f0a64c5982cf44762dd677db56ebdf6b7c7a7f8683970f506c4afd12f54c8",
             "timestamp": 1625584825,
             "size": 116094,
@@ -4192,7 +4192,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-4c56025fac0af241c03158a42840dbc87c52bfe4f8c64fcb7dbb3b75080814ab",
             "timestamp": 1623749522,
             "size": 439286,
@@ -4221,7 +4221,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-d5ee386e3ceb6797e3e84cfd906e4c67e2d5528c115a5e4bcdd00cddceacdbe4",
             "timestamp": 1623691215,
             "size": 328724,
@@ -4281,7 +4281,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-dda7f6e84163f06f9d6a2602426e0ba3418b54bd3efec6441735751aa2bf810b",
             "timestamp": 1623718897,
             "size": 272131,
@@ -4319,7 +4319,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-bdff2b2710fdbd258e7ddfaa731552637f6999a4add23133a3763b43eff96736",
             "timestamp": 1624561101,
             "size": 229674,
@@ -4339,7 +4339,7 @@
     {
         "pid": 169,
         "title": "Beam tracking system using pan-tilt module and MEMS-based fast steering mirror in quantum key distribution",
-        "abstract": "Quantum key distribution (QKD) has been widely studied for its inherent security against eavesdropping. Among them, free-space QKD has been actively studied for its wide range of applications. For global-scale quantum network, satellite-to-ground quantum key distribution has been studied in major countries around the world. Also, due to recent progress on drone and autonomous vehicle technologies and applications, short to intermediate-range applications for small moving platforms are gaining more interests than before. For applying QKD on these platforms, one of the most challenging requirements is reducing the size and weight of the QKD system, including beam tracking components. \r\nIn this study, we report a compact beam tracking system and its tracking performance on a moving transmitter. The coarse tracking part of the system consists of pan-tilt module and a CMOS camera. The fine tracking part consists of a MEMS-based fast steering mirror (FSM) and a quadrant-cell photodetector module. By using compact MEMS-based FSM, the size of the system was reduced to 15 × 15 × 30 cm and can be further reduced by using smaller optical components. For testing the tracking performance, transmitter on a moving platform was placed 1 m away from the fixed tracking system and moved at a constant speed along a circular track around the tracking system. A diverging 650 nm laser source on the transmitter was used as a tracking target for both coarse and fine tracking. When tracking the target moving at angular speed of 20 mrad\/s, angular error was less than 0.12° and beam tracking induced optical loss into a multimode fiber was measured to be lower than 2.5 dB.",
+        "abstract": "Quantum key distribution (QKD) has been widely studied for its inherent security against eavesdropping. Among them, free-space QKD has been actively studied for its wide range of applications. For global-scale quantum network, satellite-to-ground quantum key distribution has been studied in major countries around the world. Also, due to recent progress on drone and autonomous vehicle technologies and applications, short to intermediate-range applications for small moving platforms are gaining more interests than before. For applying QKD on these platforms, one of the most challenging requirements is reducing the size and weight of the QKD system, including beam tracking components. \r\nIn this study, we report a compact beam tracking system and its tracking performance on a moving transmitter. The coarse tracking part of the system consists of pan-tilt module and a CMOS camera. The fine tracking part consists of a MEMS-based fast steering mirror (FSM) and a quadrant-cell photodetector module. By using compact MEMS-based FSM, the size of the system was reduced to 15 × 15 × 30 cm and can be further reduced by using smaller optical components. For testing the tracking performance, transmitter on a moving platform was placed 1 m away from the fixed tracking system and moved at a constant speed along a circular track around the tracking system. A diverging 650 nm laser source on the transmitter was used as a tracking target for both coarse and fine tracking. When tracking the target moving at angular speed of 20 mrad/s, angular error was less than 0.12° and beam tracking induced optical loss into a multimode fiber was measured to be lower than 2.5 dB.",
         "authors": [
             {
                 "first": "Minchul",
@@ -4384,7 +4384,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1d19912e69dfe25bb93679f661f234bd0a87d63eaee700d6c2b599511ae15121",
             "timestamp": 1625575660,
             "size": 198258,
@@ -4413,7 +4413,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-26994973668e88ad76ba2230337413f7793067b0e544da1be90ce1cc03c5f75c",
             "timestamp": 1624874041,
             "size": 673557,
@@ -4456,7 +4456,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e7b41193d926da002b8b9e2ffd1803dbbb31fcd9e99828f3af533fcd7b8a1699",
             "timestamp": 1625557263,
             "size": 445141,
@@ -4475,7 +4475,7 @@
     {
         "pid": 172,
         "title": "Practical Quantum Key Distribution Secure Against Side Channels",
-        "abstract": "There is a large gap between theory and practice in quantum key distribution (QKD) because real devices do not satisfy the assumptions required by the security proofs. We close this gap by introducing a simple and practical measurement-device-independent-QKD type of protocol, based on the transmission of coherent light, for which we prove its security against any possible imperfection and\/or side channel from the quantum communication part of the QKD devices. Our approach only requires to experimentally characterize an upper bound of one single parameter for each of the pulses sent, which describes the quality of the source. Moreover, unlike device-independent (DI) QKD, it can accommodate information leakage from the users’ laboratories, which is essential to guarantee the security of QKD implementations. In this sense, its security goes beyond that provided by DI QKD, yet it delivers a secret key rate that is various orders of magnitude greater than that of DI QKD.",
+        "abstract": "There is a large gap between theory and practice in quantum key distribution (QKD) because real devices do not satisfy the assumptions required by the security proofs. We close this gap by introducing a simple and practical measurement-device-independent-QKD type of protocol, based on the transmission of coherent light, for which we prove its security against any possible imperfection and/or side channel from the quantum communication part of the QKD devices. Our approach only requires to experimentally characterize an upper bound of one single parameter for each of the pulses sent, which describes the quality of the source. Moreover, unlike device-independent (DI) QKD, it can accommodate information leakage from the users’ laboratories, which is essential to guarantee the security of QKD implementations. In this sense, its security goes beyond that provided by DI QKD, yet it delivers a secret key rate that is various orders of magnitude greater than that of DI QKD.",
         "authors": [
             {
                 "first": "Álvaro",
@@ -4500,7 +4500,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ba9c051492c18a6398dfd767a866d2b070052099a3dffeb439801218083bdebd",
             "timestamp": 1625126878,
             "size": 256967,
@@ -4518,7 +4518,7 @@
     {
         "pid": 173,
         "title": "Near-maximal Polarization Entanglement for Device-Independent Quantum Key Distribution at 2.1 μm",
-        "abstract": "The ability to generate highly entangled states and access the full quantum state space is crucial for most advanced quantum information tasks. However, in the mid-infrared band, the capability for full state tomography or the demonstration of states that are sufficiently entangled, e.g., to allow positive secure key rates for entanglement-based quantum key distribution (QKD) have not been achieved to date. At a wavelength of 2.1 μm, we demonstrate full state tomography of two-photon states and show near-maximal violation of the Clauser-Horne-Shimony-Holt (CHSH) Bell inequality with an order-of-magnitude improvement over the state of the art in terms of the number of standard deviations above the classical limit. We obtain a positive secure-key rate for the first time using mid-infrared photons (0.417 bits\/pair, with a quantum bit error rate of 5.43%) in a proof-of-principle device-independent (DI) QKD scenario, demonstrating the viability of DIQKD at 2.1 μm. We further exploit the quality of the entangled state by obtaining (via computations on the measured state) the violation of a new Bell inequality tailored for a weak or less-rigid form of self-testing, which is of fundamental interest. These results at 2.1 μm pave the way for robust, DI quantum information applications in the mid-infrared region.",
+        "abstract": "The ability to generate highly entangled states and access the full quantum state space is crucial for most advanced quantum information tasks. However, in the mid-infrared band, the capability for full state tomography or the demonstration of states that are sufficiently entangled, e.g., to allow positive secure key rates for entanglement-based quantum key distribution (QKD) have not been achieved to date. At a wavelength of 2.1 μm, we demonstrate full state tomography of two-photon states and show near-maximal violation of the Clauser-Horne-Shimony-Holt (CHSH) Bell inequality with an order-of-magnitude improvement over the state of the art in terms of the number of standard deviations above the classical limit. We obtain a positive secure-key rate for the first time using mid-infrared photons (0.417 bits/pair, with a quantum bit error rate of 5.43%) in a proof-of-principle device-independent (DI) QKD scenario, demonstrating the viability of DIQKD at 2.1 μm. We further exploit the quality of the entangled state by obtaining (via computations on the measured state) the violation of a new Bell inequality tailored for a weak or less-rigid form of self-testing, which is of fundamental interest. These results at 2.1 μm pave the way for robust, DI quantum information applications in the mid-infrared region.",
         "authors": [
             {
                 "first": "Adetunmise",
@@ -4558,7 +4558,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-93962dfa9e83ef9babc8cdf912c577d63dc81588c26263859aefc37e3eb0ebed",
             "timestamp": 1625653405,
             "size": 193253,
@@ -4624,7 +4624,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e140b03d4b64e536475f361537228dfc7f41e2bdd0f8deb52a1222cfc705c4a1",
             "timestamp": 1625498802,
             "size": 77161,
@@ -4669,7 +4669,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-de875510232781809db35399ff32a7594f35f567db2e25a5b47e989435687dda",
             "timestamp": 1625241985,
             "size": 297064,
@@ -4730,7 +4730,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-973fec699a64ad85d26d25f271e9bbc635f509df21143cb94fc77418dcd0f017",
             "timestamp": 1625260681,
             "size": 66949,
@@ -4765,7 +4765,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-07a7249163c872d78acaf9225d3e0be0b6e30a8c07a1e08ed2ded272e92492a0",
             "timestamp": 1625325684,
             "size": 159666,
@@ -4813,7 +4813,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5e9c1f5940b7c49bf080dbafc872fabb48072ab5a746fa5b15661cf0e341d47d",
             "timestamp": 1625658289,
             "size": 124142,
@@ -4854,14 +4854,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a19eccb8326efb7220d8e5361bee7468c60a39a49043179dfc86bb43455dcd4b",
             "timestamp": 1625393143,
             "size": 618876,
             "filename": "HD-QKD System Using Structure Light (Poster for Qcrypt2021).pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a19eccb8326efb7220d8e5361bee7468c60a39a49043179dfc86bb43455dcd4b",
             "timestamp": 1625393143,
             "size": 618876,
@@ -4919,7 +4919,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-db4eda7b79e8b0e732084b5ce8384ef29f96dcbed01128c6088ac31a6319c704",
             "timestamp": 1625453784,
             "size": 25524,
@@ -4974,7 +4974,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-4e939b4c518cb0253995600c845af1e917a35fb219d870a00a83a6a9d21aa884",
             "timestamp": 1625453794,
             "size": 66934,
@@ -5017,14 +5017,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7facb22a54b5b6b6909f14da11d0ad5bd9eab48a26f07bb32cc8e5f10d08ea57",
             "timestamp": 1625456819,
             "size": 172108,
             "filename": "Practical security of a chip-based continuous-variable quantum key distribution system.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7facb22a54b5b6b6909f14da11d0ad5bd9eab48a26f07bb32cc8e5f10d08ea57",
             "timestamp": 1625456819,
             "size": 172108,
@@ -5070,7 +5070,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-02809936c2314dedd58af0fecf7241919b725cf222f6ae6ebf41807ffc5ecb22",
             "timestamp": 1625465696,
             "size": 115769,
@@ -5115,7 +5115,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-44dca36afe1f127672ec63cb80c6b56a2f16f2b6a89904d3f999c0fe5f3a39bc",
             "timestamp": 1625471267,
             "size": 1264832,
@@ -5155,7 +5155,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-afebf4a1a76468fd1f60d6b6f8152a9fb673fb2dfdae85117c76bae99afef1c2",
             "timestamp": 1625478990,
             "size": 152816,
@@ -5204,7 +5204,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-32e0b3d65b6c25e8e15b4925312ac4d3f6accac7d8b96b2ccdbe08e40f42c786",
             "timestamp": 1625561338,
             "size": 197541,
@@ -5246,14 +5246,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-51f161b087bfc82a62d44d04a7aa75839a16be4146aafc7f6564a375f6a6b220",
             "timestamp": 1625492275,
             "size": 189719,
             "filename": "qcrypt2021-extended_abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-122190aaa2913f3028b4ccfad42a2627bd9383f945bcb693022679c246959b42",
             "timestamp": 1625492275,
             "size": 486779,
@@ -5298,7 +5298,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-586fddd257e4119a15ff1e2b8be114d2a53099f7da55b634382fb45215c7e7bd",
             "timestamp": 1625499440,
             "size": 204259,
@@ -5330,7 +5330,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-4f40add568fd0867b140fa6ecc8b1e7c766fd11caf7fb6d3268d807b7d4939c6",
             "timestamp": 1625509135,
             "size": 225290,
@@ -5409,7 +5409,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-9ffef27c005cf6cb9cd1c84435966d78027047cb702b312dfde3e46f05eabbd0",
             "timestamp": 1625536324,
             "size": 337216,
@@ -5448,7 +5448,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-6cc665a62a3d4b2cc38b280c8d3bee426604f515faccd5bf4dc5b427135ef8b8",
             "timestamp": 1625544426,
             "size": 244597,
@@ -5469,7 +5469,7 @@
     {
         "pid": 192,
         "title": "Qubit-based clock synchronization for QKD systems using a Bayesian approach",
-        "abstract": "Quantum key distribution (QKD) provides a method for two users to exchange a provably secure key, which requires synchronizing the user’s clocks.  Qubit-based synchronization protocols directly use the transmitted quantum states and thus avoid the need for additional classical synchronization hardware, but previous approaches sacrifice secure key either directly or indirectly.  Here, we introduce a Bayesian probabilistic algorithm that incorporates all published information to efficiently find the clock offset without sacrificing any secure key [1].  Additionally, the output of the algorithm is a probability, which allows us to quantify our confidence in the synchronization.  \r\nFor demonstration purposes, we present a model system with accompanying simulations of an efficient three-state BB84 prepare-and-measure protocol with decoy states.  Our algorithm exploits the correlations between Alice’s published basis and mean photon number choices (which must already be published for the protocol) and Bob’s measurement outcomes to probabilistically determine the most likely clock offset.  We perform cross-correlations using Fast Fourier Transforms to count the number of each type of event pairing for each potential offset (e.g., how many times Alice sent a decoy state in the horizontal\/vertical polarization basis and Bob registered a click in the horizontal detector).  Taking these along with a lookup table for the probabilities of the different event pairings, we determine the synchronization probability of the different potential offsets using Bayesian analysis.\r\n\r\nIn our simulations, we find that we can achieve a 95% synchronization confidence using a string length of only 4,140 communication bin widths, meaning we can tolerate clock drift approaching 1 part in 4,140 in this example when simulating this system with a dark count probability per communication bin width of 8⨉10-4 and a received mean photon number of 0.01.  The relationship between the received mean photon number and the number of communication bin widths required to achieve a 95% synchronization confidence is shown in Fig. 1.",
+        "abstract": "Quantum key distribution (QKD) provides a method for two users to exchange a provably secure key, which requires synchronizing the user’s clocks.  Qubit-based synchronization protocols directly use the transmitted quantum states and thus avoid the need for additional classical synchronization hardware, but previous approaches sacrifice secure key either directly or indirectly.  Here, we introduce a Bayesian probabilistic algorithm that incorporates all published information to efficiently find the clock offset without sacrificing any secure key [1].  Additionally, the output of the algorithm is a probability, which allows us to quantify our confidence in the synchronization.  \r\nFor demonstration purposes, we present a model system with accompanying simulations of an efficient three-state BB84 prepare-and-measure protocol with decoy states.  Our algorithm exploits the correlations between Alice’s published basis and mean photon number choices (which must already be published for the protocol) and Bob’s measurement outcomes to probabilistically determine the most likely clock offset.  We perform cross-correlations using Fast Fourier Transforms to count the number of each type of event pairing for each potential offset (e.g., how many times Alice sent a decoy state in the horizontal/vertical polarization basis and Bob registered a click in the horizontal detector).  Taking these along with a lookup table for the probabilities of the different event pairings, we determine the synchronization probability of the different potential offsets using Bayesian analysis.\r\n\r\nIn our simulations, we find that we can achieve a 95% synchronization confidence using a string length of only 4,140 communication bin widths, meaning we can tolerate clock drift approaching 1 part in 4,140 in this example when simulating this system with a dark count probability per communication bin width of 8⨉10-4 and a received mean photon number of 0.01.  The relationship between the received mean photon number and the number of communication bin widths required to achieve a 95% synchronization confidence is shown in Fig. 1.",
         "authors": [
             {
                 "first": "Roderick D.",
@@ -5484,7 +5484,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5f8dfdb58be539c1cf617ada1f85a06e9e622ab46e8336c7e54895a557ebc3bc",
             "timestamp": 1625596885,
             "size": 105258,
@@ -5512,7 +5512,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-6a5e5880f5efad33a08218398a183acd5135c4bb3c4ef437f171b33aec906838",
             "timestamp": 1625562317,
             "size": 56240,
@@ -5570,7 +5570,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-0bb873c6c89a48dae21970cd5f4255e947cefdd14c323195395669057c455fa5",
             "timestamp": 1625571832,
             "size": 193120,
@@ -5635,7 +5635,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-3347c261e73565e82ccf1c6524d164426cbb6589e4fad896e7c7b0b16fb62219",
             "timestamp": 1625653467,
             "size": 101102,
@@ -5658,7 +5658,7 @@
             {
                 "first": "Florian",
                 "last": "Kanitschar",
-                "affiliation": "TU Wien \/ AIT - Austrian Institute of Technology"
+                "affiliation": "TU Wien / AIT - Austrian Institute of Technology"
             },
             {
                 "first": "Christoph",
@@ -5668,7 +5668,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8697a28e286c43f35f306fa0a54e1e98de161c104fcb278543b777c0086fcd9e",
             "timestamp": 1625582465,
             "size": 175784,
@@ -5748,7 +5748,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-16340848b57871f63eaa98f6aef29fe76301b22bc1b9e4d3b0e0c73e6c2a27d0",
             "timestamp": 1625576042,
             "size": 160379,
@@ -5790,14 +5790,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-0248fab669c3f037417bba61458bf3fa6c95f5ba68b7ff1091ac836abaedbbf5",
             "timestamp": 1625581710,
             "size": 101888,
             "filename": "Banacki_QCrypt2021.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7c92fef6f39652a20373141ce366c5c0b5dd2fd0da504aaee8544832e1802e97",
             "timestamp": 1625581710,
             "size": 291210,
@@ -5836,7 +5836,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5afd5f21d7a9132317f59eafb7a6357037c2250d25803b55373488d77b62caef",
             "timestamp": 1625576542,
             "size": 186931,
@@ -5892,7 +5892,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-061225bda111c5e592b8fe3940dce7639ba48c3e71d557dc790627300f76907d",
             "timestamp": 1625579393,
             "size": 278114,
@@ -5941,7 +5941,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e3a51697eb2dfc49db6cd51ad35827368c35fe66450bbe8c1451ec29dc641446",
             "timestamp": 1625581547,
             "size": 74191,
@@ -5977,7 +5977,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-e3bbe95b8aeabccd698081f86590be4962ca20d341da6d5f0992687980b4523e",
             "timestamp": 1625581649,
             "size": 132785,
@@ -6055,7 +6055,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-352ec570dfac89fdc0ff1c0fc680cd3334d347b6e2598cc4085ac9cc624d093a",
             "timestamp": 1625582051,
             "size": 116646,
@@ -6083,7 +6083,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-30add65357bfda1e32b1e8049275c3195f4354eaca5d13ab5fb554eb58a88199",
             "timestamp": 1625583366,
             "size": 121252,
@@ -6124,7 +6124,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-c8d03787c174508b1977f150579d5f1759e971a4f0cbc4156a657088f382a171",
             "timestamp": 1625583464,
             "size": 251376,
@@ -6163,7 +6163,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-698d457361171b665c40db76b0de8210c1396d2c3a0dde5661a658f7abf1c271",
             "timestamp": 1625596779,
             "size": 123638,
@@ -6260,14 +6260,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-5473680ef90fc3b0ab640608c64331cf2aa1c0b893621bb8c75207662de53b5c",
             "timestamp": 1625598571,
             "size": 1423498,
             "filename": "Abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-64026670e840a4cb944428e98a5ce8ec8a0e32f4269bb15e42b26c6830de0f7a",
             "timestamp": 1625598571,
             "size": 3955413,
@@ -6386,7 +6386,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7ca048ab780c2108e1548324c0ebb133c2199eea48d6eba07fc4c135a50e3276",
             "timestamp": 1625599442,
             "size": 218774,
@@ -6437,7 +6437,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-1d7294c0943438d2d926c11427d33f034dd88cfd666b2fb8ce0fb598d458fee1",
             "timestamp": 1625607017,
             "size": 221109,
@@ -6488,7 +6488,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-7f076c1790d6134a8a101e5ec6cb2b5d850efd2e81e8262c46e60611266e34a3",
             "timestamp": 1625609164,
             "size": 171524,
@@ -6523,7 +6523,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-fb6176e2e7e537a1d924ec66b47a9ee049fe7548334812a38d722421ac9eb074",
             "timestamp": 1625622629,
             "size": 378583,
@@ -6573,7 +6573,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-979ed54a06e5595ed13691d522aa2b840a33e521f47a7da02d638a141296067a",
             "timestamp": 1625612869,
             "size": 146179,
@@ -6612,7 +6612,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-c6403cccba635379d1af8e30c147f19b208bb912fe5e115b8718ea58ffa683ac",
             "timestamp": 1625615406,
             "size": 49672,
@@ -6651,14 +6651,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b63f751e8ea82e6a9e7bafffd3e4a62fbce70db9c880cf9f045329d4697d1a32",
             "timestamp": 1625618683,
             "size": 139745,
             "filename": "Reducing Network Cooling Cost Using TF-QKD_extended_abstract_2.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-9be541e7011a70dbaf2e93d131dec0d9dd7b189add2db541c3624b78403f306b",
             "timestamp": 1625618683,
             "size": 474686,
@@ -6706,14 +6706,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-f556cbf5090cea08539d9905582719412547ce428f9cd1dd4deb43e9254fa31c",
             "timestamp": 1625625013,
             "size": 93575,
             "filename": "Extended_abstract__A_trustless_decentralized_quantum_random_number_generator_consensus_protocol.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-ccdd50feef0d8580e005a84de9d2dc35e60e7a7466c039e8efb8ee652e3897c3",
             "timestamp": 1625625013,
             "size": 2372778,
@@ -6732,7 +6732,7 @@
     {
         "pid": 220,
         "title": "One-time memory from isolated Majorana islands",
-        "abstract": "We know that classical one-time memory is a cryptographic primitive which is sufficient to construct both classical one-time programs and quantum one-time programs. We propose a construction of one-time memory (OTM) from isolated Majorana islands. The proposed 1-out-of-2 OTM stores two bits, wherein any one chosen bit can be perfectly obtained, whereas the other bit is destroyed with high probability. We prove that a malicious recipient performing an arbitrary sequence of strong and weak measurements can not obtain more information than an honest recipient performing only strong measurements. We show that errors on the two stored bits can be corrected by a pair of classical codes obtained from a quantum CSS code. We compare several popular CSS codes and obtain the best codes for different regimes of physical error rate, availability of chosen bit and availability of remaining bit. Finally, we show that the construction for 1\/2 OTMs can be generalized into efficient constructions for 1\/n OTMs and (n−1)\/n OTMs.",
+        "abstract": "We know that classical one-time memory is a cryptographic primitive which is sufficient to construct both classical one-time programs and quantum one-time programs. We propose a construction of one-time memory (OTM) from isolated Majorana islands. The proposed 1-out-of-2 OTM stores two bits, wherein any one chosen bit can be perfectly obtained, whereas the other bit is destroyed with high probability. We prove that a malicious recipient performing an arbitrary sequence of strong and weak measurements can not obtain more information than an honest recipient performing only strong measurements. We show that errors on the two stored bits can be corrected by a pair of classical codes obtained from a quantum CSS code. We compare several popular CSS codes and obtain the best codes for different regimes of physical error rate, availability of chosen bit and availability of remaining bit. Finally, we show that the construction for 1/2 OTMs can be generalized into efficient constructions for 1/n OTMs and (n−1)/n OTMs.",
         "authors": [
             {
                 "first": "Sourav",
@@ -6747,14 +6747,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-b199833e5d8413445a0079b603f86152472fea7889d1593b0f51f414efc29a42",
             "timestamp": 1625627221,
             "size": 139294,
             "filename": "Extended Abstract - One-time memory from isolated Majorana islands.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-824611b80c3cd0e9fefcf52a91f8f35d3846829bfe4e24f20691bb96c0a23adb",
             "timestamp": 1625627221,
             "size": 2420584,
@@ -6783,7 +6783,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-89cc802534495ac52f9d27598d4965ea01293b3133158c6626bd71ae2c12d935",
             "timestamp": 1625632958,
             "size": 87275,
@@ -6802,7 +6802,7 @@
     {
         "pid": 222,
         "title": "Tight Bounds for Inverting Permutations via Compressed Oracle Arguments",
-        "abstract": "In his seminal work on recording quantum queries [Crypto 2019], Zhandry studied interactions between quantum query algorithms and the quantum oracle corresponding to random functions. Zhandry presented a framework for interpreting various states in the quantum space of the oracle that can be used to provide security proofs in quantum cryptography.\r\n\r\nIn this paper, we introduce a similar interpretation for the case when the oracle corresponds to random permutations instead of random functions. Because both random functions and random permutations are highly significant in security proofs, we hope that the present framework will find applications in quantum cryptography. Additionally, we show how this framework can be used to prove that the success probability for a k-query quantum algorithm that attempts to invert a random N-element permutation is at most O(k^2\/N).",
+        "abstract": "In his seminal work on recording quantum queries [Crypto 2019], Zhandry studied interactions between quantum query algorithms and the quantum oracle corresponding to random functions. Zhandry presented a framework for interpreting various states in the quantum space of the oracle that can be used to provide security proofs in quantum cryptography.\r\n\r\nIn this paper, we introduce a similar interpretation for the case when the oracle corresponds to random permutations instead of random functions. Because both random functions and random permutations are highly significant in security proofs, we hope that the present framework will find applications in quantum cryptography. Additionally, we show how this framework can be used to prove that the success probability for a k-query quantum algorithm that attempts to invert a random N-element permutation is at most O(k^2/N).",
         "authors": [
             {
                 "first": "Ansis",
@@ -6812,14 +6812,14 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-25345d52b5f483a8f5ae8083eb03b305d509eb61ea179525185cd88c0df7bf8f",
             "timestamp": 1625633692,
             "size": 120778,
             "filename": "InvPerm_QCrypt_abstract.pdf"
         },
         "technical_paper": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-a8b3eef07f84bb70ba738da78f1c74db4284e21b27494719b524d0202dc56ba5",
             "timestamp": 1625633692,
             "size": 496377,
@@ -6863,7 +6863,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-0fe715ec8f9a67ffaa9fce00b1dbb8e2bc618d4e870651e7502f1a96b31bbed4",
             "timestamp": 1625642699,
             "size": 242612,
@@ -6903,7 +6903,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-87c2f80f8aa904d31ef9c5b16dfb09a8ee34d927fb285e82f93e8eadbca8bb43",
             "timestamp": 1625646066,
             "size": 73897,
@@ -6942,7 +6942,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-2b8a2b2fee88e895c8d674001f81353170e5c0bb6cae67c826f1cbb5307a9a6d",
             "timestamp": 1625650942,
             "size": 104581,
@@ -6987,7 +6987,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-aff5a1a42a0e4737155e1f4b34e8cd0a8716227569975f07b214115467c25e39",
             "timestamp": 1625652567,
             "size": 271994,
@@ -7007,7 +7007,7 @@
     {
         "pid": 227,
         "title": "An Open-source Software Platform for Numerical Key Rate Calculation of General Quantum Key Distribution Protocols",
-        "abstract": "In this work, we present an open-source software platform that calculates key rate for general QKD protocols, building upon the numerical framework proposed by our group that can perform automated security proof of QKD protocols. The software platform is fully modularized with mutually independent modules for descriptions of protocols\/channels, solvers for bounding key rate, and parameter optimization algorithms. It currently supports BB84 and measurement-device-independent QKD (including decoy states), as well as discrete-modulated continuous variable QKD. It also supports finite-size analysis for non-decoy-state protocols. We hope that the open-sourcing can attract theorists to test new protocols and\/or contribute to new solvers, as well as appeal to experimentalists who wish to analyze their data or optimize parameters for new experiments.",
+        "abstract": "In this work, we present an open-source software platform that calculates key rate for general QKD protocols, building upon the numerical framework proposed by our group that can perform automated security proof of QKD protocols. The software platform is fully modularized with mutually independent modules for descriptions of protocols/channels, solvers for bounding key rate, and parameter optimization algorithms. It currently supports BB84 and measurement-device-independent QKD (including decoy states), as well as discrete-modulated continuous variable QKD. It also supports finite-size analysis for non-decoy-state protocols. We hope that the open-sourcing can attract theorists to test new protocols and/or contribute to new solvers, as well as appeal to experimentalists who wish to analyze their data or optimize parameters for new experiments.",
         "authors": [
             {
                 "first": "Wenyuan",
@@ -7092,7 +7092,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-aa0fc51d95f4ca8e9b5aae4228143801328c2f8b35ebf8cb03d5651e496c9066",
             "timestamp": 1625656485,
             "size": 303183,
@@ -7154,7 +7154,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-8757bc5f60aa30296ce112fd19c20087eaf82918c1660470f53b03c4002ba73b",
             "timestamp": 1625657159,
             "size": 562792,
@@ -7188,7 +7188,7 @@
         ],
         "submission_type": "Poster only",
         "extended_abstract": {
-            "mimetype": "application\/pdf",
+            "mimetype": "application/pdf",
             "hash": "sha2-91772b09bebb45327af26c3a21ade48aa0d75fc0a49b649ce6753786092f9d75",
             "timestamp": 1625656866,
             "size": 205207,

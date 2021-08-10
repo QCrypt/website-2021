@@ -12,7 +12,7 @@ menu:
 
 ### 2021: online conference
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="/registration/">Register now</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="/schedule/">See schedule</a>
 
 <!--
 <a class="btn primary btn-lg" href="/schedule">
