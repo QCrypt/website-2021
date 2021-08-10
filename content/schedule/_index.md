@@ -1,7 +1,9 @@
 ---
 title: Schedule
 horizontal: false
-
+menu:
+  main:
+    weight: 20
 ---
 
 <center>

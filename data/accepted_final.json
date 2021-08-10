@@ -470,7 +470,6 @@
             "presenter-live-session": "Takashi Yamakawa",
             "arxiv-id": "2011.02670"
         }
-
     },
     {
         "pid": 45,
@@ -527,7 +526,6 @@
             "presenter-live-session": "Takashi Yamakawa",
             "arxiv-id": "2103.11244"
         }
-
     },
     {
         "pid": 47,
@@ -624,7 +622,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620667979
+        "submitted_at": 1620667979,
+        "options": {
+            "presenter-live-session": "Andreas Bluhm",
+            "arxiv-id": "2104.06301"
+        }
     },
     {
         "pid": 52,
@@ -669,7 +671,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620679076
+        "submitted_at": 1620679076,
+        "options": {
+            "presenter-live-session": "Damián Pitalúa-García",
+            "arxiv-id": "2104.11717"
+        }
     },
     {
         "pid": 53,
@@ -767,7 +773,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620679609
+        "submitted_at": 1620679609,
+        "options": {
+            "presenter-live-session": "Matej Pivoluska",
+            "arxiv-id": "2011.03005"
+        }
     },
     {
         "pid": 60,
@@ -819,7 +829,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620701209
+        "submitted_at": 1620701209,
+        "options": {
+            "presenter-live-session": "Nick Spooner",
+            "arxiv-id": "2103.08140"
+        }
     },
     {
         "pid": 62,
@@ -1012,7 +1026,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620730454
+        "submitted_at": 1620730454,
+        "options": {
+            "presenter-live-session": "Alvaro Alarcon",
+            "arxiv-id": "2103.05018"
+        }
     },
     {
         "pid": 80,
@@ -1062,7 +1080,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620733127
+        "submitted_at": 1620733127,
+        "options": {
+            "presenter-live-session": "Taiga Hiroka"
+        }
     },
     {
         "pid": 89,
@@ -1138,7 +1159,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620742148
+        "submitted_at": 1620742148,
+        "options": {
+            "presenter-live-session": "Nitin Jain"
+        }
     },
     {
         "pid": 91,
@@ -1190,7 +1214,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620755790
+        "submitted_at": 1620755790,
+        "options": {
+            "presenter-live-session": "Francesco Mazzoncini",
+            "arxiv-id": "2010.07815"
+        }
     },
     {
         "pid": 106,
@@ -1256,7 +1284,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620754420
+        "submitted_at": 1620754420,
+        "options": {
+            "presenter-live-session": "Ernest Y.-Z. Tan",
+            "arxiv-id": "2012.08714"
+        }
     },
     {
         "pid": 109,
@@ -1324,7 +1356,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620819996
+        "submitted_at": 1620819996,
+        "options": {
+            "presenter-live-session": "Andrew Conrad"
+        }
     },
     {
         "pid": 114,
@@ -1388,7 +1423,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620761669
+        "submitted_at": 1620761669,
+        "options": {
+            "presenter-live-session": "Andreas Poppe"
+        }
     },
     {
         "pid": 118,
@@ -1439,7 +1477,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620762261
+        "submitted_at": 1620762261,
+        "options": {
+            "presenter-live-session": "Qipeng Liu",
+            "arxiv-id": "2107.05692"
+        }
     },
     {
         "pid": 120,
@@ -1488,7 +1530,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620764390
+        "submitted_at": 1620764390,
+        "options": {
+            "presenter-live-session": "Peter Brown",
+            "arxiv-id": "2106.13692"
+        }
     },
     {
         "pid": 121,
@@ -1555,7 +1601,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620820086
+        "submitted_at": 1620820086,
+        "options": {
+            "presenter-live-session": "Joseph Ho"
+        }
     },
     {
         "pid": 125,
@@ -1593,7 +1642,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620767253
+        "submitted_at": 1620767253,
+        "options": {
+            "presenter-live-session": "Frédéric Dupuis",
+            "arxiv-id": "2105.05342"
+        }
     },
     {
         "pid": 134,
@@ -1641,7 +1694,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620786518
+        "submitted_at": 1620786518,
+        "options": {
+            "presenter-live-session": "Christine Schuknecht",
+            "arxiv-id": "2107.11474"
+        }
     },
     {
         "pid": 138,
@@ -1693,7 +1750,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620802554
+        "submitted_at": 1620802554,
+        "options": {
+            "presenter-live-session": "James Bartusek",
+            "arxiv-id": "2011.11212"
+        }
     },
     {
         "pid": 141,
@@ -1751,7 +1812,11 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620804226
+        "submitted_at": 1620804226,
+        "options": {
+            "presenter-live-session": "Tony Metger",
+            "arxiv-id": "2001.09161"
+        }
     },
     {
         "pid": 154,
@@ -1823,7 +1888,10 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620818044
+        "submitted_at": 1620818044,
+        "options": {
+            "presenter-live-session": "Taofiq Paraiso"
+        }
     },
     {
         "pid": 159,
@@ -1870,6 +1938,9 @@
         "decision": "Accepted",
         "status": "rejected",
         "submitted": true,
-        "submitted_at": 1620819738
+        "submitted_at": 1620819738,
+        "options": {
+            "presenter-live-session": "Michael Kellner"
+        }
     }
 ]
