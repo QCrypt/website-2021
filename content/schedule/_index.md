@@ -3,7 +3,7 @@ title: Schedule
 horizontal: false
 menu:
   main:
-    weight: 20
+    weight: 21
 ---
 
 <center>
