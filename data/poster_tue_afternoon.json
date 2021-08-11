@@ -950,7 +950,6 @@
         "submitted": true,
         "submitted_at": 1625241985,
         "options": {
-            "name-main-presenter": "Quantum authentication tickets"
         }
     },
     {
@@ -1239,8 +1238,7 @@
         "submitted": true,
         "submitted_at": 1625615406,
         "options": {
-            "name-main-presenter": "Christopher Cheng",
-            "arxiv-id": "//cc1539.github.io/qkd-binning-demo-2/"
+            "name-main-presenter": "Christopher Cheng"
         }
     },
     {
