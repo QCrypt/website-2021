@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5d: Beyond QKD"
+title: "Contributed Talks 5d: Beyond QKD (Chair: Or Sattath)"
 format: contributed
 papers:
 - 80

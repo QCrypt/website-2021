@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2a: QKD"
+title: "Contributed Talks 2a: QKD (Chair: Andreas Poppe)"
 format: contributed
 papers:
 - 89

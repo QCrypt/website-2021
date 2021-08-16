@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2b: Device-independence"
+title: "Contributed Talks 2b: Device-independence (Chair: Roger Colbeck)"
 format: contributed
 papers:
 - 141

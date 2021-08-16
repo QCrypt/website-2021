@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1: Post-quantum"
+title: "Contributed Talks 1: Post-quantum (Chair: TBA)"
 format: contributed
 papers:
 - 16

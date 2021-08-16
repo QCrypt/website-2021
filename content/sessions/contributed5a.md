@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5a: Theory in multi-party interactions"
+title: "Contributed Talks 5a: Theory in multi-party interactions (Chair: Christian Majenz)"
 format: contributed
 papers:
 - 44

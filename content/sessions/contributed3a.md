@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 3a: QKD"
+title: "Contributed Talks 3a: QKD (Chair: Hugo Zbinden)"
 format: contributed
 papers:
 - 121

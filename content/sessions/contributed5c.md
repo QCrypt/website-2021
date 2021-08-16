@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5c: Photonic integration"
+title: "Contributed Talks 5c: Photonic integration (Chair: Moritz Kleinert)"
 format: contributed
 papers:
 - 154

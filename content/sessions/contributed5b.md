@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5b: QKD implementation"
+title: "Contributed Talks 5b: QKD implementation (Chair: TBA)"
 format: contributed
 papers:
 - 14
