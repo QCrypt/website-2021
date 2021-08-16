@@ -1459,38 +1459,6 @@
         }
     },
     {
-        "pid": 221,
-        "title": "New Quantum Source for satellite-based QKD.",
-        "abstract": "Canada has recently begun to work on the satellite-based QKD project, known as Quantum Encryption and Science Satellite (QEYSSat) mission. Its first satellite launch is expected in the year of 2023. As I am involved in this mission, I would like to introduce the new quantum source that is currently in the progress of development. The aim was to develop a quantum source for the entanglement-based QKD that can sufficiently overcome the current distance limits. By introducing some of the important criteria for building the source, I will explain what has been achieved, then how this in the end will take us one step further toward the future quantum network.",
-        "authors": [
-            {
-                "first": "Sungeun (Paul)",
-                "last": "Oh",
-                "affiliation": "University of Waterloo"
-            }
-        ],
-        "submission_type": "Poster only",
-        "extended_abstract": {
-            "mimetype": "application/pdf",
-            "hash": "sha2-89cc802534495ac52f9d27598d4965ea01293b3133158c6626bd71ae2c12d935",
-            "timestamp": 1625632958,
-            "size": 87275,
-            "filename": "SungEun_Oh_QCrypt.pdf"
-        },
-        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "Yes",
-        "topics": [
-            "Experiment",
-            "Quantum key distribution and secure communication"
-        ],
-        "decision": "Poster",
-        "status": "rejected",
-        "submitted": true,
-        "submitted_at": 1625632958,
-        "options": {
-            "name-main-presenter": "Sungeun Oh"
-        }
-    },
-    {
         "pid": 223,
         "title": "Towards a relationship between single photon nature and randomness",
         "abstract": "Quantum Random Number Generators (QRNGs)  are an integral part of cryptography. In this work, we exploit the relationship between the quality of randomness of discrete variable QRNGs(min-entropy(X)) and the quality of single photon source from SPDC sources (second-order correlation: g(2)(0)). This work provides another stitch between the two fields of information theory and quantum optics. We show the variation of the two parameters (min-entropy(X)) and b(=1- g(2)(0))  on various grounds, say, variation with orbital angular momentum (OAM) of the spatial mode, with time delay, etc. We propose a relationship between min-entropy(X) and g(2)(0) and also give a physical significance to min-entropy(X).",
