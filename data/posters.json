@@ -3381,60 +3381,6 @@
         "submitted_at": 1620788492
     },
     {
-        "pid": 136,
-        "title": "Security analysis of quantum key distribution with small block lengthand its application to quantum space communications",
-        "abstract": "The security of real-world quantum key distribution (QKD) critically depends on the number of data points the system can collect in a finite time interval. To date, state-of-the-art finite- key security analyses require block lengths in the order of 1E4 bits to obtain positive secret keys. This requirement, however, can be very difficult to achieve in practice, especially in the case of entanglement-based satellite QKD, where the overall channel loss can go up to 70 dB or more. Here, we provide an improved finite-key security analysis which reduces the block length requirement by 14% to 17% for standard channel and protocol settings. In practical terms, this reduction could save entanglement-based satellite QKD weeks of measurement time and resources, thereby bringing space-based QKD technology closer to reality. As an application, we use the improved analysis to show that the recently reported Micius QKD satellite is capable of generating positive secret keys with a 1E-5 security level.",
-        "authors": [
-            {
-                "first": "Charles Ci-Wen",
-                "last": "Lim",
-                "affiliation": "National University of Singapore"
-            },
-            {
-                "first": "Feihu",
-                "last": "Xu",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Jian-wei",
-                "last": "Pan",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Artur",
-                "last": "Ekert",
-                "affiliation": "National University of Singapore"
-            }
-        ],
-        "submission_type": "Talk or poster",
-        "extended_abstract": {
-            "mimetype": "application/pdf",
-            "hash": "sha2-7e33f82c0dc9bdbe73e51d7f921bdcedbc41932e8b6d8812cdcaad31ad6e2920",
-            "timestamp": 1620791639,
-            "size": 305320,
-            "filename": "Finite_key_EB_S_QKD_QCRYPT21_Sub.pdf"
-        },
-        "technical_paper": {
-            "mimetype": "application/pdf",
-            "hash": "sha2-b2c68b36419ee145c7ca07472b94ef13773fb51d695206a98b980b6ead407df1",
-            "timestamp": 1620791639,
-            "size": 392972,
-            "filename": "2009.04882.pdf"
-        },
-        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "No",
-        "topics": [
-            "Discrete-variable",
-            "Experiment",
-            "Quantum cryptography with information-theoretic security",
-            "Quantum key distribution and secure communication",
-            "Theory"
-        ],
-        "decision": "Poster",
-        "status": "rejected",
-        "submitted": true,
-        "submitted_at": 1620791639
-    },
-    {
         "pid": 137,
         "title": "A framework for efficient entanglement distribution with cavity QED systems",
         "abstract": "To demonstrate quantum protocols on a global scale, a quantum repeater is a vital technology to improve the efficiency of entanglement distribution. Entanglement distribution consists of two steps; share entanglements between neighboring quantum repeaters, and perform entanglement distillation and swapping. In this paper, we propose a framework for the first step, efficient Bell measurement between adjacent quantum repeaters, using quantum memories based on cavity quantum electrodynamics (QED) systems. Our framework maximizes a distillable entanglement rate of the protocol by optimizing the parameters of a cavity QED system and pulse length of photons according to the number of available memories at repeater nodes. We demonstrate our theory with a nanofiber cavity QED system with trapped atoms, which is one of the most promising quantum devices for the quantum network. We show that with practical parameters, Bell measurements with quantum memories can outperform those without memories, and we show several trade-off relations between accessible parameters in experiments. Our results extend the limits of entanglement distribution with quantum repeaters using available technology, and reveal that the multiplexing of the cavity QED systems is effective for improving the performance of entanglement distribution.",
