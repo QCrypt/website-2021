@@ -2925,7 +2925,7 @@
                 "affiliation": "University of Amsterdam, QuSoft"
             }
         ],
-        "submission_type": "Talk only",
+        "submission_type": "Talk or poster",
         "extended_abstract": {
             "mimetype": "application/pdf",
             "hash": "sha2-c9b2957c59981a85a146d3a21bb78d441b12093f19680334255e477be3ce0839",
@@ -3683,6 +3683,49 @@
         "status": "rejected",
         "submitted": true,
         "submitted_at": 1620811210
+    },
+    {
+        "pid": 150,
+        "title": "Dense-wavelength division multiplexing of quantum and classical communication over a deployed fiber link enabled by up-conversion assisted detectors",
+        "abstract": "The coexistence of classical and quantum communication within the same fiber optics infrastructure is still an open challenge to be solved. In fact, most of the practical implementations of quantum key distribution (QKD) are accomplished by taking advantage of dark fiber channels, i.e. fiber-optics links totally dedicated to the transmission of quantum signals. This prevents the intense classical light to affect the qubit error rate, but strongly reduces the possibilities for a full deployment of QKD technologies in large-scale and realistic applications. Looking for a solution several approaches have been tested, generally based on multiplexing of different degrees of freedom of photons. In our work we combined a dense-wavelength-division-multiplexing scheme with two different home-made single photon detection stages able to convert C-band photons into photons detectable by a silicon photon counter, by exploiting sum-frequency-generation process in nonlinear crystals. We compared the results with an off-the-shelf InGaAs single-photon detector, equipping it with polarization and wavelength filters, that was tested under the same experimental conditions. Injecting an intense light laser into a different DWDM channel to simulate a real-worl QKD scenario, we demonstrated that our up-conversion based detector makes QKD feasible with a classical launch power of 4 dB higher than the one affordable by the InGaAs detector. This result paves the way to the employment of quantum communication in many realistic situations, by enabling the usage of already existing telecom infrastructures, where the noise levels are not manageable by current single photon avalanche detectors.",
+        "authors": [
+            {
+                "first": "Ilaria",
+                "last": "Vagniluca",
+                "affiliation": "CNR - Istituto Nazionale di Ottica and University of Naples"
+            },
+            {
+                "first": "Domenico",
+                "last": "Ribezzo",
+                "affiliation": "CNR - Istituto Nazionale di Ottica and University of Naples"
+            },
+            {
+                "first": "Davide",
+                "last": "Bacco",
+                "affiliation": "Technical University of Denmark"
+            },
+            {
+                "first": "Alessandro",
+                "last": "Zavatta",
+                "affiliation": "CNR - Istituto Nazionale di Ottica"
+            }
+        ],
+        "submission_type": "Talk or poster",
+        "extended_abstract": {
+            "mimetype": "application\/pdf",
+            "hash": "sha2-1f36571f50526d60fbd8b56e3221e062cee2e2b03a83864624a535085fd0a0b1",
+            "timestamp": 1620811272,
+            "size": 307909,
+            "filename": "QCRYPT_2021_UC.pdf"
+        },
+        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "Yes",
+        "topics": [
+            "Discrete-variable",
+            "Experiment",
+            "Quantum key distribution and secure communication"
+        ],
+        "submitted": true,
+        "submitted_at": 1620811272
     },
     {
         "pid": 151,
