@@ -3280,6 +3280,56 @@
         "options": {}
     },
     {
+        "pid": 216,
+        "title": "Robust Interior Point Method for Quantum Key Distribution Rate Computation",
+        "abstract": "Security proof methods for quantum key distribution, QKD, that are based on the numerical key rate calculation problem, are powerful in principle. However, the practicality of the methods are limited by computational resources and the efficiency and accuracy of the underlying algorithms for convex optimization. We derive a stable reformulation of the convex nonlinear semidefinite programming, SDP, model for the key rate calculation problems. We use this to develop an efficient, accurate algorithm. The reformulation is based on novel forms of facial reduction, FR, for both the linear constraints and nonlinear relative entropy objective function. This allows for a Gauss-Newton type interior-point approach that avoids the need for perturbations to obtain strict feasibility, a technique currently used in the literature. The result is high accuracy solutions with theoretically proven lower bounds for the original QKD from the FR stable reformulation. This provides novel contributions for FR for general SDP. We report on empirical results that dramatically improve on speed and accuracy, as well as solving previously intractable problems.",
+        "authors": [
+            {
+                "first": "Hao",
+                "last": "Hu",
+                "affiliation": "Department of Combinatorics and Optimization, Faculty of Mathematics, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+            },
+            {
+                "first": "Jiyoung",
+                "last": "Im",
+                "affiliation": "Department of Combinatorics and Optimization, Faculty of Mathematics, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+            },
+            {
+                "first": "Jie",
+                "last": "Lin",
+                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+            },
+            {
+                "first": "Norbert",
+                "last": "Lütkenhaus",
+                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+            },
+            {
+                "first": "Henry",
+                "last": "Wolkowicz",
+                "affiliation": "Department of Combinatorics and Optimization, Faculty of Mathematics, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+            }
+        ],
+        "submission_type": "Poster only",
+        "extended_abstract": {
+            "mimetype": "application/pdf",
+            "hash": "sha2-979ed54a06e5595ed13691d522aa2b840a33e521f47a7da02d638a141296067a",
+            "timestamp": 1625612869,
+            "size": 146179,
+            "filename": "QCrypt_algorithm.pdf"
+        },
+        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "No",
+        "topics": [
+            "Quantum key distribution and secure communication",
+            "Theory"
+        ],
+        "decision": "Poster",
+        "status": "rejected",
+        "submitted": true,
+        "submitted_at": 1625613040,
+        "options": {}
+    },
+    {
         "pid": 217,
         "title": "Information Rates with Non Ideal Photon Detectors in Time-Entanglement Based QKD",
         "abstract": "We consider QKD based on time entangled photons, with detectors that exhibit timing jitter and detector downtime.  Timing jitter introduces local errors, necessitating key reconciliation. The detector downtime introduces memory which results in key bits that are not uniformly random. Both effects cause key rate loss. We focus on detector downtime and develop a method to compute the key rate loss.",
