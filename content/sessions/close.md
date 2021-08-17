@@ -1,5 +1,5 @@
 ---
-title: Closing
+title: Closing Remarks
 format: other
 speakers:
 - fehr

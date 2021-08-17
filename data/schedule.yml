@@ -114,3 +114,5 @@
       time: '16:30'
     - session: close
       time: '17:00'
+    - session: __endofday
+      time: '17:10'
