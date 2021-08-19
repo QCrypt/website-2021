@@ -160,7 +160,7 @@ Authors of accepted papers will also give a short (5-minute) live presentation d
 ### Instructions for Zoom webinar speakers (tutorial, invited, contributed)
 Note that all Zoom webinars streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference [YouTube channel](https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw).
 
-When preparing your slides, leave some room on the upper right corner for the image of yourself on the live stream. After your talk, please upload your slides to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W) so we can make them available from our website.
+When preparing your slides, leave some room on the upper right corner for the image of yourself on the live stream. 
 
 **Mind the time zones! Make sure that you have the right time for your presentation. All times on the schedule are [Amsterdam time (CEST)](https://www.timeanddate.com/worldclock/personal.html?cities=16,33,165,248,224,176,136&wch=3).**
 
@@ -173,7 +173,7 @@ The protocol for your presentation is as follows:
 - After all the presentations in a session are finished, the session chair will organize the Q&A.
 - When the session with your presentation is over, you are asked to directly go to the "Meet the Speakers" tab in the "Presentation area" of meetanyway.
 Participants may now join you in this lounge for further questions and discussions regarding your presentation.
-
+- **After your talk, please upload your slides to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W) so we can make them available from our website.** For contributed talks, set the file name of your slides to be ‘QCrypt2021TalkSlides’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2021TalkSlides012Smith.pdf).
 
 ### Instructions for authors of accepted posters
 Poster presenters are asked to [register](/registration) to the conference in order to receive all relevant information on accessing the different platforms used during the online conference.
