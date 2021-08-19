@@ -3765,66 +3765,6 @@
         "options": {}
     },
     {
-        "pid": 228,
-        "title": "Satellite-based QKD: Mission Design, Link-Budgets and Key-Rates",
-        "abstract": "Quantum Key Distribution (QKD) is a fast growing scientific as well as commercial field. Governments as well as private businesses seek for enhanced security solutions that can withstand future hacking attacks on classical cryptographic protocols. Today, there exists a vast amount of different QKD protocols that claim to offer “unconditional” security. However, looking in more detail many subtleties lead to different security levels, or in worst-case scenarios to no security at all. Thus, it is of upmost importance to appropriately select and design QKD protocols and networks. In this work (presented as a poster), we present and compare three different QKD protocols, concerning their security, key-rate performance, and applicability especially for satellite-based QKD networks. Our main results from this study are presented and we introduce the key requirements and the basic workflow of the design and optimization of a trusted-node based and free European QKD network. Finally, realistic satellite missions and their expected secure key rates in various situations are presented.",
-        "authors": [
-            {
-                "first": "Manuel",
-                "last": "Erhard",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            },
-            {
-                "first": "Armin",
-                "last": "Hochrainer",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            },
-            {
-                "first": "Johannes",
-                "last": "Handsteiner",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            },
-            {
-                "first": "Matthias",
-                "last": "Fink",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            },
-            {
-                "first": "Thomas",
-                "last": "Herbst",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            },
-            {
-                "first": "Henning",
-                "last": "Weier",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            },
-            {
-                "first": "Thomas",
-                "last": "Scheidl",
-                "affiliation": "Quantum Technology Laboratories GmbH"
-            }
-        ],
-        "submission_type": "Poster only",
-        "extended_abstract": {
-            "mimetype": "application/pdf",
-            "hash": "sha2-8757bc5f60aa30296ce112fd19c20087eaf82918c1660470f53b03c4002ba73b",
-            "timestamp": 1625657159,
-            "size": 562792,
-            "filename": "qcrypt21_poster_abstract_long.pdf"
-        },
-        "submission_eligible_student_paper_prize?_students_time_submission_will_present_work_qcrypt_further_significant_portion_work_must_have_done_by_said_students_including_contributions_key_ideas": "No",
-        "topics": [
-            "Discrete-variable",
-            "Quantum key distribution and secure communication"
-        ],
-        "decision": "Poster",
-        "status": "rejected",
-        "submitted": true,
-        "submitted_at": 1625657159,
-        "options": {}
-    },
-    {
         "pid": 229,
         "title": "Numerical Security Proof for Decoy-State BB84 and Measurement-Device-Independent QKD Resistant against Large Basis Misalignment",
         "abstract": "In this work, we incorporate decoy-state analysis into a well-established numerical framework for key rate calculation, and apply the numerical framework to decoy-state BB84 and measurement-device-independent (MDI) QKD protocols as examples. Additionally, we make use of \"fine-grain statistics\", a variation of existing QKD protocols to make use of originally discarded data and get better key rate. We show that such variations can grant protocols resilience against any unknown and slowly changing rotation along one axis, similar to reference-frame-independent QKD, but without the need for encoding physically in an additional rotation-invariant basis. Such an analysis can easily be applied to existing systems, or even data already recorded in previous experiments, to gain significantly higher key rate when considerable misalignment is present, extending the maximum distance for BB84 and MDI-QKD and reducing the need for manual alignment in an experiment.",
