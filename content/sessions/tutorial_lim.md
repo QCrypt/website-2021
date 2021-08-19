@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Security analysis of practical QKD (Chair: TBA)"
+title: "Tutorial: Security analysis of practical QKD (Chair: Eleni Diamanti)"
 format: tutorial
 speakers:
   - lim

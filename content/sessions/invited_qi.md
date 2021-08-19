@@ -1,5 +1,5 @@
 ---
-title: "Invited: Discrete-variable quantum key distribution using conjugate homodyne detection (Chair: TBA)"
+title: "Invited: Discrete-variable quantum key distribution using conjugate homodyne detection (Chair: Thomas van Himbeeck)"
 format: invited
 speakers:
   - qi

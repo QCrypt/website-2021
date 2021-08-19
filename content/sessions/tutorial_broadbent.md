@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Quantum Uncloneability (Chair: TBA)"
+title: "Tutorial: Quantum Uncloneability (Chair: Gorjan Alagic)"
 format: tutorial
 speakers:
   - broadbent
