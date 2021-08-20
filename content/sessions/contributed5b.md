@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5b: QKD implementation (Chair: TBA)"
+title: "Contributed Talks 5b: QKD implementation (Chair: Rupesh Kumar)"
 format: contributed
 papers:
 - 14
