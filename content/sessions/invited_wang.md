@@ -1,5 +1,5 @@
 ---
-title: "Invited: Practical long distance twin-field quantum key distribution through sending-or-not-sending (Chair: TBA)"
+title: "Invited: Practical long distance twin-field quantum key distribution through sending-or-not-sending (Chair: Norbert Lütkenhaus)"
 format: invited
 speakers:
   - wang

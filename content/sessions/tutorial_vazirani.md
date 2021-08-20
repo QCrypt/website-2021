@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Vazirani: Classical proofs of quantumness (Chair: TBA)"
+title: "Tutorial Vazirani: Classical proofs of quantumness (Chair: Gorjan Alagic)"
 format: tutorial
 speakers:
   - vazirani
@@ -12,7 +12,7 @@ functions to build a qubit certification test, which allows a classical verifier
 quantum computer's Hilbert space, and enforce a qubit structure in it. I will discuss how this
 leads to protocols for proofs of quantumness, certified randomness and verification of
 quantum computations. I will also describe refinements of these techniques for improving
-the efficiency of the protocols. 
+the efficiency of the protocols.
 
 <!-- fields to use above: -->
 <!-- videoId: "Vfl9pPh6ipI" -->

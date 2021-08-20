@@ -1,5 +1,5 @@
 ---
-title: "Invited: Quantum Oblivious Transfer from One-way Functions (Chair: TBA)"
+title: "Invited: Quantum Oblivious Transfer from One-way Functions (Chair: Frédéric Dupuis)"
 format: invited
 speakers:
   - khurana
