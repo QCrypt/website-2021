@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: There's Plenty of Room.. out in Space for QKD! (Chair: TBA)"
+title: "Tutorial: There's Plenty of Room.. out in Space for QKD! (Chair: Tobias Gehring)"
 format: tutorial
 speakers:
   - villoresi
