@@ -1,5 +1,5 @@
 ---
-title: "Invited: Security Proofs for QKD Protocols in Infinite Dimensions (Chair: TBA)"
+title: "Invited: Security Proofs for QKD Protocols in Infinite Dimensions (Chair: Anthony Leverrier)"
 format: invited
 speakers:
   - upadhyaya

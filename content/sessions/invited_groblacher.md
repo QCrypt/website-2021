@@ -1,5 +1,5 @@
 ---
-title: "Invited: An optomechanical quantum memory (Chair: TBA)"
+title: "Invited: An optomechanical quantum memory (Chair: Xiao-Hui Bao)"
 format: invited
 speakers:
   - groblacher
