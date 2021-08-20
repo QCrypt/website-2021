@@ -21,11 +21,11 @@ From Monday, 23 August to Friday, 27 August 2021,
 All partipants of QCrypt 2021 are bound to the [code of conduct](/code-of-conduct-online) which in particular states that they have to represent themselves by the full name that they use for their professional work. Violations of the code of conduct should be reported as [indicated here](/code-of-conduct-online).
 
 ### Tutorial talks, Invited talks
-The tutorial and invited talks are given live on a Zoom webinar, which can be directly accessed from the meetanyway platform, and simultaneously streamed to YouTube. Webinar participants can ask questions via Slack. The speaker will answer the most important questions after the talk on Zoom. After each session, the speaker is moving over to the “Meet the Speakers” tab in the “Presentation area” of meetanyway and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
+The tutorial and invited talks are given live on a Zoom webinar, which can be directly accessed from the meetanyway platform, and simultaneously streamed to YouTube. Webinar participants can ask questions via Slack. The speaker will answer the most important questions after the talk on Zoom. After each session, the speaker is moving over to the “Meet the Speakers” tab in the “Presentation area” of [meetanyway](participate/#meet-the-speakers) and will be available there to answer more individual questions (as it is usually the case at real-life conferences). The tutorial and invited talks are recorded and will be made available on the YouTube channel for offline watching.
 
 ### Contributed talks
 The [list of accepted papers](/speakers) is here. After making a 20-25 minute video of their talks available before the conference, the live "online" part of presenting contributed articles is divided into thematic sessions. In each session, 3 to 4 contributed articles will be presented by means of a 5 minute talk each, followed by a panel discussion involving the speakers of the session and moderated by some members of the program committee.
-After each session, the speakers are moving over to the “Meet the Speakers” tab in the “Presentation area” of meetanyway and will be available there to answer more individual questions.
+After each session, the speakers are moving over to the “Meet the Speakers” tab in the “Presentation area” of [meetanyway](participate/#meet-the-speakers) and will be available there to answer more individual questions.
 
 ### Schedule
 The {{< button-link label="conference schedule" url="/schedule" icon="link">}} is now available.
@@ -79,7 +79,7 @@ The protocol for your presentation is as follows:
 - Once the webinar is live and the session chair has introduced you and given you the floor, you give your presentation. Ignore chat messages that may pop up during the presentation; the session chair will deal with those.
 - All panelists currently not presenting can leave on their cameras, but should mute themselves.
 - After all the presentations in a session are finished, the session chair will organize the Q&A.
-- When the session with your presentation is over, you are asked to directly go to the "Meet the Speakers" tab in the "Presentation area" of meetanyway.
+- When the session with your presentation is over, you are asked to directly go to the "Meet the Speakers" tab in the "Presentation area" of [meetanyway](participate/#meet-the-speakers).
 Participants may now join you in this lounge for further questions and discussions regarding your presentation.
 - **After your talk, please upload your slides to [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W) so we can make them available from our website.** For contributed talks, set the file name of your slides to be ‘QCrypt2021TalkSlides’ followed by the three-digit submission number (suitably padded with leading 0s) followed by the last name of the presenting author (e.g. QCrypt2021TalkSlides012Smith.pdf).
 
@@ -99,7 +99,7 @@ Poster presenters are asked to [register](/registration) to the conference in or
 <!-- 5. During poster session: {{< button-link icon="direction" label="PDF instructions for poster presenters" url="/pdf/QCrypt2021_posterpresenters_instructions.pdf" target="_blank" >}} -->
 
 The protocol for your poster presentation is as follows:
-* 5 minutes before the start of the poster session that features your poster, go to the Poster Session area of meetanyway.
+* 5 minutes before the start of the poster session that features your poster, go to the Poster Session area of [meetanyway](/participate/#poster-sessions).
 * Look for the tab containing your submission number.
 * Make sure your microphone and camera are on.
 * You are now ready to receive the participants at your poster.
@@ -133,7 +133,7 @@ The protocol for your session chairing is as follows:
         * **If necessary, try to get a bit of a discussion going by asking questions yourself.**
     * Make sure to stay within the allotted time slot.
     * Thank the speaker(s) at the end of the session.
-    * Announce that the speaker(s) will be available for further questions in the “Meet the Speakers” tab in the “Presentation area” of meetanyway (if this is indeed the case).
+    * Announce that the speaker(s) will be available for further questions in the “Meet the Speakers” tab in the “Presentation area” of [meetanyway](participate/#meet-the-speakers) (if this is indeed the case).
 
 
 ## Follow us on Twitter
