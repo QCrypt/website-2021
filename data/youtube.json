@@ -148,5 +148,11 @@
     "title": "A Black-Box Approach to Post-Quantum Zero-Knowledge in Constant Rounds",
     "id": "9MVprxThb8U",
     "presenter": "Takashi Yamakawa"
+  },
+  {
+    "pid": 121,
+    "title": "Quantum conference key agreement using photonic graph state",
+    "id": "gctqXPlu-54",
+    "presenter": "Joseph Ho"
   }
 ]
