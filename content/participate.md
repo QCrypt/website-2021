@@ -21,9 +21,8 @@ The QCrypt space is browser based; it is recommended to use Chrome, though Firef
 
 
 ### Accessing the QCrypt Space
-In order to access the QCrypt space, go to https://meetanyway.com/events/qcrypt2021/
-{{< button-link label="link" url="https://meetanyway.com/events/qcrypt2021/" icon="link" target="_blank">}}
- in  your browser. The site you encounter should look like this:
+In order to access the QCrypt space, go to <a href="https://meetanyway.com/events/qcrypt2021/" target="_blank">https://meetanyway.com/events/qcrypt2021/</a>
+in  your browser. The site you encounter should look like this:
 
 <img src="/images/instructions/welcome.png" alt="welcome" title="welcome" style="width:85%;height:auto;" />
 
@@ -54,7 +53,7 @@ In the break after each presentation (or block of presentations in case of contr
 ### Poster sessions
 During the two dedicated poster sessions, poster presenters are available to discuss their poster contributions. Click on ‘Poster Session’ in the menu to enter the poster session area. Here, all the posters are available for viewing (during the entire week), distributed over different tabs. In order to view a poster, click on the corresponding ‘OPEN’ button. In order to talk to the poster presenter (when available), click on ‘JOIN’ to enter the corresponding poster lounge and meet up with the presenter.
 
-Visit https://2021.qcrypt.ne/speakers/#list-of-accepted-posters to see a list of all the accepted posters. The list of posters being presented during Poster Session 1 (Tuesday afternoon) is available here: https://2021.qcrypt.net/sessions/poster1/, and the list of posters being presented during Poster Session 2 (Thursday morning) is available here: https://2021.qcrypt.net/sessions/poster2/.
+Visit https://2021.qcrypt.net/speakers/#list-of-accepted-posters to see a list of all the accepted posters. The list of posters being presented during Poster Session 1 (Tuesday afternoon) is available here: https://2021.qcrypt.net/sessions/poster1/, and the list of posters being presented during Poster Session 2 (Thursday morning) is available here: https://2021.qcrypt.net/sessions/poster2/.
 
 <img src="/images/instructions/poster.png" alt="poster" title="poster" style="width:85%;height:auto;" />
 
@@ -67,7 +66,7 @@ You are welcome at any time to have a look at the sponsor exhibition, which is c
 The Zoom Webinar is streamed live to YouTube, and recordings of all talks are available on the QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos . You can already find the pre-recorded videos of the contributed talks on the channel.
 
 ### The Slack Workspace
-The QCrypt Slack workspace enables interaction that is not restricted to the time of the day when the conference is actively running. For instance, participants that were not able to be present at the live presentation and Q&A can this way still ask questions about a presentation. Or, use the Slack private chat to agree on a time and place to meet on the meetanyway platform. Use the link from the invitation email to subscribe to the QCrypt 2021 Slack channel.
+The QCrypt Slack workspace enables interaction that is not restricted to the time of the day when the conference is actively running. For instance, participants that were not able to be present at the live presentation and Q&A can this way still ask questions about a presentation. Or, use the Slack private chat to agree on a time and place to meet on the meetanyway platform. Use the link from the email with the participation links to subscribe to the QCrypt 2021 Slack channel.
 
 
 ### Networking
