@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1: Post-quantum (Chair: TBA)"
+title: "Contributed Talks 1: Post-quantum (Chair: Carl Miller)"
 format: contributed
 papers:
 - 16

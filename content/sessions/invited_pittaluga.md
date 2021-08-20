@@ -1,5 +1,5 @@
 ---
-title: "Invited: Experimental repeater-like quantum communications over 600 km of optical fibre with dual-band phase stabilisation (Chair: TBA)"
+title: "Invited: Experimental repeater-like quantum communications over 600 km of optical fibre with dual-band phase stabilisation (Chair: Marcos Curty)"
 format: invited
 speakers:
   - pittaluga
