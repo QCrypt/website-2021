@@ -38,6 +38,9 @@ Click on a speaker's name to read their bio.
 ## List of Accepted Posters
 (in order of submission)
 
+Download a {{< button-link label="zip-archive" url="https://surfdrive.surf.nl/files/index.php/s/fdA5dzPllmwnOBn/download" icon="tar" target="_blank">}} of all posters.
+
+
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
 
