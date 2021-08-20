@@ -140,4 +140,4 @@ The protocol for your session chairing is as follows:
 {{< button-link label="Follow us on Twitter" url="https://twitter.com/QCryptc" icon="twitter" target="_blank">}} and tweet about QCrypt 2021 using the hashtag #qcrypt2021 .
 
 ## Questions
-If you have quetions, you can ask them on the #helpdesk channel on Slack, or email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}
+If you have questions, you can ask them on the #helpdesk channel on Slack, or email to {{< button-link label="helpdesk2021@qcrypt.net" url="mailto:helpdesk2021@qcrypt.net" icon="email" >}}
