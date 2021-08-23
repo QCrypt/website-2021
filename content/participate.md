@@ -19,6 +19,8 @@ All QCrypt 2021 events (talks, poster sessions etc.) can be accessed via a brows
 ### System requirements
 The QCrypt space is browser based; it is recommended to use Chrome, though Firefox and Safari should work as well (possibly with some minor bugs). The presentations take place as a Zoom webinar (which can be accessed directly from the QCrypt space), but can also be viewed within the browser (see below). <a href="https://zoom.us/download" target="_blank">Updating your local Zoom client</a> to the latest version is generally advised. Needless to say that a sufficiently fast and stable internet connection is necessary.
 
+### Access from China
+We asked the meetanyway support about users not being able to connect from China, with the following answer: *Since we are using Google services that might be blocked in China, we recommend using VPN (we recommend <a href="https://cordcloud.biz/" target="_blank">https://cordcloud.biz/</a> ).*
 
 ### Accessing the QCrypt Space
 In order to access the QCrypt space, go to <a href="https://meetanyway.com/events/qcrypt2021/" target="_blank">https://meetanyway.com/events/qcrypt2021/</a>
