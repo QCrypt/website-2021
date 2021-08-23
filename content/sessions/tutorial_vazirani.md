@@ -3,7 +3,7 @@ title: "Tutorial Vazirani: Classical proofs of quantumness (Chair: Gorjan Alagic
 format: tutorial
 speakers:
   - vazirani
-videoId: null
+videoId: "7GnEUiQcjNU"
 presentation: null
 draft: false
 ---
