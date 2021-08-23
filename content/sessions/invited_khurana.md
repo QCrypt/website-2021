@@ -3,7 +3,7 @@ title: "Invited: Quantum Oblivious Transfer from One-way Functions (Chair: Fréd
 format: invited
 speakers:
   - khurana
-videoId: null
+videoId: "ZcdM-Rk62UU"
 presentation: null
 draft: false
 ---
