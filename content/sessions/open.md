@@ -5,7 +5,7 @@ speakers:
 - fehr
 - schaffner
 videoId: "ZcdM-Rk62UU"
-presentation: null
+presentation: "/slides/OpeningSlides.pdf"
 draft: false
 ---
 Welcome everybody!
