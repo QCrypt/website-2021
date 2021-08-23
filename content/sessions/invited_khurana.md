@@ -4,6 +4,7 @@ format: invited
 speakers:
   - khurana
 videoId: "ZcdM-Rk62UU"
+videoTime: 895
 presentation: null
 draft: false
 ---
