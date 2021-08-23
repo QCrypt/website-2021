@@ -3,7 +3,7 @@ title: "Invited: An optomechanical quantum memory (Chair: Xiao-Hui Bao)"
 format: invited
 speakers:
   - groblacher
-videoId: null
+videoId: 7kF6G8UyJhg
 presentation: null
 draft: false
 ---
