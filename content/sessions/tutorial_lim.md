@@ -3,7 +3,7 @@ title: "Tutorial: Security analysis of practical QKD (Chair: Eleni Diamanti)"
 format: tutorial
 speakers:
   - lim
-videoId: null
+videoId: 49KK9gCBt78
 presentation: null
 draft: false
 ---

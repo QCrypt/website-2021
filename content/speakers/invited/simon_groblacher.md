@@ -1,7 +1,7 @@
 ---
 key: groblacher
-name: Simon Groblacher
-surname: Groblacher
+name: Simon Gröblacher
+surname: Gröblacher
 company: Delft University of Technology
 photoURL: /images/speakers/Simon_Groblacher.jpg
 type: invited
