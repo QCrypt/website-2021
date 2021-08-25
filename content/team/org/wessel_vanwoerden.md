@@ -2,7 +2,7 @@
 title: Wessel van Woerden
 surname: Woerden
 type: org
-subtitle: CWI
+subtitle: CWI Cryptology Group
 job: support
 photo: wessel_vanwoerden.jpg
 socials:

@@ -2,7 +2,7 @@
 title: Mehrdad Tahmasbi
 surname: Tahmasbi
 type: org
-subtitle: University of Amsterdam, QuSoft
+subtitle: CWI, QuSoft
 job: support
 photo: mehrdad_tahmasbi.png
 socials:
