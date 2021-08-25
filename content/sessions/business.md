@@ -6,7 +6,16 @@ presentation: null
 draft: false
 ---
 
-<!-- ## Program
+## Program
+* 2021 Local organizers report: Christian Schaffner & Serge Fehr (10 mins)
+* 2021 PC report: Carl Miller & Tobias Gehring (10 mins)
+* QCrypt 2022: local organizers (5 mins)
+* QCrypt 2023 solicitation of proposals: Gorjan Alagic (< 5 mins)
+* Questions/discussions? (5+ mins)
+* 2021 Best Student Paper Prize: Carl Miller & Tobias Gehring (10 mins)
+
+<!--
+
 (5 min) Qiang Zhang, SC chair: Summary of SC activitiesfrom Oct 2019 – Aug 2020
 {{< button-link label="SC slides" url="/slides/BusinessQCrypt2020.pptx" icon="link" target="_blank">}}
 
@@ -36,4 +45,4 @@ Congratulations to **Jiayu Zhang** for *Succinct Blind Quantum Computation Using
 Congratulations to **Fabian Beutel** for *Broadband Detector-Integrated On-Chip
 QKD Receiver for GHz Clock Rates* with co-authors Helge Gehring, Martin A. Wolff, Carsten Schuck, Wolfram Pernice
 
-{{< button-link label="award" url="/slides/beststpaper2.pdf" icon="link">}} -->
+{{< button-link label="award" url="/slides/beststpaper2.pdf" icon="link">}}
