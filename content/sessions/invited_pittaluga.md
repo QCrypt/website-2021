@@ -3,7 +3,7 @@ title: "Invited: Experimental repeater-like quantum communications over 600 km o
 format: invited
 speakers:
   - pittaluga
-videoId: null
+videoId: 9Xg1PcITWR8
 presentation: null
 draft: false
 ---
