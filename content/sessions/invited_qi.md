@@ -3,7 +3,7 @@ title: "Invited: Discrete-variable quantum key distribution using conjugate homo
 format: invited
 speakers:
   - qi
-videoId: null
+videoId: joaiWbqUDms
 presentation: null
 draft: false
 ---
