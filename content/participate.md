@@ -21,6 +21,7 @@ The QCrypt space is browser based; it is recommended to use Chrome, though Firef
 
 ### Access from China
 We asked the meetanyway support about users not being able to connect from China, with the following answer: *Since we are using Google services that might be blocked in China, we recommend using VPN (we recommend <a href="https://cordcloud.biz/" target="_blank">https://cordcloud.biz/</a> ).*
+Pre-recorded, invited and tutorial talks, posters, and slides can be downloaded from [SurfDrive](https://surfdrive.surf.nl/files/index.php/s/GVXUIIThzcWkd9W).
 
 ### Accessing the QCrypt Space
 In order to access the QCrypt space, go to <a href="https://meetanyway.com/events/qcrypt2021/" target="_blank">https://meetanyway.com/events/qcrypt2021/</a>

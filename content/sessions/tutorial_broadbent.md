@@ -3,7 +3,7 @@ title: "Tutorial: Quantum Uncloneability (Chair: Gorjan Alagic)"
 format: tutorial
 speakers:
   - broadbent
-videoId: null
+videoId: VWUBypgLW0A
 presentation: null
 draft: false
 ---
