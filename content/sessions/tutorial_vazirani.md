@@ -4,7 +4,7 @@ format: tutorial
 speakers:
   - vazirani
 videoId: "YHOm4dZOE2s"
-presentation: null
+presentation: "/slides/QCrypt2021TutorialVazirani.pdf"
 draft: false
 ---
 Abstract: In this tutorial I will explain the fundamental principles behind the use of trapdoor claw-free
