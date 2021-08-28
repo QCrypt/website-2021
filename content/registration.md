@@ -3,9 +3,7 @@ title: Registration
 
 draft: false
 type: text_page
-menu:
-    main:
-        weight: 20
+
 
 ---
 

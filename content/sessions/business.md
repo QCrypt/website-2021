@@ -1,7 +1,7 @@
 ---
 title: 'Business Meeting & Best Student Paper Prize'
 format: other
-videoId: DpxAfo66nlc
+videoId: "DpxAfo66nlc"
 presentation: "/slides/business-meeting.pdf"
 draft: false
 ---
@@ -14,35 +14,18 @@ draft: false
 * Questions/discussions? (5+ mins)
 * 2021 Best Student Paper Prize: Carl Miller & Tobias Gehring (10 mins)
 
-<!--
-
-(5 min) Qiang Zhang, SC chair: Summary of SC activitiesfrom Oct 2019 – Aug 2020
-{{< button-link label="SC slides" url="/slides/BusinessQCrypt2020.pptx" icon="link" target="_blank">}}
-
-(5 min) Fred Dupuis, PC chair: # submissions, acceptance rate, PC members
-{{< button-link label="PC slides" url="/slides/slides-pc.pdf" icon="link" target="_blank">}}
-
-(5 min) Christian Schaffner, Local chair: # participants, stats
-{{< button-link label="2020" url="/slides/LocalChairQCrypt2020.pdf" icon="link" target="_blank">}}
-
-(5 min) Serge Fehr, Future chair: preview of QCrypt 2021
-{{< button-link label="2021" url="/slides/QCrypt2021.pdf" icon="link" target="_blank">}}
-
-(15 min) Open Discussion
-
-Around 15:05: Best Student Paper Award
+{{< button-link label="all slides" url="/slides/business-meeting.pdf" icon="link" target="_blank">}}
 
 ## Best Student Paper Awards
-{{< button-link label="Award slides" url="/slides/award-ceremony.pptx" icon="link" target="_blank">}}
+{{< button-link label="Award slides" url="/slides/QCRYPT21StudentAwards.pdf" icon="link" target="_blank">}}
 
 ### Theory
-Congratulations to **Jiayu Zhang** for *Succinct Blind Quantum Computation Using a Random Oracle*
+Congratulations to **Tony Metger** for *Device-independent protocols from computational assumptions* with co-authors Yfke Dulek; Andrea Coladangelo; Rotem Arnon-Friedman; Thomas Vidick
 
-{{< button-link label="award" url="/slides/beststpaper1.pdf" icon="link">}}
+{{< button-link label="award" url="/images/awards/BestPaperQ21_Theory.png" icon="link">}}
 
 
 ### Experiment
-Congratulations to **Fabian Beutel** for *Broadband Detector-Integrated On-Chip
-QKD Receiver for GHz Clock Rates* with co-authors Helge Gehring, Martin A. Wolff, Carsten Schuck, Wolfram Pernice
+Congratulations to **Likang Zhang** for *High-rate quantum key distribution with silicon photonics* with co-authors Wei Li; Hao Tan; Yan-Lin Tang; Kejin Wei; Sheng-Kai Liao; Cheng-Zhi Peng; Feihu Xu; Jian-Wei Pan
 
-{{< button-link label="award" url="/slides/beststpaper2.pdf" icon="link">}}
+{{< button-link label="award" url="/images/awards/BestPaperQ21_Experimental.png" icon="link">}}

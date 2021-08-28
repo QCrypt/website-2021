@@ -12,7 +12,7 @@ menu:
 
 ### 2021: online conference
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="/schedule/">See schedule</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
 
 <!--
 <a class="btn primary btn-lg" href="/schedule">
@@ -38,7 +38,7 @@ menu:
  -->
 
 <!-- INFO -->
-{{% home-info what="Participants:>800,Tutorials:4,Invited Talks:6,Contributed Talks:29" class="primary" %}}
+{{% home-info what="Registrants:>1000,Tutorials:4,Invited Talks:6,Contributed Talks:29" class="primary" %}}
 
 ## What is QCrypt 2021?
 
