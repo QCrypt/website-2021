@@ -2,7 +2,7 @@
 title: 'Business Meeting & Best Student Paper Prize'
 format: other
 videoId: DpxAfo66nlc
-presentation: null
+presentation: "/slides/business-meeting.pdf"
 draft: false
 ---
 
