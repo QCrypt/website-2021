@@ -27,8 +27,8 @@ In some years, there are two winners selected, one in theory, one in experiment.
 |2019 Montreal | theory | Jan Czajkowski | Quantum lazy sampling and game-playing proofs for quantum indifferentiability
 |2020 Amsterdam | theory | Jiayu Zhang | Succinct Blind Quantum Computation Using a Random Oracle | https://www.youtube.com/watch?v=xqyOrRyXGPk
 |2020 Amsterdam | experiment | Fabian Beutel | Broadband Detector-Integrated On-Chip QKD Receiver for GHz Clock Rates | https://www.youtube.com/watch?v=88FqydYnnlg
-|2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  https://www.youtube.com/watch?v=MFyicCNBmeg
 |2021 Amsterdam | theory | Tony Metger | Device-independent protocols from computational assumptions | https://www.youtube.com/watch?v=HcX6OPHYrVY
+|2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  https://www.youtube.com/watch?v=MFyicCNBmeg
 
 
 ## Best Poster Awards
