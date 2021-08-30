@@ -15,4 +15,4 @@ draft: false
 
 <img src="/images/wiesner-sm.jpg" alt="Stephen Wiesner" title="Stephen Wiesner" style="width:40%;height:auto;" />
 
-Photo credit: Lev Vaidman, from https://www.scottaaronson.com/blog/?p=5730
+Photo credit: Lev Vaidman, from https://quantum.tau.ac.il/Obituary-Stephen-Wiesner and https://www.scottaaronson.com/blog/?p=5730
