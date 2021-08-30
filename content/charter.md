@@ -69,20 +69,20 @@ The PC may select a number of eligible submissions for a shortlist. The final de
 
 QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial members of its steering committee were instrumental in its early development. The members of the steering committee continue to give their time to provide an excellent conference for the community.
 
-### PC Chairs
-|Edition |PC chair| PC co-chair
+### PC Chairs & Local Organizers
+|Edition |PC chair| PC co-chair | Local organizer chair(s)
 |:----|:---|:---|:---|
-|2011 Zürich | Matthias Christandl
-|2012 Singapore | Patrick Hayden
-|2013 Waterloo | Ivan Damgård
-|2014 Paris | Norbert Lütkenhaus | Gregor Weihs
-|2015 Tokyo | Renato Renner | Richard Hughes
-|2016 Washington | Matthias Christandl | Hugo Zbinden
-|2017 Cambridge | Thomas Vidick | Paolo Villaresi
-|2018 Shanghai | Roger Colbeck | Christoph Marquardt
-|2019 Montréal | Anthony Leverrier | Eleni Diamanti
-|2020 Amsterdam | Frédéric Dupuis | Feihu Xu
-|2021 Amsterdam | Carl Miller | Tobias Gehring
+|2011 Zürich | Matthias Christandl | | Matthias Christandl
+|2012 Singapore | Patrick Hayden | | Stephanie Wehner
+|2013 Waterloo | Ivan Damgård | | Vadim Makarov
+|2014 Paris | Norbert Lütkenhaus | Gregor Weihs | Eleni Diamanti
+|2015 Tokyo | Renato Renner | Richard Hughes | Masahiro Takeoka
+|2016 Washington | Matthias Christandl | Hugo Zbinden | Yi-Kai Liu
+|2017 Cambridge | Thomas Vidick | Paolo Villaresi | Richard Peny, Adrian Wonford
+|2018 Shanghai | Roger Colbeck | Christoph Marquardt | Qiang Zhang
+|2019 Montréal | Anthony Leverrier | Eleni Diamanti | Gilles Brassard, Claude Crépeau, Sébastian Gambs, Louis Salvail
+|2020 Amsterdam | Frédéric Dupuis | Feihu Xu | Serge Fehr, Christian Schaffner
+|2021 Amsterdam | Carl Miller | Tobias Gehring | Serge Fehr, Christian Schaffner
 
 
 ### Steering Committees
