@@ -51,6 +51,25 @@ The role of the program committee (PC) is to select the contributed talks. The P
 Talks are reviewed and selected based on scientific excellence. The two PC chairs make final a selection from the scientifically excellent talks to create a balanced and interesting program, encouraging broad participation and representation of topics in QCRYPT.
 
 
+
+## Advisory committee
+
+The advisory committee (AC) advises the SC on the long-term direction of the conference series. The AC has at most 10 members covering a broad range of geographical locations and scientific expertise. The advisory committee is regularly informed by the SC about the progress of the conference organization and gives input on future decisions, for instance on invited speakers and sponsorship contributed talks. AC members can be invited speakers, and are allowed to submit and present contributed papers.
+
+
+
+## Student paper prize
+
+Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission and will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. Eligibility can only be indicated at the time of submission. In very exceptional cases, including but not limited to parental leave or visa denial, a submission may still be considered eligible even if it is not presented by the/a student. Such exceptions must be approved by the PC chairs before the start of the conference. The student(s) are responsible for notifying all authors that the paper was nominated for the student prize, and all authors have 14 days following submission to voice any disagreements about the paper’s nomination to the PC chair. The PC chair is free to ask for any clarifications regarding the students’ contributions at any time.
+
+The PC may select a number of eligible submissions for a shortlist. The final decision will be made in discussion with the SC, and the prize will be announced and awarded during the conference.
+
+
+## History of QCRYPT
+
+QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial members of its steering committee were instrumental in its early development. The members of the steering committee continue to give their time to provide an excellent conference for the community.
+
+### PC Chairs
 |Edition |PC chair| PC co-chair
 |:----|:---|:---|:---|
 |2011 Zürich | Matthias Christandl
@@ -66,19 +85,23 @@ Talks are reviewed and selected based on scientific excellence. The two PC chair
 |2021 Amsterdam | Carl Miller | Tobias Gehring
 
 
+### Steering Committees
 
-## Advisory committee
+| | | |
+|----:|:---|:---|
+|2011 | ETH Zurich | Matthias Christandl (chair), Roger Colbeck, Michele Mosca, Renato Renner, Louis Salvail, Wolfgang Tittel, Stephanie Wehner
+|2012 | CQT Singapore | Matthias Christandl, Roger Colbeck, Michele Mosca, Renato Renner, Louis Salvail, Wolfgang Tittel, Stephanie Wehner (chair)
+|2013 | IQC Waterloo | Matthias Christandl, Roger Colbeck, Michele Mosca (chair), Louis Salvail, Masahide Sasaki, Wolfgang Tittel, Stephanie Wehner
+|2014 | Paris | Matthias Christandl, Roger Colbeck, Eleni Diamanti (chair), Michele Mosca, Louis Salvail, Masahide Sasaki, Wolfgang Tittel, Stephanie Wehner
+|2015 | Tokyo | Matthias Christandl, Roger Colbeck, Eleni Diamanti, Norbert Lütkenhaus, Masahide Sasaki (chair), Christian Schaffner, Wolfgang Tittel , Stephanie Wehner
+|2016 |Washington DC | Eleni Diamanti, Yi-Kai Liu (chair), Norbert Lütkenhaus, Masahide Sasaki, Christian Schaffner, Wolfgang Tittel , Stephanie Wehner
+|2017 |Cambridge | Anne Broadbent, Marcos Curty, Eleni Diamanti, Yi-Kai Liu, Norbert Lütkenhaus, Masahide Sasaki, Christian Schaffner (chair), Qiang Zhang
+|2018 |Shanghai | Anne Broadbent, Marcos Curty, Yi-Kai Liu, Norbert Lütkenhaus, Christian Schaffner, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
+|2019 |Montreal | Anne Broadbent, Marcos Curty (chair), Serge Fehr, Yi-Kai Liu, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang
+|2020 |online from Amsterdam | Gorjan Alagic, Marcos Curty, Serge Fehr, Stacey Jeffery, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
+|2021 |online from Amsterdam | Gorjan Alagic, Marco Lucamarini, Serge Fehr, Stacey Jeffery, Christoph Marquardt (chair), Akihisa Tomita, Feihu Xu, Hugo Zbinden
 
-The advisory committee (AC) advises the SC on the long-term direction of the conference series. The AC has at most 10 members covering a broad range of geographical locations and scientific expertise. The advisory committee is regularly informed by the SC about the progress of the conference organization and gives input on future decisions, for instance on invited speakers and sponsorship contributed talks. AC members can be invited speakers, and are allowed to submit and present contributed papers.
-
-
-
-## Student paper prize
-
-Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission and will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. Eligibility can only be indicated at the time of submission. In very exceptional cases, including but not limited to parental leave or visa denial, a submission may still be considered eligible even if it is not presented by the/a student. Such exceptions must be approved by the PC chairs before the start of the conference. The student(s) are responsible for notifying all authors that the paper was nominated for the student prize, and all authors have 14 days following submission to voice any disagreements about the paper’s nomination to the PC chair. The PC chair is free to ask for any clarifications regarding the students’ contributions at any time.
-
-The PC may select a number of eligible submissions for a shortlist. The final decision will be made in discussion with the SC, and the prize will be announced and awarded during the conference.
-
+### Student Paper Prizes
 In some years, there are two winning papers selected, one in theory, one in experiment.
 
 |Edition |Category| Winner |Title|
@@ -100,7 +123,8 @@ In some years, there are two winning papers selected, one in theory, one in expe
 |2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  [video](https://www.youtube.com/watch?v=MFyicCNBmeg)
 
 
-## Best Poster Awards
+
+### Best Poster Awards
 Some editions of QCrypt features best-poster awards, sometimes awarded per poster session.
 
 |Edition | Winner |Winner|
@@ -112,27 +136,6 @@ Some editions of QCrypt features best-poster awards, sometimes awarded per poste
 |2018 Shanghai | Shiyu Wang | Yingqiu Mao
 
 
-
-## History of QCRYPT
-
-QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial members of its steering committee were instrumental in its early development. The members of the steering committee continue to give their time to provide an excellent conference for the community.
-
-
-### Past Steering Committees
-
-| | | |
-|----:|:---|:---|
-|2011 | ETH Zurich | Matthias Christandl (chair), Roger Colbeck, Michele Mosca, Renato Renner, Louis Salvail, Wolfgang Tittel, Stephanie Wehner
-|2012 | CQT Singapore | Matthias Christandl, Roger Colbeck, Michele Mosca, Renato Renner, Louis Salvail, Wolfgang Tittel, Stephanie Wehner (chair)
-|2013 | IQC Waterloo | Matthias Christandl, Roger Colbeck, Michele Mosca (chair), Louis Salvail, Masahide Sasaki, Wolfgang Tittel, Stephanie Wehner
-|2014 | Paris | Matthias Christandl, Roger Colbeck, Eleni Diamanti (chair), Michele Mosca, Louis Salvail, Masahide Sasaki, Wolfgang Tittel, Stephanie Wehner
-|2015 | Tokyo | Matthias Christandl, Roger Colbeck, Eleni Diamanti, Norbert Lütkenhaus, Masahide Sasaki (chair), Christian Schaffner, Wolfgang Tittel , Stephanie Wehner
-|2016 |Washington DC | Eleni Diamanti, Yi-Kai Liu (chair), Norbert Lütkenhaus, Masahide Sasaki, Christian Schaffner, Wolfgang Tittel , Stephanie Wehner
-|2017 |Cambridge | Anne Broadbent, Marcos Curty, Eleni Diamanti, Yi-Kai Liu, Norbert Lütkenhaus, Masahide Sasaki, Christian Schaffner (chair), Qiang Zhang
-|2018 |Shanghai | Anne Broadbent, Marcos Curty, Yi-Kai Liu, Norbert Lütkenhaus, Christian Schaffner, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
-|2019 |Montreal | Anne Broadbent, Marcos Curty (chair), Serge Fehr, Yi-Kai Liu, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang
-|2020 |online from Amsterdam | Gorjan Alagic, Marcos Curty, Serge Fehr, Stacey Jeffery, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
-|2021 |online from Amsterdam | Gorjan Alagic, Marco Lucamarini, Serge Fehr, Stacey Jeffery, Christoph Marquardt (chair), Akihisa Tomita, Feihu Xu, Hugo Zbinden
 
 ### 2021
 <a href="http://2021.qcrypt.net/" title="Website" target="_blank">
