@@ -1,5 +1,5 @@
 ---
-title: QCrypt Charter
+title: QCrypt Charter & History
 
 draft: false
 type: text_page
@@ -64,6 +64,39 @@ Since 2011, QCrypt features a prize for the best student submission. A submissio
 
 The PC may select a number of eligible submissions for a shortlist. The final decision will be made in discussion with the SC, and the prize will be announced and awarded during the conference.
 
+In some years, there are two winning papers selected, one in theory, one in experiment.
+
+|Edition |Category| Winner |Title|
+|:----|:---|:---|:---|:---|
+|2012 Singapore | | Paul Jouguet | Experimental demonstration of continuous-variable quantum key distribution over 80 km of standard telecom fiber | [video](https://video.ethz.ch/conferences/2012/qcrypt/2012-09-14/c0823613-498a-479f-958f-1a41f3fed82c.html)
+|2013 Waterloo | | Tobias Gehring| Realization of Finite-Size Continuous-Variable Quantum Key Distribution based on Einstein-Podolsky-Rosen Entanglement | [video](https://www.youtube.com/watch?v=s2zMUqxFcic) |
+|2014 Paris | | Feihu Xu | Experimental QKD with source flaws and tight finite-key analysis | [video](https://www.youtube.com/watch?v=U6aTtpfbtnE) |
+|2015 Tokyo | | Alexandru Gheorghiu| Robustness and device independence of verifiable blind quantum computing| [video](https://www.youtube.com/watch?v=swCSg1zqerM)
+|2016 Washington | | Rotem Arnon-Friedman | Simple and tight device-independent security proofs | [video](https://www.youtube.com/watch?v=JWEdZ16OyWE)
+|2017 Cambridge | theory | Rotem Arnon-Friedman | Device-independent Randomness Amplification and Privatization | [video](https://www.youtube.com/watch?v=Z2lN-TlLUBE)
+|2017 Cambridge | experiment | Norbert Kalb | Entanglement distillation between solid-state quantum network nodes | [video](https://www.youtube.com/watch?v=cNTks4g5o_g)
+|2018 Shanghai | | Wenyuan Wang | Enabling a Scalable High-Rate Measurement-Device-Independent Quantum Key Distribution Network: theory and experiment | [video](https://www.youtube.com/watch?v=IliLClVH81o)
+|2019 Montréal | theory | Jan Czajkowski | Quantum lazy sampling and game-playing proofs for quantum indifferentiability
+|2019 Montréal | experiment | Mariella Minder |  Experimental Twin Field Quantum Key Distribution beyond the repeaterless secret key capacity bound
+|2019 Montréal | experiment | Mirko Pittaluga | Experimental Twin Field Quantum Key Distribution beyond the repeaterless secret key capacity bound
+|2020 Amsterdam | theory | Jiayu Zhang | Succinct Blind Quantum Computation Using a Random Oracle | [video](https://www.youtube.com/watch?v=xqyOrRyXGPk)
+|2020 Amsterdam | experiment | Fabian Beutel | Broadband Detector-Integrated On-Chip QKD Receiver for GHz Clock Rates | [video](https://www.youtube.com/watch?v=88FqydYnnlg)
+|2021 Amsterdam | theory | Tony Metger | Device-independent protocols from computational assumptions | [video](https://www.youtube.com/watch?v=HcX6OPHYrVY)
+|2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  [video](https://www.youtube.com/watch?v=MFyicCNBmeg)
+
+
+## Best Poster Awards
+Some editions of QCrypt features best-poster awards, sometimes awarded per poster session.
+
+|Edition | Winner |Winner|
+|:----|:---|:---|:---|
+|2013 Waterloo | Rotem Arnon-Friedman | Neil Sinclair
+|2014 Paris | Boris Korzh
+|2015 Tokyo | Mark Kaplan|
+|2017 Cambridge | Lev Vaidman | Cupjin Huang and Yaoyun Shi
+|2018 Shanghai | Shiyu Wang | Yingqiu Mao
+
+
 
 ## History of QCRYPT
 
@@ -84,6 +117,12 @@ QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial 
 |2018 |Shanghai | Anne Broadbent, Marcos Curty, Yi-Kai Liu, Norbert Lütkenhaus, Christian Schaffner, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
 |2019 |Montreal | Anne Broadbent, Marcos Curty (chair), Serge Fehr, Yi-Kai Liu, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang
 |2020 |online from Amsterdam | Gorjan Alagic, Marcos Curty, Serge Fehr, Stacey Jeffery, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
+|2021 |online from Amsterdam | Gorjan Alagic, Marco Lucamarini, Serge Fehr, Stacey Jeffery, Christoph Marquardt (chair), Akihisa Tomita, Feihu Xu, Hugo Zbinden
+
+### 2021
+<a href="http://2021.qcrypt.net/" title="Website" target="_blank">
+	<img src="/images/conferences/2021.png" width="800"/>
+</a>
 
 ### 2020
 <a href="http://2020.qcrypt.net/" title="Website" target="_blank">
