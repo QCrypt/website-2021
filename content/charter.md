@@ -51,6 +51,21 @@ The role of the program committee (PC) is to select the contributed talks. The P
 Talks are reviewed and selected based on scientific excellence. The two PC chairs make final a selection from the scientifically excellent talks to create a balanced and interesting program, encouraging broad participation and representation of topics in QCRYPT.
 
 
+|Edition |PC chair| PC co-chair
+|:----|:---|:---|:---|
+|2011 Zürich | Matthias Christandl
+|2012 Singapore | Patrick Hayden
+|2013 Waterloo | Ivan Damgård
+|2014 Paris | Norbert Lütkenhaus | Gregor Weihs
+|2015 Tokyo | Renato Renner | Richard Hughes
+|2016 Washington | Matthias Christandl | Hugo Zbinden
+|2017 Cambridge | Thomas Vidick | Paolo Villaresi
+|2018 Shanghai | Roger Colbeck | Christoph Marquardt
+|2019 Montréal | Anthony Leverrier | Eleni Diamanti
+|2020 Amsterdam | Frédéric Dupuis | Feihu Xu
+|2021 Amsterdam | Carl Miller | Tobias Gehring
+
+
 
 ## Advisory committee
 
