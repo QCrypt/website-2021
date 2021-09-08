@@ -4,7 +4,7 @@ format: invited
 speakers:
   - pittaluga
 videoId: 9Xg1PcITWR8
-presentation: null
+presentation: "/slides/QCrypt2021InvitedPittaluga.pdf"
 draft: false
 ---
 Abstract: Quantum key distribution (QKD) allows two distant users to establish a common secret string of bits by sending photons across a communication line, often an optical fibre. The photons, however, are scattered by the propagation medium and have only a small probability of reaching the end of the line, which limits the QKD key rate and transmission range. A rigorous theorem limits to 1.44η the number of secure bits delivered by a point-to-point QKD line, with η the channel transmission probability. This limit, known as the ‘repeaterless secret key capacity’ (or PLOB bound), can be overcome only by QKD systems with a secret key rate (SKR) over distance scaling that improves upon the linear regime.
