@@ -5,7 +5,7 @@ speakers:
   - khurana
 videoId: "3DGVkUsxdOY"
 videoTime: 895
-presentation: null
+presentation: "/slides/QCrypt2021InvitedKhurana.pdf"
 draft: false
 ---
 Abstract: The groundbreaking work by Bennett and Brassard on quantum key distribution raised the tantalizing possibility of realizing cryptographic primitives unconditionally with quantum resources. In particular, it opened the possibility of using quantum resources to realize oblivious transfer (OT), a protocol that enables a receiver to obtain exactly one out of two secret bits that a sender owns, without revealing which secret bit is chosen. OT is an important and versatile cryptographic primitive, which in particular enables secure multiparty (quantum) computation (MPC) of any polynomial-time computable function, among many other applications.
