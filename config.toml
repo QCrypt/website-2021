@@ -12,7 +12,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-GoogleAnalytics = "UA-23222525-2"
+GoogleAnalytics = "G-221GMGECQ6"
 
 [params]
     title = "QCrypt 2021"
