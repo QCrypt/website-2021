@@ -55,3 +55,7 @@ nvm install 10.0
 In the same directory, run `npm start` to watch Sass changes.
 
 When you are happy with the result run `npm run build` to build the minified version. Then commit the theme submodule.
+
+### Installing on a new ARM Mac
+node-sass is not yet ported to ARM processors, but there is a work-around described here:
+https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
