@@ -12,7 +12,7 @@ menu:
 
 ### 2021: online conference
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://2022.qcrypt.net">See you at QCrypt 2022!</a>
 
 <!--
 <a class="btn primary btn-lg" href="/schedule">
